@@ -1344,157 +1344,157 @@ translate schinese strings:
 translate schinese Cane_Event_Patron_Show_5518bece:
 
     # "After a hard day of working at the tavern, you walk over to the counter to get your pay."
-    ""
+    "忙活完半天，你走去吧台找老板领取应得的报酬。"
 
 translate schinese Cane_Event_Patron_Show_f617c069:
 
     # "As Cane hands you the gold, he stops you for a moment."
-    ""
+    "凯恩如约将金币递给你。正当你准备离开时，他突然叫住了你。"
 
 translate schinese Cane_Event_Patron_Show_516ca083:
 
     # c "Wait- care for a proposal, lad?"
-    c ""
+    c "等等——小崽，我有个主意你感不感兴趣？"
 
 translate schinese Cane_Event_Patron_Show_95bcf042:
 
     # e "What is it, Cane?"
-    e ""
+    e "什么主意？"
 
 translate schinese Cane_Event_Patron_Show_e90c070a:
 
     # c "Let's say... Yer service at the tavern has drawn quite a bit of attention."
-    c ""
+    c "这么说吧……你在夜夜椿的人气水涨船高啊。"
 
 translate schinese Cane_Event_Patron_Show_b0638855:
 
     # c "I've gotten a lotta requests... for a private show."
-    c ""
+    c "很多老主顾问我……你提不提供私人服务。"
 
 translate schinese Cane_Event_Patron_Show_c4cf029f:
 
     # e "Private show? What does that mean?"
-    e ""
+    e "私人服务？是做什么的？"
 
 translate schinese Cane_Event_Patron_Show_d8315c4a:
 
     # c "It means yer gonna put that body to use and spend some quality time with patrons who have ya ass reserved... for their enjoyment."
-    c ""
+    c "就是利用老天给你的这副好皮囊，全心全意取悦那些……专门预定你后门的人。"
 
 translate schinese Cane_Event_Patron_Show_d766802a:
 
     # "The idea makes your face blush cherry red."
-    ""
+    "你的脸一下子红了。"
 
 translate schinese Cane_Event_Patron_Show_fb111845:
 
     # e "H-huh? But... Why would I do that?"
-    e ""
+    e "呃、呃？但我为什么要提供那样的服务呢？"
 
 translate schinese Cane_Event_Patron_Show_dec9f2ac:
 
     # c "Money?"
-    c ""
+    c "为了金币？"
 
 translate schinese Cane_Event_Patron_Show_7d400763:
 
     # c "...And ah get the feelin' that yed have a good time doin' it."
-    c ""
+    c "……而且享受的人不只有顾客。"
 
 translate schinese Cane_Event_Patron_Show_b3514972:
 
     # "Cane gives you a wink, and purposefully looks down at crotch"
-    ""
+    "凯恩朝你抛了个媚眼，而后特地瞄向你的裆部。"
 
 translate schinese Cane_Event_Patron_Show_bc802a52:
 
     # c "Don't think I can't see mah special lad perkin' up at the idea down there."
-    c ""
+    c "还是二弟实在，一听到就抬头，甭以为我看不出。"
 
 translate schinese Cane_Event_Patron_Show_cab05363:
 
     # "If you were cherry red before, now you've somehow hit a shade of red brighter than a raspberry."
-    ""
+    "现在你脸红得同熟透的山莓不相上下。"
 
 translate schinese Cane_Event_Patron_Show_3a554196:
 
     # c "Cute as it is to watch ye flounder all embarrassed like, I do got to get back to work at some point."
-    c ""
+    c "小龙崽害臊的样子真叫人百看不厌，但再看下去没伙计干活哩。"
 
 translate schinese Cane_Event_Patron_Show_1f6a82a9:
 
     # c "These goons're gonna be payin' extra to spend some quality alone time with my tavern's star server."
-    c ""
+    c "说回那群老酒鬼，能用金钱与夜夜椿明星店小二独处一晚，他们巴不得。"
 
 translate schinese Cane_Event_Patron_Show_a2ea2729:
 
     # e "W-would people really pay for that?"
-    e ""
+    e "真的会有人为这种事情花钱吗？"
 
 translate schinese Cane_Event_Patron_Show_4dec8e3a:
 
     # "Cane gives you a skeptical look, only to grin devilishly when he realizes you're being genuine."
-    ""
+    "凯恩开始一副狐疑的神色，发现你是真心诚意地发问，便露出了恶魔般的笑容。"
 
 translate schinese Cane_Event_Patron_Show_3206b9ff:
 
     # c "My lad, ya have no idea how many people in this here tavern want a piece of ya."
-    c ""
+    c "乖乖，这家酒馆不知多少人想尝一口你的味道。"
 
 translate schinese Cane_Event_Patron_Show_6cdba73c:
 
     # "You are too shy to respond."
-    ""
+    "你羞涩得说不出话。"
 
 translate schinese Cane_Event_Patron_Show_605821f2:
 
     # c "Anyway, I know this is a lil' sudden. Why don't ya go and sleep on it? No pressure."
-    c ""
+    c "我知道这有点突然。不如先回去好好考虑一下，别感觉有压力。"
 
 translate schinese Cane_Event_Patron_Show_c93dad57:
 
     # c "Just talk to me... if ya tight on money, or wanna have a good time."
-    c ""
+    c "哪天你手头紧或者想找点乐子……记得来找我。"
 
 translate schinese Cane_Event_Patron_Show_12bbaf7f:
 
     # e "I- Uh... I'll think about it..."
-    e ""
+    e "我呃——我会想一想的……"
 
 translate schinese Cane_Event_Patron_Show_0072c632:
 
     # c "Think on it, my lad. I wouldn't hold a grudge... It's yer choice, and I won't push ya either way."
-    c ""
+    c "慢慢来，答不答应是你的自由，我不会勉强也不会催你。"
 
 translate schinese Cane_Event_Patron_Show_25e10c77:
 
     # c "Yer my special lad, I owe ye at least that much."
-    c ""
+    c "你可是我的独门棒小伙，最起码这方面要做到位。"
 
 translate schinese Cane_Event_Patron_Show_62df6135:
 
     # c "But do make sure yer ready if ye say yes."
-    c ""
+    c "不过假如答应了，一定要提前做好身体和心理的准备。"
 
 translate schinese Cane_Event_Patron_Show_74b6cd0d:
 
     # c "Because once you've taken their money, the patron'd be yer king... mmhmm..."
-    c ""
+    c "一旦收下顾客的金币，后续做主的可就是他们……嗯……"
 
 translate schinese Cane_Event_Patron_Show_ed31745b:
 
     # "Suddenly, Cane walks out from behind the counter, and gets up behind you, making sure to look you in the eyes, continuing only when he sees your approval."
-    ""
+    "凯恩走出吧台绕到你背后，直视着你转过来的双眼。"
 
 translate schinese Cane_Event_Patron_Show_b080ab2b:
 
     # "He grasps your hips lightly before brushing his hands up your side and whispering in your ear."
-    ""
+    "得到默许后，他两手轻轻抓住你的臀部，再滑到腰间，低声在你耳边说："
 
 translate schinese Cane_Event_Patron_Show_8231776a:
 
     # c "Let 'em have the time o' their life with me sexy lad."
-    c ""
+    c "让这群土包子见识见识什么才叫销魂，小魅魔。"
 
 translate schinese Cane_Private_Show_Quest_Accept_02bce3f8:
 
