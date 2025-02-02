@@ -2569,22 +2569,22 @@ translate schinese Scene_Tavern_Meet_01_8054490c:
 translate schinese Scene_Tavern_Meet_02_556c7193:
 
     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg "本场景尚未完成更新。主人公的设计与目前版本不同。"
+    $ renpy.notify("该场景文本未与画面同步更新")
 
 translate schinese Scene_Tavern_Meet_02_31b5b0f1:
 
     # "You walk into the backroom."
-    "你走入了密室。"
+    "你走入包间，里面出奇的昏暗和安静。"
 
 translate schinese Scene_Tavern_Meet_02_e2810258:
 
     # "The place is surprisingly dim and quiet."
-    "里面出人意料的宁静而昏暗。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_44800daf:
 
     # "Cane said that you have a patron inside but there's no one that you can see."
-    "凯恩说过有个你的顾客已经进来了，但你什么人都看不到。"
+    "凯恩说客人已经进来了，但你一个人影都没见着。"
 
 translate schinese Scene_Tavern_Meet_02_cfa41d7f:
 
@@ -2594,82 +2594,82 @@ translate schinese Scene_Tavern_Meet_02_cfa41d7f:
 translate schinese Scene_Tavern_Meet_02_8b2ee2f9:
 
     # "You call out into the emptiness."
-    "你对着空气喊道。"
+    "你对着空荡荡的房间喊了一声，而后角落传来衣物摩擦的声响。"
 
 translate schinese Scene_Tavern_Meet_02_c973a084:
 
     # "You hear a rustling at the corner."
-    "你听到角落里传来了响声。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_6f104b1d:
 
     # "Intrigued, you walk over. There are two patrons curled up at the corner."
-    "你被勾起了兴趣，朝那里走去。两位顾客正蜷缩在角落里。"
+    "你循声走去，发现柜底竟然藏着两个人。"
 
 translate schinese Scene_Tavern_Meet_02_d14f4c16:
 
     # "You are confused."
-    "你很困惑。"
+    "你不明白。"
 
 translate schinese Scene_Tavern_Meet_02_dd03fb15:
 
     # e "What are you two doing here?"
-    e "二位在这里做什么呢？"
+    e "你们在这里做什么？"
 
 translate schinese Scene_Tavern_Meet_02_8d9da5f6:
 
     # patron "We..."
-    patron "我俩……"
+    patron "我们……"
 
 translate schinese Scene_Tavern_Meet_02_3ce22b05:
 
     # patron2 "We paid for your time..."
-    patron2 "我俩买过你的时长了……"
+    patron2 "我们付过钱了……"
 
 translate schinese Scene_Tavern_Meet_02_b0e72320:
 
     # e "You frown."
-    e "你皱起眉头。"
+    "你皱起眉头。"
 
 translate schinese Scene_Tavern_Meet_02_367a64d3:
 
     # e "Can you two please come out and stand up so we can talk properly?"
-    e "能否请二位站起身来，让我们好好说话？"
+    e "能请你们站出来好好说话吗？"
 
 translate schinese Scene_Tavern_Meet_02_6108a4e2:
 
     # "The two looks at each other and eventually nods. They crawl out of their hiding space."
-    "两人看向彼此，最终点点头。然后他们从躲藏的地方爬了出来。"
+    "他们看向彼此，点点头从柜底爬了出来。"
 
 translate schinese Scene_Tavern_Meet_02_9351f59f:
 
     # "You finally got a good look at them. They are quite young. When standing up, their heads reach over your shoulders."
-    "你终于可以仔细观察他们了。两人都挺年轻。站起后二人的脑袋高度也刚到你的肩膀。"
+    "你终于得以看清他们的样子。这两人年纪不大，站起来时头顶只到你肩膀。"
 
 translate schinese Scene_Tavern_Meet_02_f6790fce:
 
     # "They fidget under your gaze."
-    "在你的注视下，两人颇不自在。"
+    "你的注视让他们有些紧张。"
 
 translate schinese Scene_Tavern_Meet_02_09755f57:
 
     # e "Two questions."
-    e "两个问题。"
+    e "回到我两个问题。"
 
 translate schinese Scene_Tavern_Meet_02_72488508:
 
     # e "One, how did you get in here?"
-    e "首先，你们怎么进来的？"
+    e "一，你们是怎么进来的？"
 
 translate schinese Scene_Tavern_Meet_02_78b23dde:
 
     # e "Two, why are there two of you when I was notified that there is only one of you?"
-    e "其次，为何我被告知只有一个人但现在有俩？"
+    e "二，为什么这里有两个人？老板说进来的只有一个人。"
 
 translate schinese Scene_Tavern_Meet_02_b347976e:
 
     # patron "We adore you very much, but we can't afford you for the both of us so we hatched up this plan."
-    patron "我们非常喜欢你，但我们付不起双份的钱，所以就想了这个法子。"
+    patron "我和我朋友都很喜欢你，但我们俩的钱加起来也不够付。所以就想了这个法子。"
 
 translate schinese Scene_Tavern_Meet_02_53eca3b6:
 
@@ -2679,92 +2679,92 @@ translate schinese Scene_Tavern_Meet_02_53eca3b6:
 translate schinese Scene_Tavern_Meet_02_b33d662d:
 
     # e "You're still not answering me."
-    e "你们没回答我的问题。"
+    e "你们还没回答我的问题。"
 
 translate schinese Scene_Tavern_Meet_02_3f8d02f6:
 
     # patron "I paid the barkeep, who slapped me on my ass and told me that I'm in good hands."
-    patron "我给酒吧老板付钱了，他还拍了下我的屁股说我发育得不错。"
+    patron "我给老板付钱了，他还拍了一下我的屁股说“好好享受吧”。"
 
 translate schinese Scene_Tavern_Meet_02_d4ae4701:
 
     # "When the teen says that, his face is blushing innocently."
-    "当那个少年开口时，他的脸傻傻地红透了。"
+    "少年说着说着脸渐渐羞得通红。"
 
 translate schinese Scene_Tavern_Meet_02_19aec69d:
 
     # patron "After I got in here, I opened the window."
-    patron "当我进来后，我就打开了窗户。"
+    patron "我进来之后打开了那边的窗户。"
 
 translate schinese Scene_Tavern_Meet_02_c6ef2cea:
 
     # "He points to the window in the backroom."
-    "他指向了密室的窗户。"
+    "他指着旁边的窗户。"
 
 translate schinese Scene_Tavern_Meet_02_83cdc9f7:
 
     # patron2 "The window could only be opened from the inside. So when my friend got the window open, I snuck in."
-    patron2 "因为窗户只能从里面打开，所以只能让我朋友开窗，我再钻进来。"
+    patron2 "窗户只能从里面打开，所以得先他打开窗户我才能钻进来。"
 
 translate schinese Scene_Tavern_Meet_02_51d11fd7:
 
     # patron2 "Then we heard you coming."
-    patron2 "接着我们就听到你过来了。"
+    patron2 "我钻进来之后，就听到有人过来了。"
 
 translate schinese Scene_Tavern_Meet_02_1ee85040:
 
     # patron "We were flustered and just found a place to hide."
-    patron "我们一下子慌了，赶紧找了个地方藏起来。"
+    patron "我们一下子慌了，于是赶紧找了个地方躲起来。"
 
 translate schinese Scene_Tavern_Meet_02_c6da6beb:
 
     # "You tap your feet. The two squirm."
-    "你脚尖轻叩地面，让他俩一激灵。"
+    "你不耐烦地跺跺脚尖，两人显得更紧张了。"
 
 translate schinese Scene_Tavern_Meet_02_ed16293a:
 
     # e "This is against the rules. I won't work two for the price of one."
-    e "这可违反了规则。我不会只拿一人的钱而服务两人。"
+    e "规矩就是规矩，收一个人的钱干两个人的活，我干不来。"
 
 translate schinese Scene_Tavern_Meet_02_e0691ec4:
 
     # "You turn and walk away."
-    "你转身准备离开。"
+    "你转身要走。"
 
 translate schinese Scene_Tavern_Meet_02_011c7329:
 
     # patron "Wait. We will make it worth your time."
-    patron "等等。我们会让你的时间物有所值的。"
+    patron "等等。我们会让你觉得很值的。"
 
 translate schinese Scene_Tavern_Meet_02_88a77a29:
 
     # patron2 "We'll do anything you want."
-    patron2 "我们会满足你所有的要求。"
+    patron2 "你想让我们做什么都行。"
 
 translate schinese Scene_Tavern_Meet_02_2451fdf9:
 
     # "You halt. You turn around with a mischievous smile."
-    "你踌躇片刻，再次转身，露出了玩味的笑容。"
+    "你停下脚步，转身露出不怀好意的笑容。"
 
 translate schinese Scene_Tavern_Meet_02_55414e18:
 
     # e "Anything I want?"
-    e "任何要求？"
+    e "做什么都行？"
 
 translate schinese Scene_Tavern_Meet_02_3810c328:
 
     # "The two nods with shyness and eagerness."
-    "两人害羞而渴望地点点头。"
+    "两人害羞又着急地点了点头。"
 
 translate schinese Scene_Tavern_Meet_02_31b5b0f1_1:
 
     # "You walk into the backroom."
-    "你重新走入密室。"
+    "你走入包间，凯恩说客人已经进来了，但你一个人影都没见着。"
 
 translate schinese Scene_Tavern_Meet_02_44800daf_1:
 
     # "Cane said that you have a patron inside but there's no one that you can see."
-    "凯恩说过有个你的顾客已经进来了，但你什么人都看不到。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_cfa41d7f_1:
 
@@ -2774,17 +2774,17 @@ translate schinese Scene_Tavern_Meet_02_cfa41d7f_1:
 translate schinese Scene_Tavern_Meet_02_8b2ee2f9_1:
 
     # "You call out into the emptiness."
-    "你对着空气喊道。"
+    "你对着空荡荡的房间叫唤，角落传来一阵窸窸窣窣的声音。"
 
 translate schinese Scene_Tavern_Meet_02_c973a084_1:
 
     # "You hear a rustling at the corner."
-    "你听到角落里传来了响声。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_e5806386:
 
     # "There are two patrons curled up at the corner."
-    "两位顾客正蜷缩在角落里。"
+    "两个少年正蜷缩在角落里。"
 
 translate schinese Scene_Tavern_Meet_02_1d44809a:
 
@@ -2794,72 +2794,72 @@ translate schinese Scene_Tavern_Meet_02_1d44809a:
 translate schinese Scene_Tavern_Meet_02_90014c57:
 
     # "Then, you remembered your last encounter of something similar."
-    "很快，你回忆起了上次遇到过相似的情况。"
+    "很快，你回忆起了上次的经历。"
 
 translate schinese Scene_Tavern_Meet_02_65cc9375:
 
     # e "It looks like the news of people cheating the system has spread."
-    e "看样子有人浑水摸鱼的消息已经传开了。"
+    e "看来钻空子的方法传开了。"
 
 translate schinese Scene_Tavern_Meet_02_9e57438d:
 
     # "The two look at you nervously and with anticipation."
-    "两个人紧张而期待地看向你。"
+    "两人紧张又期待地看着你。"
 
 translate schinese Scene_Tavern_Meet_02_c5f7482e:
 
     # e "You two want the same experience?"
-    e "你们是想要一样的服务吗？"
+    e "你们也想要一样的服务吗？"
 
 translate schinese Scene_Tavern_Meet_02_a7f3271a:
 
     # "The two nod eagerly."
-    "他俩渴望地点点头。"
+    "他们渴望地点头。"
 
 translate schinese Scene_Tavern_Meet_02_3410fd41:
 
     # e "Alright. Strip."
-    e "行，脱。"
+    e "行吧，脱衣服。"
 
 translate schinese Scene_Tavern_Meet_02_3641d0aa:
 
     # "The two are stunned for a moment as if not expecting your order."
-    "两人僵了一会儿，仿佛没料到你会这么命令。"
+    "两人愣了一会，似乎没想到你会这么直接。"
 
 translate schinese Scene_Tavern_Meet_02_d3f9ef02:
 
     # e "Do you want me to leave and report you?"
-    e "你俩是想让我出去举报吗？"
+    e "你们是想我走人顺带举报吗？"
 
 translate schinese Scene_Tavern_Meet_02_2ef1a0cf:
 
     # "That snaps them into attention. They shrug out of their clothes."
-    "他俩猛地清醒了过来，然后迅速扒下了衣物。"
+    "这话让他们立刻回过神来，连忙把自己扒得一丝不挂。"
 
 translate schinese Scene_Tavern_Meet_02_0b2aff6f:
 
     # "Their bodies are epitomes of youthfulness. Not one bit of fat is in sight."
-    "他们的身体是典型的青春肉体。看不到一丁点赘肉。"
+    "两副年轻身躯充满了青春的活力，看不到一丁点赘肉。"
 
 translate schinese Scene_Tavern_Meet_02_8bad6aca:
 
     # "They are not overly muscular but their bodies are tight and compact."
-    "虽然两人肌肉都没有过度发达，但也很结实且健壮。"
+    "他们的肌肉维度并不大，但却十分紧实，线条分明。"
 
 translate schinese Scene_Tavern_Meet_02_661f12c8:
 
     # "They are rather shy being naked with each other."
-    "赤裸相见使他们更羞涩了。"
+    "赤裸相见让他们更不好意思了。"
 
 translate schinese Scene_Tavern_Meet_02_eac9dd0f:
 
     # "You walk over in only your boxers."
-    "你只身走过去，仅有一件四角裤在身上。"
+    "你走向他们，只穿着一条四角裤。"
 
 translate schinese Scene_Tavern_Meet_02_ad1d24ca:
 
     # "The two gulp as you approach."
-    "你的靠近使他们呼吸开始困难。"
+    "两人咽了咽口水，看着心仪的男人朝自己靠近。"
 
 translate schinese Scene_Tavern_Meet_02_7763dc04:
 
@@ -2869,82 +2869,82 @@ translate schinese Scene_Tavern_Meet_02_7763dc04:
 translate schinese Scene_Tavern_Meet_02_a78535aa:
 
     # "The two slowly get down on their knees. One on each side."
-    "两人缓慢地跪在了地上，一人一边。"
+    "大男孩们先后慢慢跪到了地上，一边一个。"
 
 translate schinese Scene_Tavern_Meet_02_6f13face:
 
     # "You pull down your boxer. Your semi-hard dick springs out."
-    "你脱下了四角裤，半硬的鸡巴弹了出来。"
+    "你脱下内裤弹出半硬的鸡巴，欣赏他们惊奇又向往的表情。"
 
 translate schinese Scene_Tavern_Meet_02_717c8037:
 
     # "You see them take a visible gulp."
-    "你能看见他们明显吸了口气。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_e70fe8d9:
 
     # e "You two have a lot of work to do."
-    e "你们有很多任务要做。"
+    e "说好做什么都行的啊。"
 
 translate schinese Scene_Tavern_Meet_02_067d9615:
 
     # patron "...Okay."
-    patron "……好吧。"
+    patron "……对。"
 
 translate schinese Scene_Tavern_Meet_02_db859ad7:
 
     # e "Now, lick."
-    e "现在，来舔。"
+    e "舔吧。"
 
 translate schinese Scene_Tavern_Meet_02_93d8d139:
 
     # "They look at you with confusion."
-    "他俩困惑的看向了你。"
+    "他们迷茫地看着你。"
 
 translate schinese Scene_Tavern_Meet_02_59f3b491:
 
     # "You glance down at your dick."
-    "你低头，看向你的鸡巴。"
+    "你低头看着自己的老二垂在两个稚嫩的面孔前。"
 
 translate schinese Scene_Tavern_Meet_02_668b7506:
 
     # e "Get it hard."
-    e "弄硬它。"
+    e "给我舔硬。"
 
 translate schinese Scene_Tavern_Meet_02_3a919973:
 
     # "They slowly approach."
-    "他俩慢慢靠了过来。"
+    "一左一右迟疑地将脸贴过去，显然两人都没有什么经验。"
 
 translate schinese Scene_Tavern_Meet_02_b5bcd6dd:
 
     # "It's clear that they are inexperienced."
-    "显然，他们都没有经验。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_239c92a8:
 
     # "One of them takes a sniff of your dick. His warm breath tickles you."
-    "一个首先闻了下你的阴茎。他温热的气息让你感觉很痒。"
+    "其中一个试探地闻了闻鸡巴根，温热的气息让你有点发痒。"
 
 translate schinese Scene_Tavern_Meet_02_8c46966a:
 
     # "The other takes more of an initiative. He uses his tongue to lightly touch the side of your cock."
-    "另一个则更加主动。他伸出舌头，轻轻地触碰着你鸡巴的侧面。"
+    "另一个稍微主动些。他伸出舌头，蜻蜓点水般碰了碰茎身。"
 
 translate schinese Scene_Tavern_Meet_02_c8344b6f:
 
     # "Other than a tingling effect, you do not feel much."
-    "你仅能感受到一种挠痒的感觉。"
+    "除了有点痒，你没有半点其他感觉。"
 
 translate schinese Scene_Tavern_Meet_02_2843b19c:
 
     # "If anything, you notice that the two begin to have a hard-on of their own."
-    "要说的话，你发现他俩自己已经开始变硬了。"
+    "倒是他俩开始硬了起来。"
 
 translate schinese Scene_Tavern_Meet_02_12b59bdc:
 
     # "Their hands subconsciously move to nurse their own boners."
-    "两人的手不由自主地伸向了自己的勃起。"
+    "他们的手不自觉地摸向各自的勃起。"
 
 translate schinese Scene_Tavern_Meet_02_ce868808:
 
@@ -2954,47 +2954,47 @@ translate schinese Scene_Tavern_Meet_02_ce868808:
 translate schinese Scene_Tavern_Meet_02_c69de982:
 
     # "The two immediately freeze. Their boners pointing at each other."
-    "他俩一下子停住了。两人的坚挺互相指向对方。"
+    "两个少年吓得立刻僵住，坚挺的肉棒互相指着对方。"
 
 translate schinese Scene_Tavern_Meet_02_609e7552:
 
     # e "Get moving."
-    e "继续。"
+    e "继续舔。"
 
 translate schinese Scene_Tavern_Meet_02_6d1fdabf:
 
     # "The two move to lick your cock. It's like they are licking a lollipop or something."
-    "他们开始舔你的鸡巴。仿佛是两人舔一根棒棒糖或是什么的。"
+    "他们总算开始舔起你的鸡巴，动作像在舔棒棒糖。"
 
 translate schinese Scene_Tavern_Meet_02_697b6d1f:
 
     # "Despite their inexperience, your cock is getting harder. In a way, their innocence is quite charming."
-    "虽然很不熟练，但你鸡巴还是硬了起来。某种程度上，他俩的青涩也很有魅力。"
+    "尽管他们没什么经验，但你还是渐渐硬了。这种青涩反倒别有韵味。"
 
 translate schinese Scene_Tavern_Meet_02_a5965dce:
 
     # "Watching them fumble over what to do with your cock is arousing the tease inside you."
-    "看着他俩笨手笨脚地服侍你的鸡巴让你感到十分愉悦。"
+    "你看着他们笨拙地摆弄你那活儿，心里的恶趣味被勾了出来。"
 
 translate schinese Scene_Tavern_Meet_02_7e03b964:
 
     # "You decide to take matters into your own hand."
-    "你决定自己动手逗逗他们。"
+    "你决定亲自给他们上堂课。"
 
 translate schinese Scene_Tavern_Meet_02_68003ae1:
 
     # e "Stop. It's time for individual lesson."
-    e "停。现在是一对一课程。"
+    e "停。现在是一对一教学。"
 
 translate schinese Scene_Tavern_Meet_02_3fdc9398:
 
     # "The two lean back. Before they have the chance to rest, you grab one of them and pose your dick before his face."
-    "两人向后靠去。还没来得及休息，你便抓住一个人，并将鸡巴戳到了他的脸上。"
+    "两人向后靠去。不待他们喘口气，你便抓住其中一个，把鸡巴戳到他脸上。"
 
 translate schinese Scene_Tavern_Meet_02_74acb8b5:
 
     # "His eyes are drawn to your cock automatically like he's hypnotized by it."
-    "他像是被鸡巴催眠了一样，目光自动转了过去。"
+    "他直愣愣地盯着你的鸡巴，仿佛被催眠了一样。"
 
 translate schinese Scene_Tavern_Meet_02_309a8549:
 
@@ -3009,97 +3009,97 @@ translate schinese Scene_Tavern_Meet_02_73f1a5c1:
 translate schinese Scene_Tavern_Meet_02_82b940df:
 
     # e "Open your mouth and suck it. You know you want to."
-    e "张开嘴，吸它。你知道你想要这样的。"
+    e "张嘴，含住。你知道你想要极了。"
 
 translate schinese Scene_Tavern_Meet_02_6a6e9bbe:
 
     # "He blushes and eases his lips open."
-    "他脸一下子红了，然后张开了嘴。"
+    "他红着脸，木讷地张开嘴含住了肉棒。"
 
 translate schinese Scene_Tavern_Meet_02_f0a8a54f:
 
     # "He takes in your cock. The warmth of his throat makes your cock pulse slightly."
-    "他吞下了你的鸡巴。喉咙的温热使你的鸡巴开始微微胀动。"
+    "他一点一点地往里吞，喉咙的温热让你的鸡巴微微胀动。"
 
 translate schinese Scene_Tavern_Meet_02_c687194b:
 
     # "However, he stops when he has only taken barely half of your shaft."
-    "但是，他只吞下了将将一半的长度就停下了。"
+    "但他只含住一半就停了下来。"
 
 translate schinese Scene_Tavern_Meet_02_baec600f:
 
     # "He gurgles."
-    "他喉咙发出一阵咕噜声。"
+    "他咕噜着说："
 
 translate schinese Scene_Tavern_Meet_02_361f5a0a:
 
     # patron "It can't go any... further."
-    patron "已经……没法再深了。"
+    patron "吞……吞不动了。"
 
 translate schinese Scene_Tavern_Meet_02_c16eb7e3:
 
     # e "Yes, it can."
-    e "不，有办法。"
+    e "吞得动。"
 
 translate schinese Scene_Tavern_Meet_02_cb58f735:
 
     # "You can feel the inside of his mouth move as he tries to accommodate your cock. However, he has made no actual progress."
-    "你可以感受到他嘴巴内部的移动，那是他在试图适应你的鸡巴。但是，他没取得实质性的进展。"
+    "你能感觉到他的喉咙在努力适应你的肉棒，但也就仅仅是适应而已。"
 
 translate schinese Scene_Tavern_Meet_02_0b52e5de:
 
     # e "Let me help you then."
-    e "那就让我来帮你吧。"
+    e "还是我来帮你吧。"
 
 translate schinese Scene_Tavern_Meet_02_95a100a0:
 
     # "You are quite annoyed that he has given up so soon when he has promised to do anything you demand."
-    "他在承诺过会遵循你一切要求后又迅速地放弃让你非常不爽。"
+    "你有点恼火，他这么快就放弃继续往下吞了，明明刚才还答应什么都听你的。"
 
 translate schinese Scene_Tavern_Meet_02_d4c5c0a8:
 
     # "You are determined to make him live up to his promise."
-    "你下定决心让他履行诺言。"
+    "你决心命他兑现诺言，于是你伸手捏住了他的鼻子。"
 
 translate schinese Scene_Tavern_Meet_02_d1c23913:
 
     # "You reach down and squeeze his nostrils."
-    "你伸手去捏住他的鼻孔。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_92bb74be:
 
     # patron "Hmph..."
-    patron "嗯……"
+    patron "唔……"
 
 translate schinese Scene_Tavern_Meet_02_f3b0f3c1:
 
     # "As he struggles to breathe, his throat opens up as he needs it as an air channel."
-    "他挣扎着想要呼吸，只得打开喉咙当做空气进口。"
+    "他挣扎着想要呼吸，只得张大喉咙打开气道。"
 
 translate schinese Scene_Tavern_Meet_02_182134ed:
 
     # "Using this opportunity, you pushes your hard dick deeper down his throat."
-    "借此机会，你将你坚硬的鸡巴继续插入到他的喉咙中。"
+    "你趁机把硬挺的那活儿捅进更深处。"
 
 translate schinese Scene_Tavern_Meet_02_34e8ade5:
 
     # "He coughs as you invade his mouth with your hard-on. Saliva sputters out of his mouth, slicking your cock."
-    "你坚挺的侵入把他呛住了。口水从他的嘴中喷出，润湿了你的鸡巴。"
+    "大男孩被呛得眼泪汪汪，过量分泌的唾液浸润了你的鸡巴。"
 
 translate schinese Scene_Tavern_Meet_02_3d6c226a:
 
     # e "Now, we're making progress."
-    e "好了，现在我们有进步了。"
+    e "很好，进步很大。"
 
 translate schinese Scene_Tavern_Meet_02_ea33d16e:
 
     # "You look down and see that the teen's cock is already leaking precum. Perhaps this is a turn-on for him."
-    "你低头看见这少年的鸡巴已经在分泌前列腺液了。也许这使他兴奋了起来。"
+    "你低头看去，他已经流了不少前液。或许这种强制正中他的性癖。"
 
 translate schinese Scene_Tavern_Meet_02_4b712e27:
 
     # "Or he just like feasting on your cock."
-    "或是他只是喜欢享用你的鸡巴。"
+    "又或许他只是喜欢享用你的大鸡巴。"
 
 translate schinese Scene_Tavern_Meet_02_a47ade65:
 
@@ -3109,22 +3109,22 @@ translate schinese Scene_Tavern_Meet_02_a47ade65:
 translate schinese Scene_Tavern_Meet_02_66aacb09:
 
     # "You see his eyes start to roll. You release the pinch on his nose. He gasps for air and chokes on the giant penis in his mouth."
-    "你看到他开始翻白眼了。你松开了他的鼻子，他猛地吸了几口气，然后被嘴里的大鸡巴顶到窒息了。"
+    "你看他开始翻白眼，便松开了手。他大口用鼻子吸着气，喉咙依然被粗长的肉棒贯穿着。"
 
 translate schinese Scene_Tavern_Meet_02_56a250cf:
 
     # "You pulls your cock out. As it slides out, it dirties the young man's chin with your pre-cum and his saliva."
-    "你将鸡巴拔了出来。随着它的滑出，这个年轻男子的下巴被你的前列腺液和他的口水弄得一团糟。"
+    "你拔出肉棒。前液混杂口水糊满了他的嘴，顺着下巴滴落。"
 
 translate schinese Scene_Tavern_Meet_02_18e37ef4:
 
     # "The young man falls to the ground panting."
-    "他倒在地上，穿着粗气。"
+    "他倒在地上，喘着粗气。"
 
 translate schinese Scene_Tavern_Meet_02_7b520b03:
 
     # e "Are you alright? Do you like your private lesson?"
-    e "还好吧？喜欢你的私教课吗？"
+    e "受得了吧？喜欢我教的吗？"
 
 translate schinese Scene_Tavern_Meet_02_c39dd23d:
 
@@ -3134,52 +3134,52 @@ translate schinese Scene_Tavern_Meet_02_c39dd23d:
 translate schinese Scene_Tavern_Meet_02_adc3e2cf:
 
     # "He nods."
-    "他点点头。"
+    "他点头。"
 
 translate schinese Scene_Tavern_Meet_02_2925d86e:
 
     # "You turn to the second young man."
-    "你转向了第二个男青年。"
+    "你转向另一个少年。"
 
 translate schinese Scene_Tavern_Meet_02_4e588ec3:
 
     # e "You ready for your lesson?"
-    e "你准备好上课了吗？"
+    e "你呢？准备好了吗？"
 
 translate schinese Scene_Tavern_Meet_02_4c944557:
 
     # "He nods along with your dick."
-    "他伴着你的鸡巴一起点着头。"
+    "他点了点头，目不转睛地盯着你的鸡巴，颇为轻松地吞入了一半。"
 
 translate schinese Scene_Tavern_Meet_02_7bf69446:
 
     # "He probably has learned something from watching his friend."
-    "也许看他朋友的经历足以让他学到一些了。"
+    "他大概从刚才的观摩中学到了点东西。"
 
 translate schinese Scene_Tavern_Meet_02_8a0e4db5:
 
     # "He gulps down half of your shaft quite easily."
-    "他颇为轻松地吞入了你肉棒的一半。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_5aef07ed:
 
     # "However, there is still a way to go for him to take on your whole shaft."
-    "但是，距离他吞下你整根肉棒还差得很远。"
+    "但离吃下整根还差得远呢。"
 
 translate schinese Scene_Tavern_Meet_02_f8e7b7e4:
 
     # "You can feel him try to swallow more of your cock but he's at his limit."
-    "你可以感到他在努力吞下更多，但已经达到了极限。"
+    "你可以感觉出他在努力往下吞，但已经达到了他自己能达到的极限。"
 
 translate schinese Scene_Tavern_Meet_02_3650b301:
 
     # e "Do you want to take my whole cock?"
-    e "你想吃下我整根鸡巴吗？"
+    e "想全部吞进去吗？"
 
 translate schinese Scene_Tavern_Meet_02_412b5a59:
 
     # "The young man nods with your dick inside his mouth."
-    "男青年嘴里喊着你的鸡巴点着头。"
+    "少年嘴唇包着你的肉棒，肯定地点头。"
 
 translate schinese Scene_Tavern_Meet_02_caaa6f6f:
 
@@ -3189,62 +3189,62 @@ translate schinese Scene_Tavern_Meet_02_caaa6f6f:
 translate schinese Scene_Tavern_Meet_02_860158ff:
 
     # e "I knew it. Get ready then!"
-    e "我就知道。那就做好准备！"
+    e "我早看出来了。准备好！"
 
 translate schinese Scene_Tavern_Meet_02_72ac04b1:
 
     # "You grab the back of the young man's head. You shove your cock mercilessly down his throat."
-    "你抓住男孩的后脑勺，毫不留情地把鸡巴全部插进了他的嗓子。"
+    "你扳住他的后脑勺，毫不留情地用力将鸡巴操进他的嗓子。"
 
 translate schinese Scene_Tavern_Meet_02_22591717:
 
     # "He involuntarily chokes."
-    "他不自觉地屏住了呼吸。"
+    "他被迫尝到窒息的滋味。"
 
 translate schinese Scene_Tavern_Meet_02_e5c519f1:
 
     # "However, you do not relent."
-    "但是你并没有缓和。"
+    "但你没有停下。"
 
 translate schinese Scene_Tavern_Meet_02_4391aae0:
 
     # "Even as saliva leaks out of the corner of his lips, you do not stop."
-    "哪怕是口水从他的嘴角漏了出来，你也没有停止。"
+    "哪怕白沫从他的嘴角冒了出来，你也没有停止。"
 
 translate schinese Scene_Tavern_Meet_02_262fe0cd:
 
     # e "I know you are hungry for this cock."
-    e "我知道你非常渴望这根鸡巴。"
+    e "我就知道你馋着我的大鸡巴呢。"
 
 translate schinese Scene_Tavern_Meet_02_918f04da:
 
     # "With some pushing and shoving, you finally get the young man's lips down to the base of your shaft."
-    "伴随着些许的抽插，你终于让这个男孩的嘴唇贴住了你肉棒的根部。"
+    "经过一番推挤，少年的嘴唇终于碰到了你的小腹。"
 
 translate schinese Scene_Tavern_Meet_02_29093629:
 
     # "You can feel the tip of your penis hitting the back of his throat."
-    "你都能感到龟头插到了他的嗓子眼。"
+    "你都能感到龟头顶到了他的嗓子眼。"
 
 translate schinese Scene_Tavern_Meet_02_bd1b1e4a:
 
     # "It triggers his gag reflex and his head pushes back against your hands."
-    "这触发了他的呕吐反射，他的脑袋开始向后顶你的双手。"
+    "这触发了他的呕吐反射，头开始往后缩顶住你的手。"
 
 translate schinese Scene_Tavern_Meet_02_6157933f:
 
     # "You ease the pressure slightly and the young man immediately leans back to take a breath."
-    "你稍稍放松了手的力度，男青年立马朝后退去以喘口气。"
+    "你稍稍松手，他便立马朝后退去想喘口气。"
 
 translate schinese Scene_Tavern_Meet_02_7ef03b35:
 
     # "Before the young man can fully escape, you regain control and slams your cock down back his throat."
-    "在他要完全逃离之前，你重新加回量，将鸡巴再次猛插回他的喉咙中。"
+    "但在他完全吐出口中的肉棒之前，你两手发力，再次把那粗长的性器捅进他的喉咙。"
 
 translate schinese Scene_Tavern_Meet_02_1c57530f:
 
     # "He gags, but he doesn't resist as much."
-    "他还在干呕，但挣扎地不再那么剧烈。"
+    "大男孩不停地干呕，但挣扎得没有那么剧烈了。"
 
 translate schinese Scene_Tavern_Meet_02_65580177:
 
@@ -3254,22 +3254,22 @@ translate schinese Scene_Tavern_Meet_02_65580177:
 translate schinese Scene_Tavern_Meet_02_8ee98fc1:
 
     # "To up the ante, you keep him swallowing your cock longer. His breath hits the base of your cock haltingly."
-    "为了进一步提升他的水平，你让鸡巴在他嘴里多停了一会儿。他的呼吸断断续续地呼在了你鸡巴的根部。"
+    "为了让他快速适应，你压着他的头不放松。"
 
 translate schinese Scene_Tavern_Meet_02_c2fcf490:
 
     # "Tears squeeze out of the corner of his eyes."
-    "泪水从他的眼角滑落。"
+    "他的呼吸断断续续喷在你的小腹上，泪水从眼角滑落。而后你才放开了他。"
 
 translate schinese Scene_Tavern_Meet_02_7e1b2cba:
 
     # "You let go and the young man's head leans back."
-    "你放开了他，男青年的脑袋向后靠去。"
+    "他往后退了退。同样的，你不让他完全吐出。"
 
 translate schinese Scene_Tavern_Meet_02_66230f5b:
 
     # "Once again, you do not let him escape all the way. When he has caught a breath, you fuck him in his throat again."
-    "但你再一次没让他完全逃离走掉。当他缓过劲儿后，你又操进了他的嗓子。"
+    "待他换过一口气，你又将鸡巴操了进去。"
 
 translate schinese Scene_Tavern_Meet_02_5740114d:
 
@@ -3279,22 +3279,22 @@ translate schinese Scene_Tavern_Meet_02_5740114d:
 translate schinese Scene_Tavern_Meet_02_0efe1e40:
 
     # "You repeat this exercise several times until the young man slowly get used to it."
-    "你重复了数次练习，直到他慢慢适应了。"
+    "你重复了几次，直到他慢慢适应。"
 
 translate schinese Scene_Tavern_Meet_02_12e8a972:
 
     # "Eventually, without your prompting, he starts to envelope your cock with his mouth."
-    "最后，你都不用督促，他都开始用嘴巴完全包裹住你的鸡巴。"
+    "最后，不用你提醒，他都懂得凹起脸来更好地包住肉棒了。"
 
 translate schinese Scene_Tavern_Meet_02_de4ea688:
 
     # "He sucks it back and forth."
-    "他来来回回地吮吸着。"
+    "他来回吮吸着，露出陶醉的神情。"
 
 translate schinese Scene_Tavern_Meet_02_ddb99f7e:
 
     # "He starts to enjoy it."
-    "他开始享受了。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_d91df032:
 
@@ -3304,17 +3304,17 @@ translate schinese Scene_Tavern_Meet_02_d91df032:
 translate schinese Scene_Tavern_Meet_02_b902d825:
 
     # "Your cock hit the top of his throat. You have to admit that you are starting to enjoy this too."
-    "你的鸡巴摩擦着他的上颚。你必须承认，你也开始享受了。"
+    "饱满的龟头不断捅过他的嗓子眼。你得承认，你也很享受。"
 
 translate schinese Scene_Tavern_Meet_02_49866f33:
 
     # "By now, the other young man has recovered."
-    "现在，另一个男孩也恢复了过来。"
+    "这时，另一个少年已经恢复状态了。"
 
 translate schinese Scene_Tavern_Meet_02_bffde03d:
 
     # "Seeing his friend sucking on your dick, he refuses to be outdone."
-    "看着他的朋友吮吸你的鸡巴，他也不甘落后。"
+    "看到别人幸福地吞吐着大鸡巴，他也不甘落后。"
 
 translate schinese Scene_Tavern_Meet_02_c1c3b8b0:
 
@@ -3324,207 +3324,209 @@ translate schinese Scene_Tavern_Meet_02_c1c3b8b0:
 translate schinese Scene_Tavern_Meet_02_e43b85d1:
 
     # patron2 "Hey!"
-    patron2 "喂！"
+    patron2 "嘿！"
 
 translate schinese Scene_Tavern_Meet_02_9cf4391f:
 
     # "He steels himself and opens his mouth wide."
-    "他挺直身体，大张开嘴巴。"
+    "他挺直身体，长大了嘴巴。"
 
 translate schinese Scene_Tavern_Meet_02_86cdc4b2:
 
     # "Fueled by the fire of competition, his skill improves. He forces himself to swallow the entirely of your boner."
-    "竞争的火苗推动了他技术的精进。他强迫着自己吞下你的整根勃起。"
+    "竞争带来进步，他强迫自己吞下了整根肉棒，技术比之前好多了。"
 
 translate schinese Scene_Tavern_Meet_02_8f2e16a2:
 
     # e "Hng... You two are really making me hard."
-    e "哼……你俩可真让我硬了。"
+    e "哼……你俩可真让我硬得不行。"
 
 translate schinese Scene_Tavern_Meet_02_4cd7a42b:
 
     # "The young man uses his tongue to swirl around your crown. It causes you to shiver."
-    "男青年用他的舌头在你的冠状沟处打转，使你身体一哆嗦。"
+    "大男孩用舌头绕着你的龟头打转，让你浑身一颤。"
 
 translate schinese Scene_Tavern_Meet_02_9f299d5e:
 
     # e "Where did you pick up that little trick?"
-    e "你从哪儿学的花招？"
+    e "这招你从哪学来的？"
 
 translate schinese Scene_Tavern_Meet_02_ee25372f:
 
     # "The young man repeats it."
-    "他又来了一次。"
+    "他又重复了一遍。"
 
 translate schinese Scene_Tavern_Meet_02_d2895828:
 
     # "Your cock tickles."
-    "你的鸡巴痒痒的。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_5a50203f:
 
     # patron2 "Leave some for me too!"
-    patron2 "也给我留一点！"
+    patron2 "我也要吃！"
 
 translate schinese Scene_Tavern_Meet_02_90a0f3e3:
 
     # "The other young man refuses to be denied the chance to serve you."
-    "另一个男孩也不想落下服侍你的机会。"
+    "另一个少年不愿让出服侍你的机会。"
 
 translate schinese Scene_Tavern_Meet_02_3ef4d457:
 
     # "You step in before they start fighting each other."
-    "在他俩开始互相抢夺时，你插了进来。"
+    "你赶紧发话免得他们打起来。"
 
 translate schinese Scene_Tavern_Meet_02_ebf5bb71:
 
     # e "Focus. Remember what you're here to do."
-    e "集中。记住你们在这里的任务。"
+    e "专心点，别忘了你们来这里是做什么的。"
 
 translate schinese Scene_Tavern_Meet_02_23e4673d:
 
     # "The two look at each other and you can see the challenge in their eyes."
-    "两人看向彼此，你可以看到他们眼中的争斗。"
+    "两人互相看了一眼，眼中充满了较劲的火花。"
 
 translate schinese Scene_Tavern_Meet_02_14ca9a48:
 
     # "Like the start, they each handle one side of your cock."
-    "他俩开始像一开始那样一人服务你鸡巴的一边。"
+    "他们像刚开始那样，一人一边。"
 
 translate schinese Scene_Tavern_Meet_02_c4fc4337:
 
     # "Unlike the start, they are much more confident and experienced."
-    "但和开始不同的是，他们都更加自信且熟练了。"
+    "但现在他们自信多了，也熟练多了。"
 
 translate schinese Scene_Tavern_Meet_02_eafbc4f9:
 
     # "One of them grabs your balls and starts massaging it."
-    "一个人握住了你的蛋蛋，然后开始按摩。"
+    "一人握住卵蛋按摩，一人轻咬着青筋。"
 
 translate schinese Scene_Tavern_Meet_02_feeeaecc:
 
     # "The other nibbles on the pulsing veins on your cock."
-    "另一个则轻咬着你鸡巴上的青筋。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_654fec1d:
 
     # e "Very good. Isn't this better?"
-    e "非常好。这不是好多了？"
+    e "这就对了，这样不是很好吗？"
 
 translate schinese Scene_Tavern_Meet_02_261a37e1:
 
     # "They nod while they continue to work on your boner."
-    "他们俩一边点头，一边继续为你的阴茎服务。"
+    "他们一边点头，一边继续为你服务。"
 
 translate schinese Scene_Tavern_Meet_02_87ffabfc:
 
     # "You are reaping the result of their education. And they have learned well, as evidenced by your cock dripping in precum."
-    "你开始收获对他俩教育的果实。而且他们学得不错，证据就是你的鸡巴开始在滴水。"
+    "你享受着自己的调教成果，他们的确学得不赖，从你马眼冒出的前液就能看出来。"
 
 translate schinese Scene_Tavern_Meet_02_fbddb1bd:
 
     # "The two get more involved."
-    "两人更加投入了。"
+    "这让他们更加投入了。"
 
 translate schinese Scene_Tavern_Meet_02_81962058:
 
     # "One of them applies a massage along your shaft, trying to squeeze it. The other waits eager at the tip to suck up all of your precum."
-    "其中一个开始沿着你的鸡巴按摩，试着将其挤出来。另一个则饥渴地等在了龟头处，要吸干你所有的前列腺液。"
+    "左边的开始撸动茎身，想从里面挤出更多。右边的则饥渴地吸住龟头，吃下所以冒出来的爱液。"
 
 translate schinese Scene_Tavern_Meet_02_53b667ff:
 
     # "Then, each of them takes one of your ball sacs into their warm mouth. They slurps greedily on it, making your cock tingle."
-    "接着，两人一人一边地将你的囊袋吸入他们温暖的口腔中。他俩贪婪地嘬饮出了声，让你鸡巴开始颤抖。"
+    "接着，他们一人叼起一边卵蛋含入温暖的口腔中，贪婪地吮吸着，让你梆硬的鸡巴止不住地战栗。"
 
 translate schinese Scene_Tavern_Meet_02_8910c6fd:
 
     # "They nibble at the tip of your penishead before catching each other in a passionate kiss. You tremble as they exchange saliva with each other."
-    "他俩轻轻地咬了你的龟头，随后变成了两人深情的亲吻。他俩在互相交换彼此唾液时，你浑身颤抖不止。"
+    "他们先是轻吻你的龟头，从冠沟到马眼，随后变成深情的相吻。"
+    "你看着他们在口中交换着三人的体液，兴奋得腿都有些发软。"
 
 translate schinese Scene_Tavern_Meet_02_35978381:
 
     # "Their saliva drips onto your dick and they make sure to catch the other's saliva and your precum."
-    "二人的口水滴在你的鸡巴上，而他们确保舔舐了每一滴对方的口水与你的前列腺液。"
+    "口水夹带淫水不时从少年的嘴角流到你的鸡巴上，滴下来之前又会被他们吸干净。"
 
 translate schinese Scene_Tavern_Meet_02_a25c54b8:
 
     # "They take turn sucking on your boner. Your boner gets no rest as it is being deepthroated endlessly."
-    "他们轮流吮吸着你的鸡巴。你的肉棒被永无止境地深喉着，完全没法休息。"
+    "他们还主动吃下整根肉棒，模拟吞咽的动作给龟头做按摩。"
+    "你的命根子就这么被轮流深喉着，仿佛永无止境。"
 
 translate schinese Scene_Tavern_Meet_02_c41d5c46:
 
     # "You are surprised how the element of competition can make sure a different."
-    "你很惊讶，竞争元素确实会让事情变得很不一样。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_874a792f:
 
     # "However, you remind yourself that they are there not to compete with each other but to serve you."
-    "但是，你时刻让自己记住他俩不是来比赛而是来服务你的。"
+    "胜负欲这把火烧起来的结果令你意想不到。不过你提醒自己，他们来这里不是来互相斗劲，而是来取悦你的。"
 
 translate schinese Scene_Tavern_Meet_02_f6413676:
 
     # "You have to remind them that who is boss."
-    "你要让他们想起来谁才是老大。"
+    "你得让他们知道现在谁才是主导。"
 
 translate schinese Scene_Tavern_Meet_02_75383f00:
 
     # "With the two young men working in tandem, you slowly reach your climax."
-    "两个男孩共同的努力让你慢慢达到了高潮。"
+    "在他们共同的攻略下，你渐渐达到高潮。"
 
 translate schinese Scene_Tavern_Meet_02_4d6c305f:
 
     # e "Get ready. It's coming."
-    e "准备好，要来了。"
+    e "凑过来，我要射了。"
 
 translate schinese Scene_Tavern_Meet_02_7bf2dbbe:
 
     # "You pull the two young men back. You place their faces right before your cock."
-    "你将两人拉回去，然后将他们的脸贴在你的鸡巴前面。"
+    "你拉着二人将他们的脸并排贴着你的鸡巴。"
 
 translate schinese Scene_Tavern_Meet_02_6e4b51bd:
 
     # "You can feel the jizz coming. Your butt clenches."
-    "你能感到精液正在涌上来，你的屁股开始收紧。"
+    "你绷紧了臀部，下腹那股热流急涌而上。"
 
 translate schinese Scene_Tavern_Meet_02_53f87552:
 
     # "The two wait eagerly for their reward."
-    "两个人热烈地等待着他们的奖赏。"
+    "他们的奖赏就要来了。"
 
 translate schinese Scene_Tavern_Meet_02_2c5da452:
 
     # "Strings of cum shoot out of your dick. They spray and land on the two young men's faces."
-    "数道精液从你的鸡巴中射出。它们射满了两个男青年的脸部。"
+    "你往前一挺，精液如般射出，两个大男孩脸上满是一道又一道的白浊。"
 
 translate schinese Scene_Tavern_Meet_02_1f0f4176:
 
     # e "Hng.... That was good. Now, swallow. I don't want to see a single drop wasted."
-    e "呼……真不错。现在，咽下去。我不想看到有一滴被浪费掉。"
+    e "呼……真爽。给我舔干净，一滴都不许浪费。"
 
 translate schinese Scene_Tavern_Meet_02_43e938f8:
 
     # "The two are eager to please. They lick off your cum that has splattered on the other's faces."
-    "二人饥渴地遵从了。他俩舔干净了遍布对方脸上的你的敬业。"
+    "二人饥渴地互相舔舐对方脸上的甘露。果真一滴不落，干干净净。"
 
 translate schinese Scene_Tavern_Meet_02_a3270c08:
 
     # "Between the two of them, they manage to swallow every last drop of your jizz."
-    "他们两人成功将你的每滴精子都吞了进去。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_9af573c4:
 
     # "To cap things off, the two young men shared a final kiss, swapping your cum between them."
-    "作为收尾，他俩最后进行了一个亲吻，分享着你最后的精液。"
+    "最终他们拥吻到一块，搅动舌头互相品尝你的精华。"
 
 translate schinese Scene_Tavern_Meet_02_63846308:
 
     # "After all three of you calm down, you clean up and the young men start to put their clothes back on."
-    "在你们三人都冷静后，你清理干净，两个男孩也开始穿上各自的衣服。"
+    "待那股兴奋劲消散后，你提起内裤打扫房间，另外二人则捡起衣服穿上。"
 
 translate schinese Scene_Tavern_Meet_02_60259877:
 
     # "When the young men are dressed, they seem to revert back to their shy selves."
-    "当他们穿好后，他们似乎又回到了那个害羞的柜子中。"
+    "穿好衣服后，他们又回到了那副害羞的样子。"
 
 translate schinese Scene_Tavern_Meet_02_adef26de:
 
@@ -3534,17 +3536,17 @@ translate schinese Scene_Tavern_Meet_02_adef26de:
 translate schinese Scene_Tavern_Meet_02_fb067466:
 
     # patron2 "So-sorry..."
-    patron2 "抱……抱歉……"
+    patron2 "对不起……"
 
 translate schinese Scene_Tavern_Meet_02_9394e341:
 
     # e "Yea. Well, you got what you wanted. So it's time for you to leave."
-    e "啊。没事儿，你们得到了你们想要的东西。所以现在你们该离开了。"
+    e "嗯。行了，你们想要的已经给你们了。走吧。"
 
 translate schinese Scene_Tavern_Meet_02_8dc520a5:
 
     # "Like a spell broken, the two nod and then move towards the door."
-    "他们点点头，想着门口走去，仿佛被施加了咒语。"
+    "他们点点头，同时朝门口走去，动作别扭极了。"
 
 translate schinese Scene_Tavern_Meet_02_43e73256:
 
@@ -3554,42 +3556,43 @@ translate schinese Scene_Tavern_Meet_02_43e73256:
 translate schinese Scene_Tavern_Meet_02_4a861564:
 
     # "The two freeze."
-    "两人停住了。"
+    "两人愣在原地，你手指窗户示意。"
 
 translate schinese Scene_Tavern_Meet_02_b6c43084:
 
     # "You point at the window."
-    "你指了指窗户。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_bae0399b:
 
     # "The young men scratch their heads with embarrassment."
-    "男孩们不好意思地挠了挠头。"
+    "大男孩们尴尬地挠了挠头，一前一后从窗户翻了出去，消失在乐村的街道中。"
 
 translate schinese Scene_Tavern_Meet_02_9c6e036d:
 
     # "The two slip out of the window and away into the street of Lusterfield."
-    "他俩从窗户溜了出去，混入了乐斯民菲尔德的街道中。"
+    pass
 
 translate schinese Scene_Tavern_Meet_02_69de405e:
 
     # e "What is up with these two? Shouldn't one of them leave by the door? Oh well. I doubt Cane will be paying any attention."
-    e "这俩人没事儿吧？不应该是有一个人走门吗？哦好吧，我很怀疑凯恩根本不会在意的。"
+    e "这两个小屁孩怎么回事？不是应该留一个人从门口出去吗？"
+    e "算了，凯恩应该不会注意到的。"
 
 translate schinese Scene_Tavern_Meet_02_7f34938b:
 
     # "You look out the window and decide to leave the window unlocked."
-    "你从窗户向外看去，决定就这样不关了。"
+    "你看了眼窗外，决定就让它敞着，转身从门口走了出去。"
 
 translate schinese Scene_Tavern_Meet_02_946f5a89:
 
     # "You leave the backroom."
-    "你离开了密室。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_556c7193:
 
     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg "本场景尚未完成更新。主人公的设计与目前版本不同。"
+    $ renpy.notify("该场景文本未与画面同步更新")
 
 translate schinese Scene_Tavern_Meet_03_405cc58d:
 
