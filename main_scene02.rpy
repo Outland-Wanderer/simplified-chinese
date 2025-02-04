@@ -1382,7 +1382,7 @@ translate schinese scene_minolose_5462196a:
 translate schinese scene_minolose_95802077:
 
     # "The grains of the beast's shaft grind against the sensitive walls of your hole."
-    "巨屌血脉喷张，凸起的血管摩擦着敏感的内壁。"
+    "巨屌血脉偾张，凸起的血管摩擦着敏感的内壁。"
 
 translate schinese scene_minolose_91bfb7bf:
 

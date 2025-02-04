@@ -1345,7 +1345,7 @@ translate schinese Cane_Private_Show_Quest_Accept_0e754dac:
 translate schinese Cane_Private_Show_Quest_Accept_c39a4666:
 
     # c "Ye'll also need somethin' more suitable to wear for the job…"
-    c "还得给你买几身情趣套装……"
+    c "还得给你买两身情趣套装……"
 
 translate schinese Cane_Private_Show_Quest_Accept_9c44ef3e:
 

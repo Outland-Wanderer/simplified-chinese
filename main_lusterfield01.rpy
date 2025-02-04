@@ -5725,7 +5725,7 @@ translate schinese Ole_Sick_Quest_End_75779d92:
 translate schinese Ole_Sick_Quest_End_ea9c675c:
 
     # "His dick jostles about and sends more precum flying."
-    "巨根血脉喷张，开始痉挛，前液甩向四周拉起了丝。"
+    "巨根血脉偾张，开始痉挛，前液甩向四周拉起了丝。"
 
 translate schinese Ole_Sick_Quest_End_df291769:
 

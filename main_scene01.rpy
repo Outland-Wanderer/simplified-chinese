@@ -3597,62 +3597,62 @@ translate schinese Scene_Tavern_Meet_03_556c7193:
 translate schinese Scene_Tavern_Meet_03_405cc58d:
 
     # "You plod over to the backroom."
-    "你迈着沉重的步子走向了密室。"
+    "你拖着步子走向包间。"
 
 translate schinese Scene_Tavern_Meet_03_c12c79af:
 
     # "To your surprise, there is someone standing outside the backroom door. Normally, your patron would already be inside, waiting for your service."
-    "出乎你意料的是已经有个人站在了密室的门口。一般来说，你的顾客都已经在里面等候你的服务了。"
+    "意外的是，有个人正站在包间门外——往常客人早该在里面等着享受你的服务了。"
 
 translate schinese Scene_Tavern_Meet_03_30c53de6:
 
     # "Seeing your arrival, the patron flashes a handsome smile at you."
-    "看到你的到来后，顾客露出了一个英俊的笑容。"
+    "看到你来了，他向你露出一个帅气的微笑。"
 
 translate schinese Scene_Tavern_Meet_03_9a4d4578:
 
     # patron "I'm glad that you're willing to spend some time with me."
-    patron "很高兴你愿意和我共度一段时光。"
+    patron "很高兴你愿意陪我一会儿。"
 
 translate schinese Scene_Tavern_Meet_03_cde6bdcc:
 
     # "In your mind, you can't help but wonder if this is a prank."
-    "你的脑子让你忍不住地去想这是不是一句戏谑。"
+    "你心里忍不住嘀咕，该不会是个恶作剧吧？"
 
 translate schinese Scene_Tavern_Meet_03_91511f4e:
 
     # "This isn't the usual fare of depravity that you're used to in the backroom."
-    "这可不是你所熟悉的那些在密室中堕落的客人。"
+    "这可不是“私人服务”通常会遇到的那种堕落场面。"
 
 translate schinese Scene_Tavern_Meet_03_154bf36d:
 
     # "The romantic encounter with the last patron still leaves your stomach fluttering."
-    "与上个顾客的浪漫的相处还在让你心中的小鹿乱撞。"
+    "与之前那位绅士的浪漫邂逅依然让你一想到就心跳加速，久久难以平复。"
 
 translate schinese Scene_Tavern_Meet_03_bec9246c:
 
     # "It's not often you get a respite like this in the backroom."
-    "能在密室中获得喘息的机会可不多。"
+    "毕竟进了这个房间能贪得一时喘息的机会并不多。"
 
 translate schinese Scene_Tavern_Meet_03_4032e65b:
 
     # "Some warmth and gentleness, it can get any dragon through the work in backroom."
-    "一些温情和绅士风度足以让任何龙在密室中工作了。"
+    "但凭借那样的柔情，卖春的活再苦再累你都可以挺过去。"
 
 translate schinese Scene_Tavern_Meet_03_7f23a4eb:
 
     # e "Of course. I'm always glad to serve."
-    e "当然。我一直很高兴能提供服务。"
+    e "欢迎，我也很高兴为你服务。"
 
 translate schinese Scene_Tavern_Meet_03_dcfe914d:
 
     # patron "Hopefully, this will be an enjoyable experience for both of us."
-    patron "这次很有可能会是我们二人都很享受的一段经历。"
+    patron "希望这次对你和我来说都是个愉快的体验。"
 
 translate schinese Scene_Tavern_Meet_03_bfc4dd9b:
 
     # "Then, the patron opens and hold the door for you."
-    "接着，顾客将门打开，然后为你留住。"
+    "他边说边打开门，而后在一旁候着。"
 
 translate schinese Scene_Tavern_Meet_03_c00081b5:
 
@@ -3662,22 +3662,22 @@ translate schinese Scene_Tavern_Meet_03_c00081b5:
 translate schinese Scene_Tavern_Meet_03_9a5ec535:
 
     # "Despite the circumstances, you feel a warm and fuzzy feeling inside."
-    "虽然是这种环境，你内心还是感到了一股温暖和恍惚。"
+    "尽管礼让在这种场合有点别扭，但你心里却涌起一股暖意。"
 
 translate schinese Scene_Tavern_Meet_03_0bb7d17e:
 
     # "The patron follows you into the room. After the both of you enter, the door closes with a click."
-    "顾客跟在你身后进了屋。当你们都进来后，门轻声关上了。"
+    "客人跟着你进了屋，顺带将门轻轻地关上。"
 
 translate schinese Scene_Tavern_Meet_03_99513421:
 
     # e "So... What are you feeling today?"
-    e "那个……你今天想怎么来？"
+    e "那个……今天你想怎么来？"
 
 translate schinese Scene_Tavern_Meet_03_58fd15ab:
 
     # patron "How about a dance for warm-up?"
-    patron "先跳支舞作为热身，如何？"
+    patron "先跳支舞活动活动身体，如何？"
 
 translate schinese Scene_Tavern_Meet_03_9d2f2d12:
 
@@ -3687,57 +3687,57 @@ translate schinese Scene_Tavern_Meet_03_9d2f2d12:
 translate schinese Scene_Tavern_Meet_03_e52b0189:
 
     # "You pull the patron over and place him on the chair."
-    "你将顾客拉过来，让他坐在椅子上。"
+    "你把他拉到椅子上坐下，自己则跨坐在他的大腿上，挺起胸膛往对方的脸蛋靠去。"
 
 translate schinese Scene_Tavern_Meet_03_4f8915af:
 
     # "You start by sitting on his thigh. Then, you push your massive chest close to the patron's face."
-    "你先坐在他的大腿上。随后，你将你硕大的胸肌贴在了顾客的脸上。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_1350ab1a:
 
     # "His breathing warms your skin and it makes you feel ticklish."
-    "他的呼吸使你皮肤升温，同时还让你发痒。"
+    "他温热的呼吸让你感到一阵酥痒。"
 
 translate schinese Scene_Tavern_Meet_03_b8a6143d:
 
     # e "Do you like what you see?"
-    e "喜欢你所看到的东西吗？"
+    e "还喜欢吗？"
 
 translate schinese Scene_Tavern_Meet_03_f66ffbe3:
 
     # "The patron's face colors. You find it rather charming."
-    "顾客的脸发红了。你觉得这相当有魅力。"
+    "他的脸微微泛红，怪可爱的。"
 
 translate schinese Scene_Tavern_Meet_03_d734227e:
 
     # patron "Definitely."
-    patron "当然了。"
+    patron "当然。"
 
 translate schinese Scene_Tavern_Meet_03_e37706da:
 
     # "You do a slow body roll and present the patron with the sight of your full upper body."
-    "你做了一个缓慢的转身，向顾客展示你上半身的全部风景。"
+    "你缓缓转动躯干，向客人展示你健硕的上半身，令他目不暇接。"
 
 translate schinese Scene_Tavern_Meet_03_da5d4b22:
 
     # "You can feel his fiery gaze taking in your well-formed pecs, large shoulders, and washboard abs."
-    "你可以感到他充满激情的视线，扫过了你形状良好的胸肌，宽阔的肩膀，以及洗衣板一样的腹肌。"
+    "炽热的目光一会落在你结实的胸肌上，一会落在你宽阔的肩膀上，一会落在你棱角分明的腹肌上。"
 
 translate schinese Scene_Tavern_Meet_03_12090eb0:
 
     # patron "May I?"
-    patron "介意吗？"
+    patron "我可以……？"
 
 translate schinese Scene_Tavern_Meet_03_f85b1e0a:
 
     # "The patron's hands tingle as he looks up at you with admiring eyes."
-    "顾客带着欣赏的目光抬头看向你，双手蠢蠢欲动。"
+    "男人抬头看向你，眼中尽是陶醉，双手蠢蠢欲动。"
 
 translate schinese Scene_Tavern_Meet_03_6fddd354:
 
     # "You chuckle."
-    "你笑了。"
+    "你轻笑一声："
 
 translate schinese Scene_Tavern_Meet_03_1fa65edc:
 
@@ -3747,137 +3747,137 @@ translate schinese Scene_Tavern_Meet_03_1fa65edc:
 translate schinese Scene_Tavern_Meet_03_46441c10:
 
     # "You grab his hands and guide them to your pecs."
-    "你握住他的双手，引导它们伸向你的胸部。"
+    "你握住他的双手放到自己的胸肌上。"
 
 translate schinese Scene_Tavern_Meet_03_e46df4c3:
 
     # "His touch on your skin is light like a wind's caress."
-    "他的触摸轻柔地如同微风的爱抚。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_16bb508d:
 
     # "Being treated so sensually is quite a different experience but you appreciate it."
-    "被如此性感地对待于你是种别样却喜欢的体验。"
+    "他两手罩着雄伟的胸大肌缓缓揉捏，动作轻柔得像风拂过。"
 
 translate schinese Scene_Tavern_Meet_03_52621e88:
 
     # "His hands cup your lower pecs. He kneads them tenderly."
-    "他的手罩住了你的下胸部。他用力地揉捏着。"
+    "这种细腻的感觉既让你新奇又让你着迷，你渐渐放松下来。"
 
 translate schinese Scene_Tavern_Meet_03_9b0504b3:
 
     # e "Hmm... That's very nice."
-    e "嗯……感觉很不错。"
+    e "嗯……真舒服。"
 
 translate schinese Scene_Tavern_Meet_03_0124711b:
 
     # "You feel your muscles unwinding from the massage."
-    "你感到按摩使你肌肉都开始松弛下来。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_002ffa35:
 
     # "He proceeds to caress your chest and stomach, his delicate fingers leaving behind trails of fire."
-    "他继续爱抚向你的胸和腹部，灵巧的手指留下了一道道火焰的轨迹。"
+    "他伸出手指在胸肌和腹肌游走，留下一串火热的余感。"
 
 translate schinese Scene_Tavern_Meet_03_8e838a00:
 
     # "His fingers end up drawing circles around your nipples."
-    "最后，他的手指停在你的乳头周围打转。"
+    "手指最终停在了你的乳头上，轻轻画圈。"
 
 translate schinese Scene_Tavern_Meet_03_662f42a6:
 
     # "The slow and sensual prodding makes your nipples stiffen."
-    "缓慢而肉欲的刺激使你乳头坚挺起来。"
+    "这种缓慢而充满情趣的挑逗让它们逐渐充血。"
 
 translate schinese Scene_Tavern_Meet_03_1917acc6:
 
     # patron "This is very nice."
-    patron "这真不错。"
+    patron "太棒了。"
 
 translate schinese Scene_Tavern_Meet_03_025a6ea7:
 
     # "You nod in agreement."
-    "你点头表示赞同。"
+    "你点头表示同感。"
 
 translate schinese Scene_Tavern_Meet_03_50c06fec:
 
     # "Suddenly, he pinches your perky nipples lightly."
-    "忽然，他轻轻地捏了下你挺立的乳头。"
+    "忽然，他小力捏了一下你胸前那两粒。"
 
 translate schinese Scene_Tavern_Meet_03_3388a208:
 
     # e "Oh..."
-    e "哦……"
+    e "噢……"
 
 translate schinese Scene_Tavern_Meet_03_bae6e924:
 
     # "He has already worked your nipples to great sensitivity. So even though his pinch is light, it still sends a jolt of lightning through your body."
-    "他已使你的乳头达到了极致的敏感。所以尽管他掐得很轻，你全身还是像有电流穿过一般。"
+    "它们已经被挑逗得异常敏感，就算捏得再小力，那感觉也像电流一样窜遍全身。"
 
 translate schinese Scene_Tavern_Meet_03_b065b8e9:
 
     # "Thanks to his light touch, you can feel every single one of his nips. Your nipples harden further at the gentle assault."
-    "幸亏他手法很轻，才使你能感到他的每一次动作。这温柔的侵犯使你的乳头变得更加坚硬。"
+    "不仅如此，正是因为动作够轻，他每一次温柔的侵犯都清晰可辨，使你的乳头变得更加挺立。"
 
 translate schinese Scene_Tavern_Meet_03_faa7d97b:
 
     # e "Hmm..."
-    e "嗯……"
+    e "唔……"
 
 translate schinese Scene_Tavern_Meet_03_96822d09:
 
     # "You feel that your cock is also starting to stiffen."
-    "你感到你的鸡巴也开始硬了。"
+    "你感觉下面也开始支起帐篷了，赶忙抓住他的手腕阻止他。"
 
 translate schinese Scene_Tavern_Meet_03_ee9f554e:
 
     # "You grab his wrists and stop him."
-    "你抓住他的手腕，阻止了他。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_0f2b2849:
 
     # e "I can't be the only one having all the fun. Let me help you too."
-    e "我不能是唯一一个享受的人。也让我来帮你吧。"
+    e "不能只有我爽了，换我来吧。"
 
 translate schinese Scene_Tavern_Meet_03_b9c0b406:
 
     # "You reach your hands underneath his clothes."
-    "你的手伸进了他的衣服。"
+    "你将双手伸进他的衣服里，抚摸一块块结实又柔韧的肌肉。"
 
 translate schinese Scene_Tavern_Meet_03_8b3e451e:
 
     # "You can feel his taut muscles underneath. You are eager to see him naked."
-    "你可以感受到下面紧绷的肌肉。你迫切地想看到了他的胴体。"
+    "你迫不及待想要欣赏他赤裸的样子了，于是你帮他脱掉了上衣。"
 
 translate schinese Scene_Tavern_Meet_03_b26230fb:
 
     # "You help him shrug off his top."
-    "你帮着他脱掉了上衣。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_2e5e8fdd:
 
     # "As you expect, the person is well-built."
-    "正如你期待的那样，他的身材很好。"
+    "正如你期待的那样，他的身材非常健壮，显然没少锻炼。"
 
 translate schinese Scene_Tavern_Meet_03_e76fadf0:
 
     # "His body is thick and firm, a sign of constant training."
-    "他的躯体厚实且坚硬，正是不懈锻炼的结果。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_1b336a21:
 
     # "Without the layer of clothes in the way, you can feel his body heat directly."
-    "没了衣服的阻挡，你可以直接感受他身体的热量。"
+    "除去衣物的阻隔，你得以直接感受对方的体温。"
 
 translate schinese Scene_Tavern_Meet_03_ab528067:
 
     # "To reward him, you lean down and kiss him on the lips."
-    "为了报答，你屈身向前，吻上了他的嘴唇。"
+    "为了报答他，你俯身与他的嘴唇相吻。"
 
 translate schinese Scene_Tavern_Meet_03_15fbb6af:
 
     # "The patron is surprised by your sudden kiss."
-    "顾客没想到你会突然亲吻上来。"
+    "男人瞪大了眼睛，没想到你会突然亲上来。"
 
 translate schinese Scene_Tavern_Meet_03_dfcdc465:
 
@@ -3887,97 +3887,97 @@ translate schinese Scene_Tavern_Meet_03_dfcdc465:
 translate schinese Scene_Tavern_Meet_03_b06a39ab:
 
     # "He is flummoxed at first but soon, he starts to respond in kind."
-    "他开始有些困惑，但马上便温柔地回应过来。"
+    "一开始他有些困惑，但很快便有了回应。"
 
 translate schinese Scene_Tavern_Meet_03_65b8a7e0:
 
     # "He kisses you back firmly but not fiercely."
-    "他吻了回来，坚定而不凶猛。"
+    "他吻回来，坚定而不粗暴。"
 
 translate schinese Scene_Tavern_Meet_03_cb3fcae0:
 
     # "You decide to take the initiative."
-    "你决定掌握主动权。"
+    "你决定主动一些，伸出舌头引诱他，轻轻撬开他的嘴唇。"
 
 translate schinese Scene_Tavern_Meet_03_eaeee4d9:
 
     # "You push your tongue forward. His lips are slowly pried loose by your persuasion."
-    "你伸出了舌头。他的嘴唇在你的诱导下缓缓地被撬松了。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_d37094b9:
 
     # e "Ah... Hrmm..."
-    e "啊……嗯……"
+    e "哈……唔……"
 
 translate schinese Scene_Tavern_Meet_03_d5f8969d:
 
     # "You use your tongue to invade his mouth."
-    "你用舌头入侵了他的嘴巴。"
+    "他欣然接受了入侵，同样伸出舌头与你缠绵在一起。"
 
 translate schinese Scene_Tavern_Meet_03_e7497cf9:
 
     # "He welcomes your invasion openly."
-    "他坦率地欢迎着你的侵犯。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_b954454a:
 
     # "His tongue entangles with yours."
-    "他的舌头与你的交缠在一起。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_910ce76f:
 
     # "Both of your breathings become heavier."
-    "你们二人的呼吸都开始沉重了。"
+    "喘息声越来越重，交换的唾液在唇齿间拉出银丝。"
 
 translate schinese Scene_Tavern_Meet_03_d318189b:
 
     # "Saliva gets swapped as you two exchange wet kisses."
-    "伴随着你们的湿吻，口水也开始被交换。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_cecf5c22:
 
     # "This must be quite erogenous for the patron because you can feel his dick rises inside his loincloth."
-    "这肯定足以勾人欲望，因为你可以感到他的鸡巴正从缠腰布下升起。"
+    "想必这让他兴起极了，一根硬硬的东西顶到了你的大腿内侧。"
 
 translate schinese Scene_Tavern_Meet_03_c958d1cb:
 
     # "Since you are still straddling him by his thigh, you can feel his boner rise against your inner thigh."
-    "由于你还跨坐在他大腿上，你可以感到他的勃起正摩擦着你的大腿内侧。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_02442052:
 
     # "You pull off after another passionate kiss."
-    "伴随着最后的深吻，你拉开了距离。"
+    "你最后给他个热情的湿吻，拉开了距离。"
 
 translate schinese Scene_Tavern_Meet_03_a9c92a8a:
 
     # e "Hmm... It looks like someone is getting excited."
-    e "嗯……看样子有的人开始兴奋了。"
+    e "嗯……看来有人很有感觉嘛。"
 
 translate schinese Scene_Tavern_Meet_03_09cfde21:
 
     # patron "Sorry..."
-    patron "对不起……"
+    patron "不好意思……"
 
 translate schinese Scene_Tavern_Meet_03_41544423:
 
     # e "Don't be. Now, let me make you feel even more comfortable."
-    e "别这么说。现在，让我来带给你更加舒适的感受吧。"
+    e "别这么说，我会让你更舒服的。"
 
 translate schinese Scene_Tavern_Meet_03_3abb4e0f:
 
     # "You stand up. Your boner is visible and so is his."
-    "你站起身来。你的勃起和他的一样明显。"
+    "你站起身，那里的勃起和他一样明显。"
 
 translate schinese Scene_Tavern_Meet_03_5791d67e:
 
     # "You turn around and poise your butt over his boner."
-    "你转过身去，将屁股对准了他的坚挺。"
+    "你转过身，翘起屁股对准他的坚挺，紧身内裤将臀瓣勾勒出完美的弧形。"
 
 translate schinese Scene_Tavern_Meet_03_ac113150:
 
     # "You know his eyes are drawn to your ass stretched tight over the boxers."
-    "你很清楚，他的视线完全被你紧紧撑开四角裤的屁股吸引了。"
+    "你很清楚，这个男人的目光已经没法从你的翘臀移开了。"
 
 translate schinese Scene_Tavern_Meet_03_f5c0aeed:
 
@@ -3987,12 +3987,12 @@ translate schinese Scene_Tavern_Meet_03_f5c0aeed:
 translate schinese Scene_Tavern_Meet_03_6faa50f0:
 
     # "Without waiting for his response, you sit down on his crotch."
-    "不等他回答，你便坐在了他的胯部。"
+    "不等他回答，你便坐到了他的胯上。"
 
 translate schinese Scene_Tavern_Meet_03_998fc99f:
 
     # "Even through your boxers and his loincloth, you can feel his boner hitting your behind."
-    "尽管隔着你的四角裤和他的缠腰布，你还是可以感到他的勃起撞在你的后面。"
+    "尽管隔着两层布，你也能感受到那根硬物的热度。"
 
 translate schinese Scene_Tavern_Meet_03_49dd9ff0:
 
@@ -4002,37 +4002,37 @@ translate schinese Scene_Tavern_Meet_03_49dd9ff0:
 translate schinese Scene_Tavern_Meet_03_43656f2c:
 
     # "The pressure on his dick makes him groans softly."
-    "鸡巴上的压力让他轻轻呻吟出声。"
+    "性器被肉臀压住，令他舒服得闷哼。"
 
 translate schinese Scene_Tavern_Meet_03_1a1d0ac0:
 
     # "To be honest, your dick is very hard as well, but you remember that you still have work to do."
-    "说实话，你的鸡巴同样也非常硬了，但你知道你还有工作要做。"
+    "其实你的老二也硬得不行，但你记得你是做什么的。"
 
 translate schinese Scene_Tavern_Meet_03_fac10026:
 
     # "You lean backwards, laying your weight on his body."
-    "你向后躺去，全身压在了他的身上。"
+    "你向后坐，将身体完全压在他身上。"
 
 translate schinese Scene_Tavern_Meet_03_d1782d81:
 
     # "Both of your penises are screaming for release but you make sure he has it worse by posing your butt seductively close to his cock."
-    "你们的鸡巴都渴求着解放，但你要确保他的欲望更强烈，所以你将屁股勾引地贴近了他的鸡巴。"
+    "两根鸡巴都叫嚣着想要释放，但你觉得这把欲火烧得还不够旺。"
 
 translate schinese Scene_Tavern_Meet_03_ad7c0443:
 
     # "You move your ass around, pressuring and massaging his hard-on."
-    "你晃动着屁股，挤压并按摩着他的坚硬。"
+    "于是你扭动屁股，故意用臀缝摩擦他粗大的肉棒。"
 
 translate schinese Scene_Tavern_Meet_03_d725ea83:
 
     # patron "Oh God..."
-    patron "天哪……"
+    patron "天呐……"
 
 translate schinese Scene_Tavern_Meet_03_fe99bd61:
 
     # "You back into him repeatedly. Your butt squeezes his rock hard penis with each of your backward thrust."
-    "你不断朝后靠去。每次向后的冲撞都让你的屁股挤压着他石头一样坚硬的鸡巴。"
+    "你反复向后顶，每次都会让一部分茎身挤进臀缝。"
 
 translate schinese Scene_Tavern_Meet_03_b9a0c986:
 
@@ -4042,117 +4042,117 @@ translate schinese Scene_Tavern_Meet_03_b9a0c986:
 translate schinese Scene_Tavern_Meet_03_7629a366:
 
     # "You pick up your pace. With your continuous gyration, the patron is stimulated endlessly."
-    "你加快了速度。伴随着你持续的扭动，顾客被刺激到了极限。"
+    "你加快节奏，连绵的攻势快把他魂都勾出来了。"
 
 translate schinese Scene_Tavern_Meet_03_5f6d0815:
 
     # "You can feel his dick bouncing back harder after each of your smashes. His breathing also becomes increasingly labored."
-    "你可以感到每次的冲撞都让他弹回的鸡巴更硬了。他的呼吸也开始变得更加粗重。"
+    "那根东西越顶越凶，他呼吸声重得像拉风箱。"
 
 translate schinese Scene_Tavern_Meet_03_419517f7:
 
     # "Your cock shivers with the need to shoot as well."
-    "你的鸡巴同样因射精的需求颤抖不止。"
+    "你下面也颤抖得快要缴械。"
 
 translate schinese Scene_Tavern_Meet_03_d804de21:
 
     # patron "Wait. I can't take this anymore!"
-    patron "等等。我已经受不了了！"
+    patron "停、停。我要受不了了！"
 
 translate schinese Scene_Tavern_Meet_03_8134b9c5:
 
     # "The patron suddenly grabs you by your arms and pauses you."
-    "顾客突然抓住了你的手臂，让你停了下来。"
+    "男人突然攥住你的手臂叫停。"
 
 translate schinese Scene_Tavern_Meet_03_a173c44e:
 
     # "He stands up and as he does, his hard dick pokes into the back of your boxers."
-    "他站起身子，与此同时他坚硬的鸡巴还戳着你四角裤的后方。"
+    "他站了起来，铁硬的肉棒隔着内裤抵住你的翘臀。"
 
 translate schinese Scene_Tavern_Meet_03_307b4843:
 
     # "You believe that it has come to the end of the session."
-    "你肯定这已经到了这次活动的终点。"
+    "你觉得他。"
 
 translate schinese Scene_Tavern_Meet_03_32a051ad:
 
     # e "Do you need me to..."
-    e "你是否需要我……"
+    e "你想我……"
 
 translate schinese Scene_Tavern_Meet_03_6317cf27:
 
     # "The patron stops the rest of your sentence by turning you around and grabbing a deep kiss from you."
-    "顾客将你转过身，然后用一个深深的吻把你剩下的话语堵在了嘴中。"
+    "他将你转过来面对面，用一个深深的吻把你未尽的话语堵在嘴里。"
 
 translate schinese Scene_Tavern_Meet_03_4999b23d:
 
     # "His tongue surges into your mouth and flicks wildly about."
-    "他的舌头闯入你的嘴里，狂野地搅动着。"
+    "他的舌头在你口中横冲直撞，狂野地搅动着。"
 
 translate schinese Scene_Tavern_Meet_03_0e96cf87:
 
     # "Despite being highly aroused, you still remember you have a job to finish."
-    "尽管你的性欲已经涨到极致，你仍然记得你还有工作要完成。"
+    "尽管你的性欲已经涨到极致，但你没有忘记他的身份。"
 
 translate schinese Scene_Tavern_Meet_03_e4ea2b79:
 
     # e "Do... you... wa-want..."
-    e "你……要……要我……"
+    e "我……可……可以……"
 
 translate schinese Scene_Tavern_Meet_03_914a8b5c:
 
     # "You are about to offer him a handjob to finish him off when the patron says between kisses."
-    "你正准备用手给对方打出来，但顾客在亲吻的间隙开口说道。"
+    "你正准备提议用手帮他解决时，他断了吻，注视着你的双眼："
 
 translate schinese Scene_Tavern_Meet_03_a311f087:
 
     # patron "Let me serve you this time."
-    patron "这次让我来为你服务吧。"
+    patron "该我了。"
 
 translate schinese Scene_Tavern_Meet_03_eac497cb:
 
     # "His hand slides down your body and into your boxers."
-    "他的手沿着你的身体一路滑下，进入到了你的裤子里面。"
+    "他的手沿着你的马甲线一路滑下，伸进鼓胀的内裤里，轻而易举地将它脱了下来，另一只手同时解开了自己的腰布。"
 
 translate schinese Scene_Tavern_Meet_03_f6bcbd47:
 
     # "With great ease, he pulls your boxers down. With his other hand, he removes his own loincloth."
-    "他将你的四角裤拉下去，使你一下子解放了。他的另一只手则移向了自己的缠腰布。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_f2688a07:
 
     # "The two rigid rods spring into full height."
-    "两根坚硬的肉棒弹到了同等的高度。"
+    "两根怒张的阳具弹跳而出，直指天花板。"
 
 translate schinese Scene_Tavern_Meet_03_b507bca7:
 
     # "His boner is veiny and already leaking from your butt tease."
-    "他的阴茎满是青筋，而且经你屁股的调戏已经开始流出前列腺液了。"
+    "对面那根青筋暴起，被你勾引得早已冒出不少前液。而你的硬度也不遑多让。"
 
 translate schinese Scene_Tavern_Meet_03_bfc9e696:
 
     # "Your dick is no less harder than his."
-    "你的鸡巴丝毫不比他的软。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_75b4581d:
 
     # "He grabs both your and his cocks in his hand."
-    "他用一只手同时握住两个人的鸡巴。"
+    "他单手握住你俩的鸡巴紧紧相贴，接着撸动了起来。"
 
 translate schinese Scene_Tavern_Meet_03_200f25f9:
 
     # "The heat from his boner travels immediately to yours."
-    "热量瞬间从他的鸡巴传递到了你的上面。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_25a74e37:
 
     # "He pushes the two boners together and starts to rub."
-    "他把两根鸡巴握在一起，然后开始撸动。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_1e0d0b93:
 
     # "As blood pumps through the two dicks, you can feel his boner throbbing against yours."
-    "血液在两根阴茎中涌动着，你甚至能感到他的鸡巴正紧贴着你脉动着。"
+    "性器间的亲密接触令人血脉偾张，你们甚至能从鸡巴感受到对方的心跳。"
 
 translate schinese Scene_Tavern_Meet_03_db4f943a:
 
@@ -4162,57 +4162,57 @@ translate schinese Scene_Tavern_Meet_03_db4f943a:
 translate schinese Scene_Tavern_Meet_03_88d7a8e2:
 
     # "His warm hand presses your hard dick against his hard-on."
-    "他温热的手掌将你的坚挺贴住了他的鸡巴。"
+    "温热的掌心将你上翘的阳物压向他的，两头渗出爱液让交合处愈发滑腻。"
 
 translate schinese Scene_Tavern_Meet_03_ce855227:
 
     # "As his dick pulses, your dick shakes as well."
-    "伴随着他的脉动，你的鸡巴也在颤抖。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_5734c05f:
 
     # "The precum from both dicks provide some lubrication."
-    "两根肉棒共同流出的前列腺液提供了些许润滑."
+    pass
 
 translate schinese Scene_Tavern_Meet_03_8a10b84a:
 
     # "As his hand pumps up and down, your dick grinds against his."
-    "随着他手的上下运动,你的鸡巴也在和他的一起摩擦."
+    pass
 
 translate schinese Scene_Tavern_Meet_03_667162f9:
 
     # e "Oh... Hmmm..."
-    e "哦……嗯……"
+    e "噢……啊……"
 
 translate schinese Scene_Tavern_Meet_03_e54c27a7:
 
     # patron "Ergh... Ye..."
-    patron "呃……爽……"
+    patron "呃啊……好爽……"
 
 translate schinese Scene_Tavern_Meet_03_98044210:
 
     # "The patron's hand forms a warm cocoon enclosing the two dicks."
-    "顾客的手像温暖的茧房一样包裹住两根肉棒。"
+    "他的手掌犹如熔炉，将两柄利刃锻打在一起，在这狭小的空间里狠狠磨砺彼此。"
 
 translate schinese Scene_Tavern_Meet_03_0a9d68bf:
 
     # "Within the small space, the two cocks rub against each other with great friction."
-    "在这狭小的空间里，两根肉棒只能狠狠地彼此磨蹭着。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_20750e32:
 
     # "The grinding of the hand and the cock against your dick makes it pulsate."
-    "手掌和另一根鸡巴的压力让你的鸡巴开始跳动。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_8ce5b5f3:
 
     # "As the hand goes up and down, the crown of your dick kisses the tip of the patron's penishead."
-    "伴随着他的手部运动，你的冠状沟不时亲吻着他的龟头处。"
+    "包皮被反复拉下又提上，擦过彼此敏感的冠沟。"
 
 translate schinese Scene_Tavern_Meet_03_a00901b8:
 
     # "The two members trade sticky pre-cum."
-    "二者交换着粘稠的前列腺液。"
+    "龟头也时不时来个激吻，厮磨出黏腻的水声。"
 
 translate schinese Scene_Tavern_Meet_03_eff9b82e:
 
@@ -4227,22 +4227,22 @@ translate schinese Scene_Tavern_Meet_03_d572849e:
 translate schinese Scene_Tavern_Meet_03_b9abaa87:
 
     # "The patron drives harder and harder."
-    "顾客的力度越来越大。"
+    "男人手掌的力度越来越大，鸡巴随之抽动得更加厉害。"
 
 translate schinese Scene_Tavern_Meet_03_510ba020:
 
     # "His cock shakes like crazy."
-    "他的鸡巴开始疯狂颤抖。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_dc5a27cc:
 
     # "The tension from his cock causes your cock to vibrate madly too."
-    "来自他鸡巴的力度也让你的发疯一样地振动着。"
+    "战栗顺着相贴的肌肤窜至你的雄器，也跟着一起疯狂地痉挛。"
 
 translate schinese Scene_Tavern_Meet_03_56bb0f5e:
 
     # "As if coordinated, you two ejaculate at the same time."
-    "你俩像是合作一样同时射了出来。"
+    "仿佛心有灵犀，你们同时射了出来。"
 
 translate schinese Scene_Tavern_Meet_03_101b4a4e:
 
@@ -4252,82 +4252,82 @@ translate schinese Scene_Tavern_Meet_03_101b4a4e:
 translate schinese Scene_Tavern_Meet_03_ef9877d2:
 
     # patron "Oh...."
-    patron "哦……"
+    patron "噢……"
 
 translate schinese Scene_Tavern_Meet_03_9d91c8c0:
 
     # "His cock shoots strings of cum into the air."
-    "他的鸡巴朝着空中射出数股精液。"
+    "他马眼瞬间大张，精液如火山爆发般喷涌，飞溅到你胸口。"
 
 translate schinese Scene_Tavern_Meet_03_55db312c:
 
     # "Your cock does not fall behind as it unloads jets of hot jizz too."
-    "你的也不甘落后，同样射出了数股热精。"
+    "你的这根也不甘示弱，紧跟着射出浓精。"
 
 translate schinese Scene_Tavern_Meet_03_ca15723a:
 
     # "Cum splatter everywhere. As closely as the two dicks are located, both of your cum mix together."
-    "精液撒得到处都是。由于你们的鸡巴贴得过于紧密，精液也混在了一起。"
+    "你们挨得如此之近，好几股直接射进了对方那滩种汁中，融到一块。"
 
 translate schinese Scene_Tavern_Meet_03_d8d6c6cf:
 
     # "The patron's hand has never stopped moving. Cum glides down from the penises and wet his hand."
-    "顾客的手一直没有停下。鸡巴中流出的精液沾满了他的手。"
+    "他的手始终没有停止套弄，指缝沾满了流出的余精。"
 
 translate schinese Scene_Tavern_Meet_03_d69a657d:
 
     # "He slather the warm cum over both penises. He milks you for all that you're worth."
-    "他把温热的精液抹在两根鸡巴上。他给你挤奶，为你值得得到的一切待遇。"
+    "男人将温热的爱液抹在你和他的鸡巴上，挤奶似的把你榨得干干净净。"
 
 translate schinese Scene_Tavern_Meet_03_e6228a05:
 
     # "He pumps over every last drop of cum from his cock as well."
-    "同时，他的鸡巴也排出了最后一滴精子。"
+    pass
 
 translate schinese Scene_Tavern_Meet_03_e005051b:
 
     # "Your combined fluid immediately form a pool on the ground."
-    "你们的混合体液立刻在地板上形成了一个小池子。"
+    "混种子孙浆顺着大腿滴落地面，汇聚成一处小泊。"
 
 translate schinese Scene_Tavern_Meet_03_38a004c7:
 
     # "With both cocks dripping, you lean your head against his."
-    "你任由两根鸡巴继续在滴精，将你的头抵住了他的脑袋。"
+    "两根肉棒互相搭着，仍在冒着晶莹的淫水。"
 
 translate schinese Scene_Tavern_Meet_03_ba3b07fe:
 
     # e "That was something else."
-    e "这感觉很不一样。"
+    e "今天有够特别的。"
 
 translate schinese Scene_Tavern_Meet_03_681e3962:
 
     # "You sigh."
-    "你叹了口气。"
+    "你坐起来与他额头相抵，叹气道："
 
 translate schinese Scene_Tavern_Meet_03_f24b87a6:
 
     # e "I'm not sure if I should take your gold or not."
-    e "我都不知道该不该收你的钱了。"
+    e "我都不知道该不该收你钱了。"
 
 translate schinese Scene_Tavern_Meet_03_a89433c9:
 
     # "The patron chuckles."
-    "顾客笑了。"
+    "面前的绅士露出微笑。"
 
 translate schinese Scene_Tavern_Meet_03_252bab88:
 
     # patron "You've earned it. I have plenty of fun."
-    patron "你已经拿到报酬了。我也非常享受。"
+    patron "这是你应得的。我很尽兴。"
 
 translate schinese Scene_Tavern_Meet_03_fb676147:
 
     # "After sharing a few more kisses, you two start to clean up the place."
-    "随着两人的数次亲吻，你们开始打扫这里。"
+    "再度拥吻几回后，你们将房间清理干净，一起走出了包间。"
 
 translate schinese Scene_Tavern_Meet_03_1e701e48:
 
     # "Then, you leave the backroom with the patron."
-    "随后，你和顾客一起离开了密室。"
+    pass
 
 # translate schinese scene_buggbear_win_29b45cf6:
 
