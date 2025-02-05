@@ -366,12 +366,12 @@ translate schinese Cane_Work_392c40f8:
 translate schinese Cane_Work_572c9742:
 
     # c "Ye've a patron waitin' for ye in the backroom."
-    c "他已经在里面等你了。"
+    pass
 
 translate schinese Cane_Work_46f4825c:
 
     # c "I'll hand ye the pay once yer done."
-    c "完事记得来找我领工钱。"
+    pass
 
 translate schinese strings:
 
@@ -391,6 +391,7 @@ translate schinese Cane_Work_99900951:
 translate schinese Cane_Work_e0696090:
 
     # e "O-ok! Thank you, Cane."
+    c "他已经在里面等你了,完事记得找我领工钱。"
     e "噢、好的！"
 
 translate schinese Cane_Work_0c1134d3:
@@ -1140,7 +1141,7 @@ translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
 translate schinese Cane_Event_Patron_Show_5518bece:
 
     # "After a hard day of working at the tavern, you walk over to the counter to get your pay."
-    "忙活完半天，你走去吧台找老板领取应得的报酬。"
+    "忙活完半天，你走到吧台找老板领取应得的报酬。"
 
 translate schinese Cane_Event_Patron_Show_f617c069:
 
@@ -1220,7 +1221,7 @@ translate schinese Cane_Event_Patron_Show_3a554196:
 translate schinese Cane_Event_Patron_Show_1f6a82a9:
 
     # c "These goons're gonna be payin' extra to spend some quality alone time with my tavern's star server."
-    c "说回那群老酒鬼，能用金钱与夜夜椿明星店小二独处一晚，他们巴不得。"
+    c "说回那群老酒鬼。能用金钱与夜夜椿明星店小二独处一晚，他们巴不得。"
 
 translate schinese Cane_Event_Patron_Show_a2ea2729:
 
@@ -1325,7 +1326,7 @@ translate schinese Cane_Private_Show_Quest_Accept_b35433e6:
 translate schinese Cane_Private_Show_Quest_Accept_c4665027:
 
     # "Cane chuckles."
-    "凯恩轻笑。"
+    "凯恩轻笑道："
 
 translate schinese Cane_Private_Show_Quest_Accept_6ac00643:
 
@@ -1342,9 +1343,9 @@ translate schinese Cane_Private_Show_Quest_Accept_0e754dac:
     # c "I've cleared out a space for ya, but we need to spruce it up some. Ya know, make it look all prettylike to match ye."
     c "所以我专门给你捯饬出了个房间，不过得再拾掇下，漂漂亮亮才配得上你哩。"
 
-translate schinese Cane_Private_Show_Quest_Accept_c39a4666:
+translate template Cane_Private_Show_Quest_Accept_7a2dba75:
 
-    # c "Ye'll also need somethin' more suitable to wear for the job…"
+    # c "Ye'll also need somethin' more suitable to wear for the job..."
     c "还得给你买两身情趣套装……"
 
 translate schinese Cane_Private_Show_Quest_Accept_9c44ef3e:
@@ -1375,12 +1376,12 @@ translate schinese Cane_Private_Show_Quest_Accept_7633e33a:
 translate schinese Cane_Private_Show_Quest_Accept_60eff8d3:
 
     # "Cane winks at you. Seems like he's had experience, or past mistakes with this before."
-    "凯恩朝你眨了眨眼睛。看起来要么他自己中过招，要么见过谁被刺着了。"
+    "凯恩朝你眨眨眼睛。看起来要么他自己中过招，要么见过谁被刺着了。"
 
 translate schinese Cane_Private_Show_Quest_Accept_61b6436f:
 
     # c "So get'em done and we'll proceed."
-    c "等你整好我们就开张。"
+    c "等你整好咱就开张。"
 
 translate schinese Cane_Private_Show_Quest_Finish_a1e89c3b:
 
@@ -1410,12 +1411,12 @@ translate schinese Cane_Private_Show_Quest_Finish_285d392e:
 translate schinese Cane_Private_Show_03cf1996:
 
     # "Cane ruffles your hair, and smacks your ass, ushering you to the back of the tavern."
-    "凯恩揉了揉你的头发，朝屁股大拍一巴掌，将你赶去包间。"
+    "凯恩揉了揉你的头发，朝屁股大拍一巴掌，将你赶去走廊尽头。"
 
 translate schinese Cane_Private_Show_506cc63f:
 
     # c "Hey, kid. Here's the payment for the job."
-    c "嘿，小孩儿。这是你工作的报酬。"
+    c "嘿，小浪蛋。这是你工作的报酬。"
 
 translate schinese Cane_Private_Show_a84dcabc:
 
@@ -1455,7 +1456,7 @@ translate schinese Cane_Private_Show_f8bda3c4:
 translate schinese Cane_Private_Show_e23948d0:
 
     # c "Well if ya did, ya did a good job of it."
-    c "如果真是这样，那你干得可真不赖嘞，给大半个夜夜椿听见里头翻云覆雨。"
+    c "倘若真是那样，那你干得可真不赖嘞，给大半个夜夜椿听见里头翻云覆雨。"
 
 translate schinese Cane_Private_Show_23743068:
 
@@ -1465,7 +1466,7 @@ translate schinese Cane_Private_Show_23743068:
 translate schinese Cane_Private_Show_18c66091:
 
     # c "Sounded like ye did a good job, 'specially if the patron's faces were anything to go by"
-    c "听声儿就知道你服务卖力嘞，客人出来时都容光焕发的。"
+    c "听声儿就知道你服务卖力，客人出来时都容光焕发的。"
 
 translate schinese Cane_Private_Show_806fee95:
 
@@ -1485,22 +1486,22 @@ translate schinese Cane_Private_Show_579cd8c3:
 translate schinese Cane_Private_Show_3cd8d1f1:
 
     # e "Looks like they weren't the only ones that enjoyed the show. Bet you were thinking about getting in there sometime too."
-    e "我看不止客人们很享受嘛，你也早就想加入了吧。"
+    e "我看不止客人们很享受，你也早就想加入了吧。"
 
 translate schinese Cane_Private_Show_09bc1806:
 
     # c "Hah! Don' get ahead o' yourself lad. Ye'll need more than that to woo this old bat."
-    c "哈！别恁自作多情，小浪蛋。想让我这老蝙蝠凑热闹你还得再加把劲儿。"
+    c "哈！别恁自作多情，小浪蛋。要让我这老蝙蝠凑热闹你还得再加把劲儿。"
 
 translate schinese Cane_Private_Show_28bae33c:
 
     # c "Ye keep this up, and soon enough the backrooms'll be more popular than the front of the tavern!"
-    c "好好干，没准儿再过几天包间的生意比大厅还好哩！"
+    c "好好干，没准再过几天包间的生意比大厅还好哩！"
 
 translate schinese Cane_Private_Show_eaf1f12d:
 
     # "You blush."
-    "你脸红了。"
+    "你脸更红了。"
 
 translate schinese Cane_Private_Show_0901abbc:
 
@@ -1510,7 +1511,7 @@ translate schinese Cane_Private_Show_0901abbc:
 translate schinese Cane_Private_Show_d22d7266:
 
     # c "Chin up, lad, ye did a great job, just like I knew ye would."
-    c "甭谦虚，娃娃仔。你做嘞很出色，我就知道我不会看错人。"
+    c "甭谦虚娃娃仔。你做嘞很出色，我就知道我不会看错人。"
 
 translate schinese Cane_Private_Show_898c37db:
 
@@ -1535,7 +1536,7 @@ translate schinese Cane_Private_Show_8b6c73e7:
 translate schinese Cane_Private_Show_c8708ab7:
 
     # "His voice is unusually warm when he says this, his husky voice tinged in a way you never heard before."
-    "他的声音粗哑而又异常温柔，携着未曾有过的暖意。"
+    "他的声音粗哑而又异常温柔，透出未曾有过的暖意。"
 
 translate schinese Cane_Private_Show_4abba32f:
 
@@ -1545,7 +1546,7 @@ translate schinese Cane_Private_Show_4abba32f:
 translate schinese Cane_Private_Show_42241238:
 
     # "Your body heats, and your face flushes red with equal parts excitement and embarrassment from the potential inherent to that sentence."
-    "你浑身燥热，想象着凯恩隐晦的“新花样”，既害羞又兴奋。"
+    "你浑身燥热，想象着凯恩隐晦的“新花样”，既害臊又兴奋。"
 
 translate schinese Cane_Private_Show_f65290eb:
 
@@ -1630,7 +1631,7 @@ translate schinese Cane_Private_Show_ee71b727:
 translate schinese Cane_Private_Show_3f06c7ad:
 
     # c "Lookin' forward to yer next visit to the backroom."
-    c "包间等着你下次光顾嘞。"
+    c "我的包间期待你下次再来嘞。"
 
 translate schinese Cane_Ask_Lusterfield_325e8898:
 
