@@ -24,17 +24,17 @@ translate schinese strings:
     old "{color=#000}Losing in Buggbear Battle{/color}"
     new "{color=#000}战败熊地精{/color}"
 
-    # old "{color=#000}Winning in Buggbear Battle{/color}"
-    # new "{color=#000}战胜熊地精{/color}"
+    old "{color=#000}Winning in Buggbear Battle{/color}"
+    new "{color=#000}战胜熊地精{/color}"
 
-    # old "{color=#000}Serving in Private Show 1{/color}"
-    # new "{color=#000}私人服务A{/color}"
+    old "{color=#000}Serving in Private Show 1{/color}"
+    new "{color=#000}私人服务A{/color}"
 
-    # old "{color=#000}Serving in Private Show 2{/color}"
-    # new "{color=#000}私人服务B{/color}"
+    old "{color=#000}Serving in Private Show 2{/color}"
+    new "{color=#000}私人服务B{/color}"
 
-    # old "{color=#000}Serving in Private Show 3{/color}"
-    # new "{color=#000}私人服务C{/color}"
+    old "{color=#000}Serving in Private Show 3{/color}"
+    new "{color=#000}私人服务C{/color}"
 
     old "{color=#000}Groping Lothar after Sparring{/color}"
     new "{color=#000}玩弄洛萨尔的胸肌{/color}"
