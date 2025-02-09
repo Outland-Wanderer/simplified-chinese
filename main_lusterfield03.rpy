@@ -3666,335 +3666,335 @@ translate schinese Jog_Lothar_Training_5c591fd1:
 #     # "Well. You've got a werewolf to go convince."
 #     ""
 
-# translate schinese Jog_Ole_Training_Scene_18fe3705:
+translate schinese Jog_Ole_Training_Scene_18fe3705:
 
-#     # e "Jog, I'm here for training."
-#     e ""
+    # e "Jog, I'm here for training."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_e600cd0a:
+translate schinese Jog_Ole_Training_Scene_e600cd0a:
 
-#     # "Jog hops down from his haybale."
-#     ""
+    # "Jog hops down from his haybale."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_f785cef8:
+translate schinese Jog_Ole_Training_Scene_f785cef8:
 
-#     # j "Perfect timing. Let's go."
-#     j ""
+    # j "Perfect timing. Let's go."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_c4086d54:
+translate schinese Jog_Ole_Training_Scene_c4086d54:
 
-#     # e "Where are we going?"
-#     e ""
+    # e "Where are we going?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_20b80bf1:
+translate schinese Jog_Ole_Training_Scene_20b80bf1:
 
-#     # j "The bushes near the forest will be fine."
-#     j ""
+    # j "The bushes near the forest will be fine."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_b9f6bb9c:
+translate schinese Jog_Ole_Training_Scene_b9f6bb9c:
 
-#     # e "What are we going to do?"
-#     e ""
+    # e "What are we going to do?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_7428efc6:
+translate schinese Jog_Ole_Training_Scene_7428efc6:
 
-#     # j "You'll find out."
-#     j ""
+    # j "You'll find out."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_a838e0e0:
+translate schinese Jog_Ole_Training_Scene_a838e0e0:
 
-#     # e "Do I need to prepare anything?"
-#     e ""
+    # e "Do I need to prepare anything?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_82d7ded8:
+translate schinese Jog_Ole_Training_Scene_82d7ded8:
 
-#     # j "Just bring your handsome self there."
-#     j ""
+    # j "Just bring your handsome self there."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_ea03e3b9:
+translate schinese Jog_Ole_Training_Scene_ea03e3b9:
 
-#     # j "And enough with the 20 questions. I'll meet you there."
-#     j ""
+    # j "And enough with the 20 questions. I'll meet you there."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_1962914c:
+translate schinese Jog_Ole_Training_Scene_1962914c:
 
-#     # "You are about to suggest that you two can travel there together, but as you turn the corner, you see he's already disappeared."
-#     ""
+    # "You are about to suggest that you two can travel there together, but as you turn the corner, you see he's already disappeared."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_8491e5b8:
+translate schinese Jog_Ole_Training_Scene_8491e5b8:
 
-#     # "You arrive at the forest. The place is peaceful and serene."
-#     ""
+    # "You arrive at the forest. The place is peaceful and serene."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_6248a843:
+translate schinese Jog_Ole_Training_Scene_6248a843:
 
-#     # "Jog is nowhere to be found."
-#     ""
+    # "Jog is nowhere to be found."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_bcde38c5:
+translate schinese Jog_Ole_Training_Scene_bcde38c5:
 
-#     # e "Jog? Are you there?"
-#     e ""
+    # e "Jog? Are you there?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_02cda242:
+translate schinese Jog_Ole_Training_Scene_02cda242:
 
-#     # "The only answer you get is the chirping of birds."
-#     ""
+    # "The only answer you get is the chirping of birds."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_4211b0c4:
+translate schinese Jog_Ole_Training_Scene_4211b0c4:
 
-#     # "Just as you wonder if this is a prank, you feel a pinch on your butt."
-#     ""
+    # "Just as you wonder if this is a prank, you feel a pinch on your butt."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_33ce38fc:
+translate schinese Jog_Ole_Training_Scene_33ce38fc:
 
-#     # j "That was your punishment for making me wait so long."
-#     j ""
+    # j "That was your punishment for making me wait so long."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_d333a3bf:
+translate schinese Jog_Ole_Training_Scene_d333a3bf:
 
-#     # "Jog appears out of the shadows."
-#     ""
+    # "Jog appears out of the shadows."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_e52165e5:
+translate schinese Jog_Ole_Training_Scene_e52165e5:
 
-#     # "He is carrying a basket of what appears to be different kinds of berries."
-#     ""
+    # "He is carrying a basket of what appears to be different kinds of berries."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_5c609639:
+translate schinese Jog_Ole_Training_Scene_5c609639:
 
-#     # e "What do you have there, Jog?"
-#     e ""
+    # e "What do you have there, Jog?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_43a2d3c1:
+translate schinese Jog_Ole_Training_Scene_43a2d3c1:
 
-#     # e "Are we going berry-picking?"
-#     e ""
+    # e "Are we going berry-picking?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_9752d2ec:
+translate schinese Jog_Ole_Training_Scene_9752d2ec:
 
-#     # j "Are we children frolicking through the woods? No."
-#     j ""
+    # j "Are we children frolicking through the woods? No."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_bf07d712:
+translate schinese Jog_Ole_Training_Scene_bf07d712:
 
-#     # j "I'm going to teach you a skill vital to being a scout."
-#     j ""
+    # j "I'm going to teach you a skill vital to being a scout."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_924d27d3:
+translate schinese Jog_Ole_Training_Scene_924d27d3:
 
-#     # e "What is it?"
-#     e ""
+    # e "What is it?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_aaf07927:
+translate schinese Jog_Ole_Training_Scene_aaf07927:
 
-#     # j "The art of camouflage."
-#     j ""
+    # j "The art of camouflage."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_6df8025b:
+translate schinese Jog_Ole_Training_Scene_6df8025b:
 
-#     # e "That sounds cool."
-#     e ""
+    # e "That sounds cool."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_eaa0a922:
+translate schinese Jog_Ole_Training_Scene_eaa0a922:
 
-#     # j "And highly useful."
-#     j ""
+    # j "And highly useful."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_6cc867db:
+translate schinese Jog_Ole_Training_Scene_6cc867db:
 
-#     # e "But how are the berries involved?"
-#     e ""
+    # e "But how are the berries involved?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_8582534f:
+translate schinese Jog_Ole_Training_Scene_8582534f:
 
-#     # "Jog shakes the basket."
-#     ""
+    # "Jog shakes the basket."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_8270ebc0:
+translate schinese Jog_Ole_Training_Scene_8270ebc0:
 
-#     # j "You wouldn't be carrying paint with you out in the wilds, would you?"
-#     j ""
+    # j "You wouldn't be carrying paint with you out in the wilds, would you?"
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_879634cc:
+translate schinese Jog_Ole_Training_Scene_879634cc:
 
-#     # e "No."
-#     e ""
+    # e "No."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_e7da5408:
+translate schinese Jog_Ole_Training_Scene_e7da5408:
 
-#     # j "Bingo. But these berries can be found everywhere. As long as you know your colors, you can basically mix up any hue you need for the perfect camouflage."
-#     j ""
+    # j "Bingo. But these berries can be found everywhere. As long as you know your colors, you can basically mix up any hue you need for the perfect camouflage."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_6ac99167:
+translate schinese Jog_Ole_Training_Scene_6ac99167:
 
-#     # e "That sounds neat."
-#     e ""
+    # e "That sounds neat."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_85d83fe9:
+translate schinese Jog_Ole_Training_Scene_85d83fe9:
 
-#     # j "Alright. Now, strip."
-#     j ""
+    # j "Alright. Now, strip."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_ad8f48d1:
+translate schinese Jog_Ole_Training_Scene_ad8f48d1:
 
-#     # "You are surprised by the demand."
-#     ""
+    # "You are surprised by the demand."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_790c5b80:
+translate schinese Jog_Ole_Training_Scene_790c5b80:
 
-#     # e "Strip? Why?"
-#     e ""
+    # e "Strip? Why?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_e3bc7524:
+translate schinese Jog_Ole_Training_Scene_e3bc7524:
 
-#     # j "Cause berries stain, and I'm not going have you blame me for ruining your clothes later."
-#     j ""
+    # j "Cause berries stain, and I'm not going have you blame me for ruining your clothes later."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_743e5839:
+translate schinese Jog_Ole_Training_Scene_743e5839:
 
-#     # j "Plus, this makes the lesson a lot more fun."
-#     j ""
+    # j "Plus, this makes the lesson a lot more fun."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_19022f52:
+translate schinese Jog_Ole_Training_Scene_19022f52:
 
-#     # "Jog winks naughtily at you."
-#     ""
+    # "Jog winks naughtily at you."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_4d14a03f:
+translate schinese Jog_Ole_Training_Scene_4d14a03f:
 
-#     # j "Stop wasting time. Get those clothes off."
-#     j ""
+    # j "Stop wasting time. Get those clothes off."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_5290c77d:
+translate schinese Jog_Ole_Training_Scene_5290c77d:
 
-#     # j "You're not shy, are you?"
-#     j ""
+    # j "You're not shy, are you?"
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_5d25027a:
+translate schinese Jog_Ole_Training_Scene_5d25027a:
 
-#     # e "No..."
-#     e ""
+    # e "No..."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_86dfce74:
+translate schinese Jog_Ole_Training_Scene_86dfce74:
 
-#     # "You strip down to your loincloth."
-#     ""
+    # "You strip down to your loincloth."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_57ef6df3:
+translate schinese Jog_Ole_Training_Scene_57ef6df3:
 
-#     # "Even though Jog is also just standing there in his briefs, you can't help but feel a little self-conscious."
-#     ""
+    # "Even though Jog is also just standing there in his briefs, you can't help but feel a little self-conscious."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_c8027eae:
+translate schinese Jog_Ole_Training_Scene_c8027eae:
 
-#     # "Jog whistles."
-#     ""
+    # "Jog whistles."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_30de0b66:
+translate schinese Jog_Ole_Training_Scene_30de0b66:
 
-#     # j "Nice bod."
-#     j ""
+    # j "Nice bod."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_4b01a27e:
+translate schinese Jog_Ole_Training_Scene_4b01a27e:
 
-#     # e "Jog, focus."
-#     e ""
+    # e "Jog, focus."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_a423411c:
+translate schinese Jog_Ole_Training_Scene_a423411c:
 
-#     # j "I am."
-#     j ""
+    # j "I am."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_a7868852:
+translate schinese Jog_Ole_Training_Scene_a7868852:
 
-#     # "He says this as he focuses his eyes on your exposed body."
-#     ""
+    # "He says this as he focuses his eyes on your exposed body."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_23236483:
+translate schinese Jog_Ole_Training_Scene_23236483:
 
-#     # e "Jog, be serious."
-#     e ""
+    # e "Jog, be serious."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_9660dd78:
+translate schinese Jog_Ole_Training_Scene_9660dd78:
 
-#     # j "Alright. Loosen up a little... Or I might need to help you."
-#     j ""
+    # j "Alright. Loosen up a little... Or I might need to help you."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_b285ef14:
+translate schinese Jog_Ole_Training_Scene_b285ef14:
 
-#     # j "Anyway, look at this."
-#     j ""
+    # j "Anyway, look at this."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_8fb47169:
+translate schinese Jog_Ole_Training_Scene_8fb47169:
 
-#     # "Jog grabs a handful of blue and golden berries."
-#     ""
+    # "Jog grabs a handful of blue and golden berries."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_35c6c913:
+translate schinese Jog_Ole_Training_Scene_35c6c913:
 
-#     # "He mulches them in his paw. To your surprise, the berries slowly turn a green color that matches the color of the leaves around you."
-#     ""
+    # "He mulches them in his paw. To your surprise, the berries slowly turn a green color that matches the color of the leaves around you."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_b851e15c:
+translate schinese Jog_Ole_Training_Scene_b851e15c:
 
-#     # e "That's amazing."
-#     e ""
+    # e "That's amazing."
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_e7f841e9:
+translate schinese Jog_Ole_Training_Scene_e7f841e9:
 
-#     # "You are genuinely in awe."
-#     ""
+    # "You are genuinely in awe."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_0e609d17:
+translate schinese Jog_Ole_Training_Scene_0e609d17:
 
-#     # j "You can get any color you want as long as you know how to combine them."
-#     j ""
+    # j "You can get any color you want as long as you know how to combine them."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_52124093:
+translate schinese Jog_Ole_Training_Scene_52124093:
 
-#     # "Jog adds a few more golden berries to the mix, and the color morphs to a brighter emerald shade."
-#     ""
+    # "Jog adds a few more golden berries to the mix, and the color morphs to a brighter emerald shade."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_f0712253:
+translate schinese Jog_Ole_Training_Scene_f0712253:
 
-#     # j "With some shading, you can create the illusion of shadows."
-#     j ""
+    # j "With some shading, you can create the illusion of shadows."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_d0a0f53a:
+translate schinese Jog_Ole_Training_Scene_d0a0f53a:
 
-#     # j "Plus, you can use more than just berries. Everything around you can be used as a material."
-#     j ""
+    # j "Plus, you can use more than just berries. Everything around you can be used as a material."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_eaee73d2:
+translate schinese Jog_Ole_Training_Scene_eaee73d2:
 
-#     # "To demonstrate, Jog picks up some soil and mashes it with some red berries."
-#     ""
+    # "To demonstrate, Jog picks up some soil and mashes it with some red berries."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_c46275e1:
+translate schinese Jog_Ole_Training_Scene_c46275e1:
 
-#     # "The bright redness of the berries becomes more coppery. You then realize what he is trying to mimic."
-#     ""
+    # "The bright redness of the berries becomes more coppery. You then realize what he is trying to mimic."
+    ""
 
-# translate schinese Jog_Ole_Training_Scene_2a032647:
+translate schinese Jog_Ole_Training_Scene_2a032647:
 
-#     # e "Is that blood?"
-#     e ""
+    # e "Is that blood?"
+    e ""
 
-# translate schinese Jog_Ole_Training_Scene_5fd27299:
+translate schinese Jog_Ole_Training_Scene_5fd27299:
 
-#     # j "Correct. Or at least, it's fake blood."
-#     j ""
+    # j "Correct. Or at least, it's fake blood."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_926d38be:
+translate schinese Jog_Ole_Training_Scene_926d38be:
 
-#     # j "Useful when trying to lead your enemies down a false trail."
-#     j ""
+    # j "Useful when trying to lead your enemies down a false trail."
+    j ""
 
-# translate schinese Jog_Ole_Training_Scene_efcd41db:
+translate schinese Jog_Ole_Training_Scene_efcd41db:
 
-#     # j "Now, onto the fun part."
-#     j ""
+    # j "Now, onto the fun part."
+    j ""
 
 translate schinese Jog_Ask_How_Doing_24c5ec78:
 
@@ -4641,6 +4641,12 @@ translate schinese strings:
     old "Ask for Training"
     new "提起洛萨尔要求的训练"
 
+    old "Ask about the training Ole mentioned"
+    new "询问奥利提到的训练"
+
+    old "Ask about Training Ole mentioned"
+    new "询问奥利提到的训练"
+
 translate schinese Amble_Normal_Talk_e1b4b9b5:
 
     # e "What about the other dudes?"
@@ -4656,235 +4662,235 @@ translate schinese strings:
     old "Ask about Jog"
     new "打听乔格"
 
-# translate schinese Amble_Ole_Training_de33b095:
+translate schinese Amble_Ole_Training_de33b095:
 
-#     # e "Amble, do you have some time?"
-#     e ""
+    # e "Amble, do you have some time?"
+    e "你最近有空吗？"
 
-# translate schinese Amble_Ole_Training_ebb2afb6:
+translate schinese Amble_Ole_Training_ebb2afb6:
 
-#     # a "Sure."
-#     a ""
+    # a "Sure."
+    a "有啊。"
 
-# translate schinese Amble_Ole_Training_a09ee073:
+translate schinese Amble_Ole_Training_a09ee073:
 
-#     # e "You and Jog have been travelling much longer than I am."
-#     e ""
+    # e "You and Jog have been travelling much longer than I am."
+    e "你和乔格的冒险经历肯定比我长多了。"
 
-# translate schinese Amble_Ole_Training_b760ddd9:
+translate schinese Amble_Ole_Training_b760ddd9:
 
-#     # a "Correct."
-#     a ""
+    # a "Correct."
+    a "没错。"
 
-# translate schinese Amble_Ole_Training_026bfe9f:
+translate schinese Amble_Ole_Training_026bfe9f:
 
-#     # e "So that you means you have more battle experience."
-#     e ""
+    # e "So that you means you have more battle experience."
+    e "也就是说，你们的战斗经验很丰富。"
 
-# translate schinese Amble_Ole_Training_210c06eb:
+translate schinese Amble_Ole_Training_210c06eb:
 
-#     # a "Yes."
-#     a ""
+    # a "Yes."
+    a "当然。"
 
-# translate schinese Amble_Ole_Training_0ceac477:
+translate schinese Amble_Ole_Training_0ceac477:
 
-#     # e "In that case, Amble, do you have any battle skills that you can teach me?"
-#     e ""
+    # e "In that case, Amble, do you have any battle skills that you can teach me?"
+    e "这样的话，安布，请问你有没有什么战斗技巧可以教教我？"
 
-# translate schinese Amble_Ole_Training_5b9749a1:
+translate schinese Amble_Ole_Training_5b9749a1:
 
-#     # a "Hmm... I think so."
-#     a ""
+    # a "Hmm... I think so."
+    a "唔……应该有吧。"
 
-# translate schinese Amble_Ole_Training_28765077:
+translate schinese Amble_Ole_Training_28765077:
 
-#     # e "That's great."
-#     e ""
+    # e "That's great."
+    e "太好了。"
 
-# translate schinese Amble_Ole_Training_0ae7ddde:
+translate schinese Amble_Ole_Training_0ae7ddde:
 
-#     # e "When do you think you can teach me?"
-#     e ""
+    # e "When do you think you can teach me?"
+    e "那你觉得什么时候方便教我呢？"
 
-# translate schinese Amble_Ole_Training_03c75f9b:
+translate schinese Amble_Ole_Training_03c75f9b:
 
-#     # a "How about now, my puny friend?"
-#     a ""
+    # a "How about now, my puny friend?"
+    a "要不就现在吧，小不点。"
 
-# translate schinese Amble_Ole_Training_577e4bd1:
+translate schinese Amble_Ole_Training_577e4bd1:
 
-#     # e "Okay."
-#     e ""
+    # e "Okay."
+    e "好啊。"
 
-# translate schinese Amble_Ole_Training_f78c2279:
+translate schinese Amble_Ole_Training_f78c2279:
 
-#     # "A voice travels from the other end of the archery field."
-#     ""
+    # "A voice travels from the other end of the archery field."
+    "这时，训练场对面传来另一个声音。"
 
-# translate schinese Amble_Ole_Training_8b47b126:
+translate schinese Amble_Ole_Training_8b47b126:
 
-#     # j "Hold on a second!"
-#     j ""
+    # j "Hold on a second!"
+    j "等一下！"
 
-# translate schinese Amble_Ole_Training_6db0516e:
+translate schinese Amble_Ole_Training_6db0516e:
 
-#     # "You and Amble turn around to see Jog tapping his feet and staring at you."
-#     ""
+    # "You and Amble turn around to see Jog tapping his feet and staring at you."
+    "你和安布转过身，看到乔格盯着你们气势汹汹地走过来。"
 
-# translate schinese Amble_Ole_Training_c32ee83b:
+translate schinese Amble_Ole_Training_c32ee83b:
 
-#     # j "Are you here on Lot's behest?"
-#     j ""
+    # j "Are you here on Lot's behest?"
+    j "是洛哥叫你来的吗？"
 
-# translate schinese Amble_Ole_Training_a817dd70:
+translate schinese Amble_Ole_Training_a817dd70:
 
-#     # e "Not really. But it's for the courier training..."
-#     e ""
+    # e "Not really. But it's for the courier training..."
+    e "不算是吧。但这也是为了巩固之前的差客训练……"
 
-# translate schinese Amble_Ole_Training_92965c87:
+translate schinese Amble_Ole_Training_92965c87:
 
-#     # "Jog interrupts you."
-#     ""
+    # "Jog interrupts you."
+    "乔格打断了你。"
 
-# translate schinese Amble_Ole_Training_801288ab:
+translate schinese Amble_Ole_Training_801288ab:
 
-#     # j "Sorry, friend. Can't help you there. Our training in Lusterfield is supervised by Lot."
-#     j ""
+    # j "Sorry, friend. Can't help you there. Our training in Lusterfield is supervised by Lot."
+    j "不好意思，伙计。这事儿我们帮不了。我们在乐村的任何训练都由洛哥监管。"
 
-# translate schinese Amble_Ole_Training_3643c182:
+translate schinese Amble_Ole_Training_3643c182:
 
-#     # j "We're not doing any extra training without going through him first."
-#     j ""
+    # j "We're not doing any extra training without going through him first."
+    j "没有他的同意，我们不能私自加练。"
 
-# translate schinese Amble_Ole_Training_d4993d94:
+translate schinese Amble_Ole_Training_d4993d94:
 
-#     # e "But..."
-#     e ""
+    # e "But..."
+    e "可是……"
 
-# translate schinese Amble_Ole_Training_5b089749:
+translate schinese Amble_Ole_Training_5b089749:
 
-#     # j "We don't make the rules."
-#     j ""
+    # j "We don't make the rules."
+    j "规矩不是我们定的。"
 
-# translate schinese Amble_Ole_Training_59ad9096:
+translate schinese Amble_Ole_Training_59ad9096:
 
-#     # "You turn to Amble for help."
-#     ""
+    # "You turn to Amble for help."
+    "你转向安布希望他能帮你说说话。"
 
-# translate schinese Amble_Ole_Training_1c8a96c3:
+translate schinese Amble_Ole_Training_1c8a96c3:
 
-#     # "Amble shrugs."
-#     ""
+    # "Amble shrugs."
+    "而他遗憾地耸肩。"
 
-# translate schinese Amble_Ole_Training_2b87488f:
+translate schinese Amble_Ole_Training_2b87488f:
 
-#     # a "What Jog says is right. Need to notify Lot first."
-#     a ""
+    # a "What Jog says is right. Need to notify Lot first."
+    a "乔格是对的。加练要先征得洛哥的同意。"
 
-# translate schinese Amble_Ole_Training_681e3962:
+translate schinese Amble_Ole_Training_681e3962:
 
-#     # "You sigh."
-#     ""
+    # "You sigh."
+    "你叹了口气。"
 
-# translate schinese Amble_Ole_Training_e53c6fed:
+translate schinese Amble_Ole_Training_e53c6fed:
 
-#     # e "Alright..."
-#     e ""
+    # e "Alright..."
+    e "好吧……"
 
-# translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
+translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
 
-#     # e "Alright. I got the permission from Lothar. He says the training is a go."
-#     e ""
+    # e "Alright. I got the permission from Lothar. He says the training is a go."
+    e ""
 
-# translate schinese Amble_Ole_Training_Lothar_db60e514:
+translate schinese Amble_Ole_Training_Lothar_db60e514:
 
-#     # a "Awesome. I knew he would agree. He's such a nice person."
-#     a ""
+    # a "Awesome. I knew he would agree. He's such a nice person."
+    a ""
 
-# translate schinese Amble_Ole_Training_Lothar_3f7c5517:
+translate schinese Amble_Ole_Training_Lothar_3f7c5517:
 
-#     # j "Color me surprised. I was a bit 50-50 on the result. I guess he does like you."
-#     j ""
+    # j "Color me surprised. I was a bit 50-50 on the result. I guess he does like you."
+    j ""
 
-# translate schinese Amble_Ole_Training_Lothar_546aaac0:
+translate schinese Amble_Ole_Training_Lothar_546aaac0:
 
-#     # "You are not so sure about that. The person Lothar likes is probably himself."
-#     ""
+    # "You are not so sure about that. The person Lothar likes is probably himself."
+    ""
 
-# translate schinese Amble_Ole_Training_Lothar_38dc0924:
+translate schinese Amble_Ole_Training_Lothar_38dc0924:
 
-#     # e "So, back to the skill training."
-#     e ""
+    # e "So, back to the skill training."
+    e ""
 
-# translate schinese Amble_Ole_Training_Lothar_681d664c:
+translate schinese Amble_Ole_Training_Lothar_681d664c:
 
-#     # a "Yes. This is fun. [e], I'll teach you how to properly crush the enemy in battle."
-#     a ""
+    # a "Yes. This is fun. [e], I'll teach you how to properly crush the enemy in battle."
+    a ""
 
-# translate schinese Amble_Ole_Training_Lothar_2ee980da:
+translate schinese Amble_Ole_Training_Lothar_2ee980da:
 
-#     # e "Sounds good."
-#     e ""
+    # e "Sounds good."
+    e ""
 
-# translate schinese Amble_Ole_Training_Lothar_617164c3:
+translate schinese Amble_Ole_Training_Lothar_617164c3:
 
-#     # a "But I'll have to get things prepared first. Give me some time?"
-#     a ""
+    # a "But I'll have to get things prepared first. Give me some time?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Lothar_2e8a5fe0:
+translate schinese Amble_Ole_Training_Lothar_2e8a5fe0:
 
-#     # e "Of course."
-#     e ""
+    # e "Of course."
+    e ""
 
-# translate schinese Amble_Ole_Training_Lothar_a1134b02:
+translate schinese Amble_Ole_Training_Lothar_a1134b02:
 
-#     # a "See you back here later, [e]."
-#     a ""
+    # a "See you back here later, [e]."
+    a ""
 
-# translate schinese Amble_Ole_Training_Lothar_70ddc782:
+translate schinese Amble_Ole_Training_Lothar_70ddc782:
 
-#     # "Amble gets into the idea of the training faster than you anticipate. He trundles off to make his preparation."
-#     ""
+    # "Amble gets into the idea of the training faster than you anticipate. He trundles off to make his preparation."
+    ""
 
-# translate schinese Amble_Ole_Training_Lothar_085bcf34:
+translate schinese Amble_Ole_Training_Lothar_085bcf34:
 
-#     # "After Amble leaves, Jog eyes you from his perch."
-#     ""
+    # "After Amble leaves, Jog eyes you from his perch."
+    ""
 
-# translate schinese Amble_Ole_Training_Lothar_5dff4ad8:
+translate schinese Amble_Ole_Training_Lothar_5dff4ad8:
 
-#     # e "So Jog, will you teach me some new skills too?"
-#     e ""
+    # e "So Jog, will you teach me some new skills too?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Lothar_b96acf5d:
+translate schinese Amble_Ole_Training_Lothar_b96acf5d:
 
-#     # "Jog ponders."
-#     ""
+    # "Jog ponders."
+    ""
 
-# translate schinese Amble_Ole_Training_Lothar_a3fd992c:
+translate schinese Amble_Ole_Training_Lothar_a3fd992c:
 
-#     # j "Eh, why not? Like the blockhead said, this will be fun."
-#     j ""
+    # j "Eh, why not? Like the blockhead said, this will be fun."
+    j ""
 
-# translate schinese Amble_Ole_Training_Lothar_467ca80f:
+translate schinese Amble_Ole_Training_Lothar_467ca80f:
 
-#     # "Jog's eyes glow with a mischievous glint."
-#     ""
+    # "Jog's eyes glow with a mischievous glint."
+    ""
 
-# translate schinese Amble_Ole_Training_Lothar_089d7b97:
+translate schinese Amble_Ole_Training_Lothar_089d7b97:
 
-#     # j "Similarly, I too need to prepare for this lesson. I assure you this lesson will be fun for us both."
-#     j ""
+    # j "Similarly, I too need to prepare for this lesson. I assure you this lesson will be fun for us both."
+    j ""
 
-# translate schinese Amble_Ole_Training_Lothar_a60a6a96:
+translate schinese Amble_Ole_Training_Lothar_a60a6a96:
 
-#     # e "...Okay."
-#     e ""
+    # e "...Okay."
+    e "好的……"
 
-# translate schinese Amble_Ole_Training_Lothar_fd27dbb3:
+translate schinese Amble_Ole_Training_Lothar_fd27dbb3:
 
-#     # "Jog rustles away."
-#     ""
+    # "Jog rustles away."
+    ""
 
 translate schinese Amble_Lothar_Training_a39ae20a:
 
@@ -5587,615 +5593,615 @@ translate schinese Amble_Lothar_Training_f407b3d4:
     # "After Amble disappear from view, you relax fully into the water. However, there's one part of you that refuses to calm down."
     "待他走远后，你终于能真正静下心来放松。不过你的小兄弟好像并不那么想……"
 
-# translate schinese Amble_Ole_Training_Scene_9ac7cf24:
+translate schinese Amble_Ole_Training_Scene_9ac7cf24:
 
-#     # a "Puny friend, here you are!"
-#     a ""
+    # a "Puny friend, here you are!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_cb425fb7:
+translate schinese Amble_Ole_Training_Scene_cb425fb7:
 
-#     # e "Amble, were you looking for me?"
-#     e ""
+    # e "Amble, were you looking for me?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_d0e50c36:
+translate schinese Amble_Ole_Training_Scene_d0e50c36:
 
-#     # a "Oh yes. Aren't we going to get to the skill training?"
-#     a ""
+    # a "Oh yes. Aren't we going to get to the skill training?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4e1070cb:
+translate schinese Amble_Ole_Training_Scene_4e1070cb:
 
-#     # e "Yea, but I wasn't expecting you to be so into it."
-#     e ""
+    # e "Yea, but I wasn't expecting you to be so into it."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_dad18d94:
+translate schinese Amble_Ole_Training_Scene_dad18d94:
 
-#     # a "Of course. We have to do everything with everything we've got!"
-#     a ""
+    # a "Of course. We have to do everything with everything we've got!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_e478e865:
+translate schinese Amble_Ole_Training_Scene_e478e865:
 
-#     # a "Come on now."
-#     a ""
+    # a "Come on now."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_f022caa2:
+translate schinese Amble_Ole_Training_Scene_f022caa2:
 
-#     # "Amble turns and waves for you to follow."
-#     ""
+    # "Amble turns and waves for you to follow."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_ee89007c:
+translate schinese Amble_Ole_Training_Scene_ee89007c:
 
-#     # e "Amble, wait!"
-#     e ""
+    # e "Amble, wait!"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_3cb7739f:
+translate schinese Amble_Ole_Training_Scene_3cb7739f:
 
-#     # "Amble stops and turns to you."
-#     ""
+    # "Amble stops and turns to you."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_c3786cda:
+translate schinese Amble_Ole_Training_Scene_c3786cda:
 
-#     # a "What's wrong?"
-#     a ""
+    # a "What's wrong?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_5d8ee48a:
+translate schinese Amble_Ole_Training_Scene_5d8ee48a:
 
-#     # e "Where are we going? Aren't we doing the training here?"
-#     e ""
+    # e "Where are we going? Aren't we doing the training here?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_e359f166:
+translate schinese Amble_Ole_Training_Scene_e359f166:
 
-#     # "You gesture at the archery training field."
-#     ""
+    # "You gesture at the archery training field."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_5d1161e9:
+translate schinese Amble_Ole_Training_Scene_5d1161e9:
 
-#     # a "Silly friend. Of course not. We're going to somewhere else for this special training. Come with me."
-#     a ""
+    # a "Silly friend. Of course not. We're going to somewhere else for this special training. Come with me."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_36f80a9b:
+translate schinese Amble_Ole_Training_Scene_36f80a9b:
 
-#     # "Amble walks away."
-#     ""
+    # "Amble walks away."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_83b7176c:
+translate schinese Amble_Ole_Training_Scene_83b7176c:
 
-#     # "He waves, greets and nods at everyone along the way. Dwarfed by his size, you follow silently behind Amble."
-#     ""
+    # "He waves, greets and nods at everyone along the way. Dwarfed by his size, you follow silently behind Amble."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_c0861881:
+translate schinese Amble_Ole_Training_Scene_c0861881:
 
-#     # "You cannot help but admire the view before you."
-#     ""
+    # "You cannot help but admire the view before you."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_72df042b:
+translate schinese Amble_Ole_Training_Scene_72df042b:
 
-#     # "Amble's large ass swings and bounces with each of the bear's steps."
-#     ""
+    # "Amble's large ass swings and bounces with each of the bear's steps."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_4ebdad8d:
+translate schinese Amble_Ole_Training_Scene_4ebdad8d:
 
-#     # "You are reminded of what Jog said. Having a good view was a good perk when training with Amble."
-#     ""
+    # "You are reminded of what Jog said. Having a good view was a good perk when training with Amble."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_c9b8cdaf:
+translate schinese Amble_Ole_Training_Scene_c9b8cdaf:
 
-#     # "You have to agree."
-#     ""
+    # "You have to agree."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_04a969ed:
+translate schinese Amble_Ole_Training_Scene_04a969ed:
 
-#     # "You two continues the journey in silence. You openly admiring Amble's assets from behind while Amble humming joyfully to himself."
-#     ""
+    # "You two continues the journey in silence. You openly admiring Amble's assets from behind while Amble humming joyfully to himself."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_6e485cba:
+translate schinese Amble_Ole_Training_Scene_6e485cba:
 
-#     # "Finally, you arrive at the logging site."
-#     ""
+    # "Finally, you arrive at the logging site."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_9d2dcd9c:
+translate schinese Amble_Ole_Training_Scene_9d2dcd9c:
 
-#     # a "Here we are!"
-#     a ""
+    # a "Here we are!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4007e1ff:
+translate schinese Amble_Ole_Training_Scene_4007e1ff:
 
-#     # "You look around."
-#     ""
+    # "You look around."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_bc196448:
+translate schinese Amble_Ole_Training_Scene_bc196448:
 
-#     # "It is the same place as you trained with Amble last time."
-#     ""
+    # "It is the same place as you trained with Amble last time."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_a1f996dc:
+translate schinese Amble_Ole_Training_Scene_a1f996dc:
 
-#     # e "Why are we here?"
-#     e ""
+    # e "Why are we here?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_131ba3a8:
+translate schinese Amble_Ole_Training_Scene_131ba3a8:
 
-#     # a "Because the lesson is related to the trees, silly."
-#     a ""
+    # a "Because the lesson is related to the trees, silly."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_e9daa6d9:
+translate schinese Amble_Ole_Training_Scene_e9daa6d9:
 
-#     # "He looks at you as if that cannot be more obvious."
-#     ""
+    # "He looks at you as if that cannot be more obvious."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_69d6e974:
+translate schinese Amble_Ole_Training_Scene_69d6e974:
 
-#     # e "How can battle skill be related to trees?"
-#     e ""
+    # e "How can battle skill be related to trees?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_e9bdd514:
+translate schinese Amble_Ole_Training_Scene_e9bdd514:
 
-#     # a "You can learn a lot from nature. I'll show you. But before that..."
-#     a ""
+    # a "You can learn a lot from nature. I'll show you. But before that..."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_03cd4f2b:
+translate schinese Amble_Ole_Training_Scene_03cd4f2b:
 
-#     # a "Let me just do this..."
-#     a ""
+    # a "Let me just do this..."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_622c3bee:
+translate schinese Amble_Ole_Training_Scene_622c3bee:
 
-#     # "Amble strides up to you and starts to remove your armor."
-#     ""
+    # "Amble strides up to you and starts to remove your armor."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_77a11d01:
+translate schinese Amble_Ole_Training_Scene_77a11d01:
 
-#     # "The plates and shoulder pieces fall to the ground with heavy thuds."
-#     ""
+    # "The plates and shoulder pieces fall to the ground with heavy thuds."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_18b3e9e0:
+translate schinese Amble_Ole_Training_Scene_18b3e9e0:
 
-#     # "Flustered, you try to stop Amble but he's much too strong."
-#     ""
+    # "Flustered, you try to stop Amble but he's much too strong."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_cf343cfe:
+translate schinese Amble_Ole_Training_Scene_cf343cfe:
 
-#     # e "Am-Amble, what are you doing?"
-#     e ""
+    # e "Am-Amble, what are you doing?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_dfa153eb:
+translate schinese Amble_Ole_Training_Scene_dfa153eb:
 
-#     # a "I'm preparing you for the training of course!"
-#     a ""
+    # a "I'm preparing you for the training of course!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_11929dba:
+translate schinese Amble_Ole_Training_Scene_11929dba:
 
-#     # "Amble explains as he continues to undress you."
-#     ""
+    # "Amble explains as he continues to undress you."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_81ebe667:
+translate schinese Amble_Ole_Training_Scene_81ebe667:
 
-#     # "What kind of training would require you to be naked?"
-#     ""
+    # "What kind of training would require you to be naked?"
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_1d99fdac:
+translate schinese Amble_Ole_Training_Scene_1d99fdac:
 
-#     # "An answer pops up in your mind and your cheeks redden."
-#     ""
+    # "An answer pops up in your mind and your cheeks redden."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_7493f6af:
+translate schinese Amble_Ole_Training_Scene_7493f6af:
 
-#     # e "Am-Amble, I don't mind that kind of training but..."
-#     e ""
+    # e "Am-Amble, I don't mind that kind of training but..."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_4a8f3f66:
+translate schinese Amble_Ole_Training_Scene_4a8f3f66:
 
-#     # "Your fingers undo the straps of your armor as you say that."
-#     ""
+    # "Your fingers undo the straps of your armor as you say that."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_c6554a81:
+translate schinese Amble_Ole_Training_Scene_c6554a81:
 
-#     # "Eventually, you find yourself standing in only your briefs."
-#     ""
+    # "Eventually, you find yourself standing in only your briefs."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_d274fe06:
+translate schinese Amble_Ole_Training_Scene_d274fe06:
 
-#     # "Just as you think Amble is going to strip you naked, he stops."
-#     ""
+    # "Just as you think Amble is going to strip you naked, he stops."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_bc890c5e:
+translate schinese Amble_Ole_Training_Scene_bc890c5e:
 
-#     # a "Alright. We're ready!"
-#     a ""
+    # a "Alright. We're ready!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_57379f5a:
+translate schinese Amble_Ole_Training_Scene_57379f5a:
 
-#     # "Amble straightens himself."
-#     ""
+    # "Amble straightens himself."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_981dca79:
+translate schinese Amble_Ole_Training_Scene_981dca79:
 
-#     # "At that moment, you can't help but ask."
-#     ""
+    # "At that moment, you can't help but ask."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_34767d57:
+translate schinese Amble_Ole_Training_Scene_34767d57:
 
-#     # e "Amble, why am I only in my briefs?"
-#     e ""
+    # e "Amble, why am I only in my briefs?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_6c4e5b40:
+translate schinese Amble_Ole_Training_Scene_6c4e5b40:
 
-#     # a "This is an adventurer's training so of course, you have to look the part."
-#     a ""
+    # a "This is an adventurer's training so of course, you have to look the part."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_cc64560c:
+translate schinese Amble_Ole_Training_Scene_cc64560c:
 
-#     # a "That's what Jog told me."
-#     a ""
+    # a "That's what Jog told me."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_d8453bb0:
+translate schinese Amble_Ole_Training_Scene_d8453bb0:
 
-#     # a "Why do you think I go around dressed the way I am?"
-#     a ""
+    # a "Why do you think I go around dressed the way I am?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4d901698:
+translate schinese Amble_Ole_Training_Scene_4d901698:
 
-#     # "Amble flashes you a bright grin like that's the most logical thing in the world."
-#     ""
+    # "Amble flashes you a bright grin like that's the most logical thing in the world."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_d8b48ff4:
+translate schinese Amble_Ole_Training_Scene_d8b48ff4:
 
-#     # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
-#     ""
+    # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_cf28f725:
+translate schinese Amble_Ole_Training_Scene_cf28f725:
 
-#     # e "But why take off the other parts of the armor?"
-#     e ""
+    # e "But why take off the other parts of the armor?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_1d642d4c:
+translate schinese Amble_Ole_Training_Scene_1d642d4c:
 
-#     # "Amble rummages at the back of his briefs and soon pulls something out."
-#     ""
+    # "Amble rummages at the back of his briefs and soon pulls something out."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_9f55e2c7:
+translate schinese Amble_Ole_Training_Scene_9f55e2c7:
 
-#     # a "This is for you."
-#     a ""
+    # a "This is for you."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_0ee48921:
+translate schinese Amble_Ole_Training_Scene_0ee48921:
 
-#     # "Amble opens his paw and you see what he is offering you."
-#     ""
+    # "Amble opens his paw and you see what he is offering you."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_75fdec74:
+translate schinese Amble_Ole_Training_Scene_75fdec74:
 
-#     # "It is the briefs from Rahim's adventurer outfit. Just the briefs."
-#     ""
+    # "It is the briefs from Rahim's adventurer outfit. Just the briefs."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_6fb6bdc2:
+translate schinese Amble_Ole_Training_Scene_6fb6bdc2:
 
-#     # e "Erm... Why?"
-#     e ""
+    # e "Erm... Why?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_0e5f7402:
+translate schinese Amble_Ole_Training_Scene_0e5f7402:
 
-#     # "Amble looks as confused as you are."
-#     ""
+    # "Amble looks as confused as you are."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_ada30d41:
+translate schinese Amble_Ole_Training_Scene_ada30d41:
 
-#     # e "I mean... What am I supposed to do with this?"
-#     e ""
+    # e "I mean... What am I supposed to do with this?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_f6ebbe57:
+translate schinese Amble_Ole_Training_Scene_f6ebbe57:
 
-#     # a "Put it on of course! What else can you do with it"
-#     a ""
+    # a "Put it on of course! What else can you do with it"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_84c364d4:
+translate schinese Amble_Ole_Training_Scene_84c364d4:
 
-#     # e "Again... Why?"
-#     e ""
+    # e "Again... Why?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_6c4e5b40_1:
+translate schinese Amble_Ole_Training_Scene_6c4e5b40_1:
 
-#     # a "This is an adventurer's training so of course, you have to look the part."
-#     a ""
+    # a "This is an adventurer's training so of course, you have to look the part."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_cc64560c_1:
+translate schinese Amble_Ole_Training_Scene_cc64560c_1:
 
-#     # a "That's what Jog told me."
-#     a ""
+    # a "That's what Jog told me."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_d8453bb0_1:
+translate schinese Amble_Ole_Training_Scene_d8453bb0_1:
 
-#     # a "Why do you think I go around dressed the way I am?"
-#     a ""
+    # a "Why do you think I go around dressed the way I am?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4d901698_1:
+translate schinese Amble_Ole_Training_Scene_4d901698_1:
 
-#     # "Amble flashes you a bright grin like that's the most logical thing in the world."
-#     ""
+    # "Amble flashes you a bright grin like that's the most logical thing in the world."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_d8b48ff4_1:
+translate schinese Amble_Ole_Training_Scene_d8b48ff4_1:
 
-#     # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
-#     ""
+    # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_d8703e59:
+translate schinese Amble_Ole_Training_Scene_d8703e59:
 
-#     # a "Hurry up."
-#     a ""
+    # a "Hurry up."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_883cbf69:
+translate schinese Amble_Ole_Training_Scene_883cbf69:
 
-#     # "Amble tosses you the briefs."
-#     ""
+    # "Amble tosses you the briefs."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_17e5f132:
+translate schinese Amble_Ole_Training_Scene_17e5f132:
 
-#     # a "Also when I asked Rahim to loan this to me, I told him about that it's for a special training I'm doing with you."
-#     a ""
+    # a "Also when I asked Rahim to loan this to me, I told him about that it's for a special training I'm doing with you."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_99f0fed5:
+translate schinese Amble_Ole_Training_Scene_99f0fed5:
 
-#     # a "Rahim told me that we better not tear it. Not sure what he means by that, but you better be careful, puny friend."
-#     a ""
+    # a "Rahim told me that we better not tear it. Not sure what he means by that, but you better be careful, puny friend."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_414fc3a2:
+translate schinese Amble_Ole_Training_Scene_414fc3a2:
 
-#     # "You are not quite sure what to feel from that information."
-#     ""
+    # "You are not quite sure what to feel from that information."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_025f9fb5:
+translate schinese Amble_Ole_Training_Scene_025f9fb5:
 
-#     # "In any case, the briefs are still warm from being wedged in Amble's clothes."
-#     ""
+    # "In any case, the briefs are still warm from being wedged in Amble's clothes."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_55144e1c:
+translate schinese Amble_Ole_Training_Scene_55144e1c:
 
-#     # "As you put the briefs on, you find that to be quite sexy."
-#     ""
+    # "As you put the briefs on, you find that to be quite sexy."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_f61f1a50:
+translate schinese Amble_Ole_Training_Scene_f61f1a50:
 
-#     # e "Why only the briefs?"
-#     e ""
+    # e "Why only the briefs?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_a07dab3c:
+translate schinese Amble_Ole_Training_Scene_a07dab3c:
 
-#     # a "If you have any iron parts on during the training, they'll cut into you. You'll hurt."
-#     a ""
+    # a "If you have any iron parts on during the training, they'll cut into you. You'll hurt."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_547a4591:
+translate schinese Amble_Ole_Training_Scene_547a4591:
 
-#     # a "We don't want that."
-#     a ""
+    # a "We don't want that."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4cb5765c:
+translate schinese Amble_Ole_Training_Scene_4cb5765c:
 
-#     # e "Okay..."
-#     e ""
+    # e "Okay..."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_b03194de:
+translate schinese Amble_Ole_Training_Scene_b03194de:
 
-#     # "That makes sense..."
-#     ""
+    # "That makes sense..."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_63ba9289:
+translate schinese Amble_Ole_Training_Scene_63ba9289:
 
-#     # a "Come. It's time for training."
-#     a ""
+    # a "Come. It's time for training."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_c4c43b72:
+translate schinese Amble_Ole_Training_Scene_c4c43b72:
 
-#     # "Dressed in only your briefs, you follow Amble to a big tree."
-#     ""
+    # "Dressed in only your briefs, you follow Amble to a big tree."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_23735f7c:
+translate schinese Amble_Ole_Training_Scene_23735f7c:
 
-#     # a "Puny friend, how do you cut down this tree with just one swing?"
-#     a ""
+    # a "Puny friend, how do you cut down this tree with just one swing?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_9ae48b57:
+translate schinese Amble_Ole_Training_Scene_9ae48b57:
 
-#     # "Amble asks as he taps the sturdy tree beside him."
-#     ""
+    # "Amble asks as he taps the sturdy tree beside him."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_2cb91bd7:
+translate schinese Amble_Ole_Training_Scene_2cb91bd7:
 
-#     # e "I... I have no idea."
-#     e ""
+    # e "I... I have no idea."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_a59b6c9a:
+translate schinese Amble_Ole_Training_Scene_a59b6c9a:
 
-#     # a "Puny friend, you're lucky cause I'm going to teach you that."
-#     a ""
+    # a "Puny friend, you're lucky cause I'm going to teach you that."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_be011780:
+translate schinese Amble_Ole_Training_Scene_be011780:
 
-#     # "Really?"
-#     ""
+    # "Really?"
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_eb66b43a:
+translate schinese Amble_Ole_Training_Scene_eb66b43a:
 
-#     # "Honestly, that sounds quite amazing."
-#     ""
+    # "Honestly, that sounds quite amazing."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_56c9eea7:
+translate schinese Amble_Ole_Training_Scene_56c9eea7:
 
-#     # a "Course. Why else are we here?"
-#     a ""
+    # a "Course. Why else are we here?"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_fd24b978:
+translate schinese Amble_Ole_Training_Scene_fd24b978:
 
-#     # "Amble stands before the tree and examines it for a few seconds."
-#     ""
+    # "Amble stands before the tree and examines it for a few seconds."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_10d02d0a:
+translate schinese Amble_Ole_Training_Scene_10d02d0a:
 
-#     # "Then, he swings his axe hard into the trunk. The axe cuts about halfway through the trunk."
-#     ""
+    # "Then, he swings his axe hard into the trunk. The axe cuts about halfway through the trunk."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_9e34e97f:
+translate schinese Amble_Ole_Training_Scene_9e34e97f:
 
-#     # "However, the tree remains unmoved."
-#     ""
+    # "However, the tree remains unmoved."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_105c8c84:
+translate schinese Amble_Ole_Training_Scene_105c8c84:
 
-#     # e "Amble, you sure..."
-#     e ""
+    # e "Amble, you sure..."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_181ff7c6:
+translate schinese Amble_Ole_Training_Scene_181ff7c6:
 
-#     # "Amble wiggles his axe that is lodged in the tree. The canopy rustles as the axe opens up the wound."
-#     ""
+    # "Amble wiggles his axe that is lodged in the tree. The canopy rustles as the axe opens up the wound."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_9d7c4a01:
+translate schinese Amble_Ole_Training_Scene_9d7c4a01:
 
-#     # "The tree starts to sway before your eyes."
-#     ""
+    # "The tree starts to sway before your eyes."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_8c2f189a:
+translate schinese Amble_Ole_Training_Scene_8c2f189a:
 
-#     # "Soon, Amble has opened up a large gap. With a chip in its large trunk, the tree loses its foundation and begins to tip."
-#     ""
+    # "Soon, Amble has opened up a large gap. With a chip in its large trunk, the tree loses its foundation and begins to tip."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_029fb406:
+translate schinese Amble_Ole_Training_Scene_029fb406:
 
-#     # a "Hng!"
-#     a ""
+    # a "Hng!"
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_d0f24406:
+translate schinese Amble_Ole_Training_Scene_d0f24406:
 
-#     # "Amble pulls his axe out with a grunt."
-#     ""
+    # "Amble pulls his axe out with a grunt."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_5dab7443:
+translate schinese Amble_Ole_Training_Scene_5dab7443:
 
-#     # "The tree keels over from its own weight. As it lands, the forest ground trembles."
-#     ""
+    # "The tree keels over from its own weight. As it lands, the forest ground trembles."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_ffb9abb9:
+translate schinese Amble_Ole_Training_Scene_ffb9abb9:
 
-#     # "You are gobsmacked."
-#     ""
+    # "You are gobsmacked."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_643b3b81:
+translate schinese Amble_Ole_Training_Scene_643b3b81:
 
-#     # a "How about that."
-#     a ""
+    # a "How about that."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_22095138:
+translate schinese Amble_Ole_Training_Scene_22095138:
 
-#     # e "That... that's amazing."
-#     e ""
+    # e "That... that's amazing."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_dec893b9:
+translate schinese Amble_Ole_Training_Scene_dec893b9:
 
-#     # e "How did you do it, Amble?"
-#     e ""
+    # e "How did you do it, Amble?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_030329dc:
+translate schinese Amble_Ole_Training_Scene_030329dc:
 
-#     # a "I'll teach you."
-#     a ""
+    # a "I'll teach you."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_348413f6:
+translate schinese Amble_Ole_Training_Scene_348413f6:
 
-#     # a "This is something I've picked up from being a lumberjack."
-#     a ""
+    # a "This is something I've picked up from being a lumberjack."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_2f6baa09:
+translate schinese Amble_Ole_Training_Scene_2f6baa09:
 
-#     # a "There's a core to every tree and once it is weakened, it'll be easier for you to make it fall."
-#     a ""
+    # a "There's a core to every tree and once it is weakened, it'll be easier for you to make it fall."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_4685b410:
+translate schinese Amble_Ole_Training_Scene_4685b410:
 
-#     # a "The same can be applied to enemies."
-#     a ""
+    # a "The same can be applied to enemies."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_381f206f:
+translate schinese Amble_Ole_Training_Scene_381f206f:
 
-#     # a "Only need to find the core."
-#     a ""
+    # a "Only need to find the core."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_f7621ca4:
+translate schinese Amble_Ole_Training_Scene_f7621ca4:
 
-#     # e "How does one do that?"
-#     e ""
+    # e "How does one do that?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_af4e086b:
+translate schinese Amble_Ole_Training_Scene_af4e086b:
 
-#     # a "It's easy. Our core is around our belly button."
-#     a ""
+    # a "It's easy. Our core is around our belly button."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_987e3d37:
+translate schinese Amble_Ole_Training_Scene_987e3d37:
 
-#     # e "Really?"
-#     e ""
+    # e "Really?"
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_992139af:
+translate schinese Amble_Ole_Training_Scene_992139af:
 
-#     # "You find that rather hard to believe."
-#     ""
+    # "You find that rather hard to believe."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_77a4061f:
+translate schinese Amble_Ole_Training_Scene_77a4061f:
 
-#     # a "I'll show you."
-#     a ""
+    # a "I'll show you."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_148e3149:
+translate schinese Amble_Ole_Training_Scene_148e3149:
 
-#     # "Amble takes quick steps towards you. Before you can react, he hits you as soft as he can around your lower stomach."
-#     ""
+    # "Amble takes quick steps towards you. Before you can react, he hits you as soft as he can around your lower stomach."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_8432e069:
+translate schinese Amble_Ole_Training_Scene_8432e069:
 
-#     # "It doesn't hurt that much but you are assaulted by a sense of vertigo."
-#     ""
+    # "It doesn't hurt that much but you are assaulted by a sense of vertigo."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_004332a0:
+translate schinese Amble_Ole_Training_Scene_004332a0:
 
-#     # e "Ahh..."
-#     e ""
+    # e "Ahh..."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_b39538ae:
+translate schinese Amble_Ole_Training_Scene_b39538ae:
 
-#     # "The world spins and there is a fleeting moment where you feel like falling."
-#     ""
+    # "The world spins and there is a fleeting moment where you feel like falling."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_47ca5707:
+translate schinese Amble_Ole_Training_Scene_47ca5707:
 
-#     # "It's like the wind has been knocked out of you."
-#     ""
+    # "It's like the wind has been knocked out of you."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_20459b99:
+translate schinese Amble_Ole_Training_Scene_20459b99:
 
-#     # "You land on the floor with your back. There is a slight buzz and when you look up, the sunlight are shining through the canopy of the forest."
-#     ""
+    # "You land on the floor with your back. There is a slight buzz and when you look up, the sunlight are shining through the canopy of the forest."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_befc87b0:
+translate schinese Amble_Ole_Training_Scene_befc87b0:
 
-#     # e "Oof."
-#     e ""
+    # e "Oof."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_d4781850:
+translate schinese Amble_Ole_Training_Scene_d4781850:
 
-#     # a "Puny friend, that is wild. If this is what I get from teaching you new skills, feel free to come find me whenever you want."
-#     a ""
+    # a "Puny friend, that is wild. If this is what I get from teaching you new skills, feel free to come find me whenever you want."
+    a ""
 
-# translate schinese Amble_Ole_Training_Scene_d30d9b98:
+translate schinese Amble_Ole_Training_Scene_d30d9b98:
 
-#     # e "Hmm... Hmm... Yes."
-#     e ""
+    # e "Hmm... Hmm... Yes."
+    e ""
 
-# translate schinese Amble_Ole_Training_Scene_135c1d6a:
+translate schinese Amble_Ole_Training_Scene_135c1d6a:
 
-#     # "With the taste of Amble's cum on your lips and the scent of his musk in your mind, you slowly drift off."
-#     ""
+    # "With the taste of Amble's cum on your lips and the scent of his musk in your mind, you slowly drift off."
+    ""
 
-# translate schinese Amble_Ole_Training_Scene_32360cc6:
+translate schinese Amble_Ole_Training_Scene_32360cc6:
 
-#     # "That... was an amazing training."
-#     ""
+    # "That... was an amazing training."
+    ""
 
 translate schinese Amble_Ask_Lusterfield_2dedfb7c:
 

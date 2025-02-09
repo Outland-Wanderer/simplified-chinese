@@ -7500,60 +7500,60 @@ translate schinese Lothar_After_Sparring_91f1d522:
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese Lothar_Ask_Ole_Training_6ac55a38:
+translate schinese Lothar_Ask_Ole_Training_6ac55a38:
 
-#     # l "What do you want, Disciple?"
-#     l ""
+    # l "What do you want, Disciple?"
+    l ""
 
-# translate schinese Lothar_Ask_Ole_Training_705ccbd9:
+translate schinese Lothar_Ask_Ole_Training_705ccbd9:
 
-#     # e "Lothar, Ole suggests that I learn new skills from Jog and Amble in preparation for future courier jobs."
-#     e ""
+    # e "Lothar, Ole suggests that I learn new skills from Jog and Amble in preparation for future courier jobs."
+    e ""
 
-# translate schinese Lothar_Ask_Ole_Training_a6ac6daf:
+translate schinese Lothar_Ask_Ole_Training_a6ac6daf:
 
-#     # e "However, they won't teach me anything without a permission from you."
-#     e ""
+    # e "However, they won't teach me anything without a permission from you."
+    e ""
 
-# translate schinese Lothar_Ask_Ole_Training_96070d9d:
+translate schinese Lothar_Ask_Ole_Training_96070d9d:
 
-#     # l "Of course. How can there be courier training without permission from this Hero?"
-#     l ""
+    # l "Of course. How can there be courier training without permission from this Hero?"
+    l ""
 
-# translate schinese Lothar_Ask_Ole_Training_4c790a65:
+translate schinese Lothar_Ask_Ole_Training_4c790a65:
 
-#     # l "Without guidance from this Hero, I doubt you can even defeat the basic training dummy."
-#     l ""
+    # l "Without guidance from this Hero, I doubt you can even defeat the basic training dummy."
+    l ""
 
-# translate schinese Lothar_Ask_Ole_Training_1c986ca5:
+translate schinese Lothar_Ask_Ole_Training_1c986ca5:
 
-#     # "You listen to Lothar wax his heroics. During a lull in his speech, you cut in."
-#     ""
+    # "You listen to Lothar wax his heroics. During a lull in his speech, you cut in."
+    ""
 
-# translate schinese Lothar_Ask_Ole_Training_16df0c6e:
+translate schinese Lothar_Ask_Ole_Training_16df0c6e:
 
-#     # e "So Lothar, will you give them the permission to teach me some new skills?"
-#     e ""
+    # e "So Lothar, will you give them the permission to teach me some new skills?"
+    e ""
 
-# translate schinese Lothar_Ask_Ole_Training_09bc7f5c:
+translate schinese Lothar_Ask_Ole_Training_09bc7f5c:
 
-#     # "Lothar looks at you."
-#     ""
+    # "Lothar looks at you."
+    ""
 
-# translate schinese Lothar_Ask_Ole_Training_a326ee49:
+translate schinese Lothar_Ask_Ole_Training_a326ee49:
 
-#     # l "Fine. When you get stronger, it'll reflect on this Hero's prestige."
-#     l ""
+    # l "Fine. When you get stronger, it'll reflect on this Hero's prestige."
+    l ""
 
-# translate schinese Lothar_Ask_Ole_Training_cbcae63f:
+translate schinese Lothar_Ask_Ole_Training_cbcae63f:
 
-#     # l "We can't have people saying that the Hero of Lusterfield has a weak Disciple, can we?"
-#     l ""
+    # l "We can't have people saying that the Hero of Lusterfield has a weak Disciple, can we?"
+    l ""
 
-# translate schinese Lothar_Ask_Ole_Training_615a4d65:
+translate schinese Lothar_Ask_Ole_Training_615a4d65:
 
-#     # e "Sure. Sure."
-#     e ""
+    # e "Sure. Sure."
+    e ""
 
 translate schinese Lothar_Report_Dummy_0eb13776:
 

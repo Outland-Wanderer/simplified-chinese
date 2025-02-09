@@ -1281,7 +1281,7 @@ translate schinese strings:
     new "取得洛萨尔的同意"
 
     old "Ask Amble and Jog for training"
-    new "请教安步和乔格"
+    new "请教安布和乔格"
 
     old "Wait a day and report to Jog and Amble"
     new "过一天再去找安布和乔格"
