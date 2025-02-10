@@ -5365,8 +5365,8 @@ translate schinese strings:
     old "Report about the visit to Goat Tribe"
     new "报告打探山羊部落的结果"
 
-    # old "Ask Lothar about Trainings from Ole"
-    # new "征得向安布和乔格请教的许可"
+    old "Ask Lothar about Trainings from Ole"
+    new "征得向安布和乔格请教的许可"
 
     old "About sneaking into the Goat Tribe"
     new "讨论潜入山羊部落的计划"
@@ -7503,57 +7503,57 @@ translate schinese Lothar_After_Sparring_91f1d522:
 translate schinese Lothar_Ask_Ole_Training_6ac55a38:
 
     # l "What do you want, Disciple?"
-    l ""
+    pass
 
 translate schinese Lothar_Ask_Ole_Training_705ccbd9:
 
     # e "Lothar, Ole suggests that I learn new skills from Jog and Amble in preparation for future courier jobs."
-    e ""
+    e "奥利提议我找乔格和安布学些新技能，以后完成委托能用上。"
 
 translate schinese Lothar_Ask_Ole_Training_a6ac6daf:
 
     # e "However, they won't teach me anything without a permission from you."
-    e ""
+    e "但他们一定要你同意才肯教。"
 
 translate schinese Lothar_Ask_Ole_Training_96070d9d:
 
     # l "Of course. How can there be courier training without permission from this Hero?"
-    l ""
+    l "那必须的。没有本大英雄批准，差客训练能说开就开？"
 
 translate schinese Lothar_Ask_Ole_Training_4c790a65:
 
     # l "Without guidance from this Hero, I doubt you can even defeat the basic training dummy."
-    l ""
+    l "没有为师指点，你连最初级的训练人偶都打不过，信不信？"
 
 translate schinese Lothar_Ask_Ole_Training_1c986ca5:
 
     # "You listen to Lothar wax his heroics. During a lull in his speech, you cut in."
-    ""
+    "洛萨尔又开始自顾自地吹嘘起来。卡准他喘气的空档，你赶紧插话。"
 
 translate schinese Lothar_Ask_Ole_Training_16df0c6e:
 
     # e "So Lothar, will you give them the permission to teach me some new skills?"
-    e ""
+    e "那你同意他们教我吗？"
 
 translate schinese Lothar_Ask_Ole_Training_09bc7f5c:
 
     # "Lothar looks at you."
-    ""
+    "洛萨尔瞥了你一眼。"
 
 translate schinese Lothar_Ask_Ole_Training_a326ee49:
 
     # l "Fine. When you get stronger, it'll reflect on this Hero's prestige."
-    l ""
+    l "行吧。你变强了也算给为师长脸。"
 
 translate schinese Lothar_Ask_Ole_Training_cbcae63f:
 
     # l "We can't have people saying that the Hero of Lusterfield has a weak Disciple, can we?"
-    l ""
+    l "总不能被外人说教出来个废柴徒弟，嗯？"
 
 translate schinese Lothar_Ask_Ole_Training_615a4d65:
 
     # e "Sure. Sure."
-    e ""
+    e "对、对、对。"
 
 translate schinese Lothar_Report_Dummy_0eb13776:
 

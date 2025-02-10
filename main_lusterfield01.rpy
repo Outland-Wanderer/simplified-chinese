@@ -3694,7 +3694,7 @@ translate schinese Ole_Ask_Courier_Quest_6b69c486:
 translate schinese Ole_Ask_Courier_Quest_6d2d6adb:
 
     # e "Don't worry, Ole. I can take care of myself."
-    e "别担心，Ole，我能照顾好自己。"
+    e "别担心，奥利，我能照顾好自己。"
 
 translate schinese Ole_Ask_Courier_Quest_e96856bf:
 
