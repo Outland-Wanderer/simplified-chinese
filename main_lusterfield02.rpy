@@ -7548,7 +7548,7 @@ translate schinese Lothar_Ask_Ole_Training_a326ee49:
 translate schinese Lothar_Ask_Ole_Training_cbcae63f:
 
     # l "We can't have people saying that the Hero of Lusterfield has a weak Disciple, can we?"
-    l "总不能被外人说教出来个废柴徒弟，嗯？"
+    l "总不能被外人说乐斯民菲尔德的大英雄教出来个废柴徒弟，嗯？"
 
 translate schinese Lothar_Ask_Ole_Training_615a4d65:
 

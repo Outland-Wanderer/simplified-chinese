@@ -1,782 +1,782 @@
 ﻿translate schinese scene_ambleskill_556c7193:
 
     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg ""
+    $ renpy.notify("该场景文本未与画面同步更新")
 
 translate schinese scene_ambleskill_a0f109bb:
 
     # "A giant weight lands on your chest."
-    ""
+    "突然你胸口一沉。"
 
 translate schinese scene_ambleskill_a2174774:
 
     # a "And when you have your opponent on the ground, it's easy to follow up."
-    a ""
+    a "把对手摁地上之后，补招就容易多了。"
 
 translate schinese scene_ambleskill_4e7442f1:
 
     # "Amble straddles your chest and his massive weight pins you underneath him."
-    ""
+    "安布跨坐在你胸口，沉甸甸的体重压得你动弹不得。"
 
 translate schinese scene_ambleskill_5c3b6c40:
 
     # a "At this point, maybe your opponent is already ready to surrender. If not..."
-    a ""
+    a "这时敌人八成已经认输了，如果没有的话……"
 
 translate schinese scene_ambleskill_fcf83219:
 
     # "Amble continues on with his explanation. However, you are not really listening."
-    ""
+    "安布眉飞色舞地为你讲解，然而你并没有听进去多少。"
 
 translate schinese scene_ambleskill_26173a6f:
 
     # "Amble's large dick is literally resting before your face."
-    ""
+    "因为那根巨物就悬在你鼻尖前晃悠。"
 
 translate schinese scene_ambleskill_b263d83e:
 
     # "As Amble explains animatedly, his dick bounces up and down."
-    ""
+    "大红熊双手配合言语比划着，巨根随着他的动作弹上又弹下。"
 
 translate schinese scene_ambleskill_4bcf5e1d:
 
     # "Even in its limp state, Amble's dick fills up his briefs to the point of stretching."
-    ""
+    "即便完全没有勃起，那惊人的尺寸也能将他的内裤撑得满满当当。"
 
 translate schinese scene_ambleskill_5d49a025:
 
     # "You are close enough to Amble's crotch that the bear's musk fills up your nostrils."
-    ""
+    "浓烈的雄性气息直往你鼻腔里钻，混着青草、泥土与汗水的味道。"
 
 translate schinese scene_ambleskill_8d17e6cb:
 
     # "It smells of dirt, grass, and sweat."
-    ""
+    pass
 
 translate schinese scene_ambleskill_d80670e3:
 
     # "It is a great turn-on."
-    ""
+    "诱人的气味撩得你胯下发紧，着了魔般盯着那鼓囊囊的一包。"
 
 translate schinese scene_ambleskill_78edc69c:
 
     # "You appear mesmerized by the scent."
-    ""
+    pass
 
 translate schinese scene_ambleskill_f55408d2:
 
     # "Without thinking much, you lean your head forward to lick the front of Amble's dick through his briefs."
-    ""
+    "鬼使神差地，你伸出舌头隔着布料舔了上去。"
 
 translate schinese scene_ambleskill_c3743727:
 
     # "Amble stops talking."
-    ""
+    "安布一下子噤了声。"
 
 translate schinese scene_ambleskill_a12fea3e:
 
     # "That breaks the spell for you too."
-    ""
+    "你也瞬间清醒过来，自己可正被这头山一样的壮熊压制着，万一惹到他……"
 
 translate schinese scene_ambleskill_d68516ed:
 
     # "You realize how vulnerable you are, pressed under Amble."
-    ""
+    pass
 
 translate schinese scene_ambleskill_a4a6dde7:
 
     # a "Puny friend, why did you do that for?"
-    a ""
+    a "小不点，你这是做什么？"
 
 translate schinese scene_ambleskill_86a28f0b:
 
     # "Your brain races to find an explanation."
-    ""
+    "你飞快转动脑筋，破口而出想到的第一个理由。"
 
 translate schinese scene_ambleskill_1ab4dc8d:
 
     # "You blurt out the first thing on your mind."
-    ""
+    pass
 
 translate schinese scene_ambleskill_772f8547:
 
     # e "It's to thank you!"
-    e ""
+    e "我想谢谢你！"
 
 translate schinese scene_ambleskill_16bcc10f:
 
     # a "Thank me?"
-    a ""
+    a "谢谢我？"
 
 translate schinese scene_ambleskill_663b3bd0:
 
     # "Amble looks at you with open confusion."
-    ""
+    "安布一脸茫然地歪过头。"
 
 translate schinese scene_ambleskill_af6b36e3:
 
     # "You decide to run with it."
-    ""
+    "你硬着头皮往下编。"
 
 translate schinese scene_ambleskill_1f1af437:
 
     # e "Yes. Since you've taught me such an amazing skill, this is the least I can do to return the favor."
-    e ""
+    e "对，你教了我这么厉害的技巧，不表示表示怎么过得去。"
 
 translate schinese scene_ambleskill_d1b1e314:
 
     # "You gulp."
-    ""
+    "你紧张地咽下口水，祈祷这个理由能糊弄过去。"
 
 translate schinese scene_ambleskill_74d88758:
 
     # "You hope Amble will accept that."
-    ""
+    pass
 
 translate schinese scene_ambleskill_49a530a6:
 
     # "Amble frowns in contemplation but not for long."
-    ""
+    "安布皱眉思索了片刻，但很快便舒展开来。"
 
 translate schinese scene_ambleskill_aeff9411:
 
     # a "Alright then."
-    a ""
+    a "好啊。"
 
 translate schinese scene_ambleskill_0bce7852:
 
     # e "For real?"
-    e ""
+    e "真的吗？"
 
 translate schinese scene_ambleskill_5ef46e7c:
 
     # a "Yea. You want to thank me, right? It sounds about right."
-    a ""
+    a "嗯，你说得很对，被帮了忙就要说谢谢。"
 
 translate schinese scene_ambleskill_e1a752bc:
 
     # "Amble nudges closer to your face."
-    ""
+    "安布挺胯往前顶了顶。"
 
 translate schinese scene_ambleskill_fcb5656a:
 
     # "At this distance, the musk is even heavier."
-    ""
+    "这个距离让你满脑子都是那更加浓重的雄性气味，下面也支起了帐篷。"
 
 translate schinese scene_ambleskill_54dde2d2:
 
     # "Your brain is filled with the scent."
-    ""
+    pass
 
 translate schinese scene_ambleskill_1b55c4e1:
 
     # "Your dick is already rising from the stimulation."
-    ""
+    pass
 
 translate schinese scene_ambleskill_e478e865:
 
     # a "Come on now."
-    a ""
+    a "来吧。"
 
 translate schinese scene_ambleskill_3b9c7356:
 
     # "You oblige and open up your mouth to take in Amble's penishead."
-    ""
+    "你顺从地张嘴含住顶起内裤的前端。"
 
 translate schinese scene_ambleskill_7514bf7c:
 
     # a "Oh. Puny friend, you're good."
-    a ""
+    a "噢，小不点，你也好厉害。"
 
 translate schinese scene_ambleskill_07adf072:
 
     # "Through the fabric, you can feel Amble's dick getting hard."
-    ""
+    "布料下那根巨物被你越含越大，然而这只是刚刚开始。"
 
 translate schinese scene_ambleskill_3d16f709:
 
     # "However, this is just the beginning."
-    ""
+    pass
 
 translate schinese scene_ambleskill_7071c33f:
 
     # "You suck on Amble's large and sensitive penishead."
-    ""
+    "你卖力吮吸着对方饱满而敏感的龟头。"
 
 translate schinese scene_ambleskill_d849f5c7:
 
     # a "Oh..."
-    a ""
+    a "哈……"
 
 translate schinese scene_ambleskill_b6f2127f:
 
     # "Amble's dick responds as you hope it would."
-    ""
+    "巨根果然如你所料兴奋地颤动起来。"
 
 translate schinese scene_ambleskill_6e18ece7:
 
     # "It twitches and vibrates."
-    ""
+    pass
 
 translate schinese scene_ambleskill_79cb8615:
 
     # "The front of Amble's briefs is now wet with your saliva."
-    ""
+    "吞吐一会后，安布内裤前面已被你的口水浸透。"
 
 translate schinese scene_ambleskill_bb0449a1:
 
     # "After sucking on Amble's cock for a while, you decide to change tactic."
-    ""
+    pass
 
 translate schinese scene_ambleskill_bd174e5d:
 
     # "You dot Amble's penishead with quick kisses."
-    ""
+    "你决定换个花样，从不同角度轻轻亲吻龟头。"
 
 translate schinese scene_ambleskill_a9ea4b24:
 
     # a "Oh... That's nice."
-    a ""
+    a "噢……好舒服。"
 
 translate schinese scene_ambleskill_4ab4cf64:
 
     # "Amble's dick increases in size as you peck on it."
-    ""
+    "每亲一下，嘴前的巨根就胀大一圈。"
 
 translate schinese scene_ambleskill_30025955:
 
     # e "Glad you like it."
-    e ""
+    e "你喜欢就好。"
 
 translate schinese scene_ambleskill_b378eabf:
 
     # "You miss having Amble's member inside your mouth so after a while. you go back to engulfing Amble's cock."
-    ""
+    "没过多久你又贪心地重新含住整个前端。"
 
 translate schinese scene_ambleskill_e87fa026:
 
     # a "Urgh..."
-    a ""
+    a "呃啊……"
 
 translate schinese scene_ambleskill_1b97f6f7:
 
     # "Instead of just talking the penishead, you try to swallow more of Amble's shaft."
-    ""
+    "欲求不满的你这次尝试含得更深，但安布那话儿尺寸实在太大了。"
 
 translate schinese scene_ambleskill_5014982c:
 
     # "However, you find that it is a task easier said than done."
-    ""
+    pass
 
 translate schinese scene_ambleskill_bb8014bf:
 
     # "Even with lubrication from your saliva, you only manage to get half of his enormous shaft into your mouth."
-    ""
+    "即使有唾液做润滑，你也只能勉强含进差不多半根。"
 
 translate schinese scene_ambleskill_36640b0b:
 
     # "You make do."
-    ""
+    "你不管不顾地卖力吞吐，不让这根大肉棒离口一秒。"
 
 translate schinese scene_ambleskill_7a69642e:
 
     # "You suck and suck, not letting up for even a second."
-    ""
+    pass
 
 translate schinese scene_ambleskill_031adcff:
 
     # a "Oh... Christ."
-    a ""
+    a "啊……天呐。"
 
 translate schinese scene_ambleskill_ebc9a02f:
 
     # "You feel the cock in your mouth pulsate for a moment and then something viscous slides down your mouth and into your throat."
-    ""
+    "口中的巨物突然抽了一下，一股浓稠的液体流到你的舌根上。"
 
 translate schinese scene_ambleskill_57106a98:
 
     # a "You get me leaking already."
-    a ""
+    a "你让我都流鸡巴汁了。"
 
 translate schinese scene_ambleskill_1036023f:
 
     # "The praise keeps you going. In fact, it makes your even hungrier for his cock."
-    ""
+    "听到安布的夸赞让你更加来劲，吸得脸都凹了下去，像要把这个大肉棒生吞活剥似的。"
 
 translate schinese scene_ambleskill_27bc0d48:
 
     # "You blow on the dick hard."
-    ""
+    pass
 
 translate schinese scene_ambleskill_6d4f71ac:
 
     # a "Ergh..."
-    a ""
+    a "呃啊……"
 
 translate schinese scene_ambleskill_95585dfb:
 
     # "Amble's dick engorges. The tip of his crown hits the roof of your mouth."
-    ""
+    "暴胀的龟头抵住你的上颚，更多淫水渗过布料涌进嘴里。"
 
 translate schinese scene_ambleskill_0859e4f2:
 
     # "More precum leaks out through his briefs and into your mouth."
-    ""
+    pass
 
 translate schinese scene_ambleskill_c3e2aeff:
 
     # "All of a sudden, Amble pulls your head back."
-    ""
+    "但安布却突然拉住你的头，滑出了大肉棒。"
 
 translate schinese scene_ambleskill_9a5241ba:
 
     # "As his dick escapes your lips, you instinctively gasp for air."
-    ""
+    "你本能地大口喘气，刚才着迷得竟然连呼吸都忘了。"
 
 translate schinese scene_ambleskill_c8c15815:
 
     # "You have been so focused on the blowjob that you forgot to breathe."
-    ""
+    pass
 
 translate schinese scene_ambleskill_6949e9a9:
 
     # e "Huh... Huh... Amble... Why?"
-    e ""
+    e "喝……呼……安布……怎么了？"
 
 translate schinese scene_ambleskill_2238cc97:
 
     # "However, you still can't wait to get Amble's cock back into your mouth. You are far from satisfied. Based on Amble's erect cock bound inside his tight briefs, so is he."
-    ""
+    "单单尝个甜头可远远满足不了你——看他内裤快被顶破的样子就知道他也没尽兴。"
 
 translate schinese scene_ambleskill_73e2f2cc:
 
     # a "You are too good, puny friend. I have to get this off. It's stretching so hard that it's making it painful."
-    a ""
+    a "你太会吸了，小不点。内裤勒得我好痛，我得把它脱掉。"
 
 translate schinese scene_ambleskill_4d09769b:
 
     # "Amble pulls the front of briefs down. Released, Amble's dick bounces with excitement. The cock is slick with your saliva and his precum."
-    ""
+    "大红熊拽下内裤边沿，怒张的擎天柱弹跳而出，覆满了唾液和淫水。"
 
 translate schinese scene_ambleskill_d116b143:
 
     # "You are amazed."
-    ""
+    "你惊叹于这根大自然的完美造物。"
 
 translate schinese scene_ambleskill_2a03e35a:
 
     # "When the cock was inside the briefs, you couldn't tell for sure how big it was."
-    ""
+    "包在内裤里面时只能估摸个大概，此刻亲眼见到才知道何等壮观。"
 
 translate schinese scene_ambleskill_ada24c09:
 
     # "You know it has to be huge, but this has surpassed your expectations."
-    ""
+    pass
 
 translate schinese scene_ambleskill_9dc24464:
 
     # "The giant rod looms over your face. It is veiny, thick, and throbbing with leaking juice."
-    ""
+    pass
 
 translate schinese scene_ambleskill_4a9998b0:
 
     # "You gulp involuntarily."
-    ""
+    pass
 
 translate schinese scene_ambleskill_3cacfca6:
 
     # "Amble's cock rises up and then it is brought down by its own weight. The large dick smacks you right in the face."
-    ""
+    "弹起的巨根因自重垂落，啪地拍在你脸上，连带着几滴前液飞溅到脸颊和下巴。"
 
 translate schinese scene_ambleskill_b5a2304a:
 
     # e "Hng..."
-    e ""
+    e "哈啊……"
 
 translate schinese scene_ambleskill_c5f3268b:
 
     # "Drips of precum land on your cheeks and chin."
-    ""
+    pass
 
 translate schinese scene_ambleskill_aa196b30:
 
     # "You have a quick taste. They are salty and pungent."
-    ""
+    "你舔了舔嘴角，咸腥味刺激着神经让你想要品尝更多。"
 
 translate schinese scene_ambleskill_bb2f28d3:
 
     # "It makes you want for more."
-    ""
+    pass
 
 translate schinese scene_ambleskill_f132e1ed:
 
     # "Thankfully, the source is just right before your eyes."
-    ""
+    "好在源头近在咫尺。"
 
 translate schinese scene_ambleskill_c5726547:
 
     # "Without waiting for Amble, you engulf his boner like a hungry beast."
-    ""
+    "不等他发话，你便饿虎扑食般含住了整根大宝贝。"
 
 translate schinese scene_ambleskill_f33b4562:
 
     # a "Oh... Easy there..."
-    a ""
+    a "噢噢……慢点……"
 
 translate schinese scene_ambleskill_8a57f783:
 
     # "That will not be an advice you take."
-    ""
+    "你怎么可能会听劝。"
 
 translate schinese scene_ambleskill_683aaa54:
 
     # "Without the briefs in the way, you have a clearer taste of Amble's cock."
-    ""
+    "除去内裤的阻隔，每一根血管的跳动都清晰可感，每一滴冒出的淫水都回味无穷。"
 
 translate schinese scene_ambleskill_3bc67e48:
 
     # "You can sense every vein pop and leaking precum inside your mouth."
-    ""
+    pass
 
 translate schinese scene_ambleskill_0449c93c:
 
     # "You want to beg for more but you can't free your mouth from worshipping this massive boner."
-    ""
+    "你虔诚地敬奉着这根巨屌，纵使想向它的主人央求更多，却舍不得松口。"
 
 translate schinese scene_ambleskill_cd6abc4e:
 
     # "The lack of the fabric in the way also means that you can lubricate the dick better."
-    ""
+    "大量唾液把它涂得水光发亮，在你口中突突直跳给出积极的回应。"
 
 translate schinese scene_ambleskill_f9a79f3d:
 
     # "You cover the cock with your saliva."
-    ""
+    pass
 
 translate schinese scene_ambleskill_b43a428f:
 
     # "In the process, Amble's cock pulses to your attention."
-    ""
+    "你见状深吸一口气把头往前伸，开启下一轮深喉挑战。"
 
 translate schinese scene_ambleskill_9349f84f:
 
     # "Taking another deep breath, you start another challenge."
-    ""
+    pass
 
 translate schinese scene_ambleskill_1b1f0f6a:
 
     # "You go down further than before."
-    ""
+    pass
 
 translate schinese scene_ambleskill_4aee912e:
 
     # "You can feel the back of your throat opening up as Amble's crown hits it repeatedly."
-    ""
+    "巨根逐渐深入，喉头被根冠反复顶开，即便如此也只吞到四分之三。"
 
 translate schinese scene_ambleskill_e241683e:
 
     # "However, even so, you only get to 75 percent of the way."
-    ""
+    pass
 
 translate schinese scene_ambleskill_6239d298:
 
     # a "Damn."
-    a ""
+    a "干。"
 
 translate schinese scene_ambleskill_eec9549c:
 
     # "Amble's dick beats in your mouth as you pump it with your lips."
-    ""
+    "大肉棒在你嘴里搏动，你聚拢嘴唇紧紧包裹着它，反复吸吮。"
 
 translate schinese scene_ambleskill_c7221e46:
 
     # "You try to get more of it down your throat but you can't go no further."
-    ""
+    "你想吞得更深，但喉咙似乎已经张开到了极限。"
 
 translate schinese scene_ambleskill_29bb1c54:
 
     # "In your hunger for more, Amble's dick hits a sore spot in your throat and you gag involuntarily."
-    ""
+    "可你实在太想要了，头猛地往前一冲。口中的肉棒戳到喉咙的敏感点，搞得自己一阵干呕。"
 
 translate schinese scene_ambleskill_db02bb8f:
 
     # e "Ung... Ung..."
-    e ""
+    e "咳……咳……"
 
 translate schinese scene_ambleskill_15818e85:
 
     # "You start to cough but you refuse to let the prize leave your mouth."
-    ""
+    "而你即使呛出眼泪了也不松口。"
 
 translate schinese scene_ambleskill_05281ea0:
 
     # "You start to tear up."
-    ""
+    pass
 
 translate schinese scene_ambleskill_9dfe72a8:
 
     # a "You alright, puny friend?"
-    a ""
+    a "没事吧，小不点？"
 
 translate schinese scene_ambleskill_f462af37:
 
     # a "Hng... Why don't we take a break?"
-    a ""
+    a "呃……要不我们先歇会吧？"
 
 translate schinese scene_ambleskill_7c6dd68d:
 
     # e "Hmm... Hmm..."
-    e ""
+    e "唔嗯……唔唔……"
 
 translate schinese scene_ambleskill_7769a418:
 
     # "You shake your head with Amble's hard cock still engulfed in your mouth."
-    ""
+    "你摇头拒绝，嘴里还含着大红熊硬挺的鸡巴。"
 
 translate schinese scene_ambleskill_f4c83d9b:
 
     # "Surrender is not an option."
-    ""
+    "“放弃”二字可不在你的词典里。"
 
 translate schinese scene_ambleskill_a41587f7:
 
     # "You take a quick breath to steady your coughing."
-    ""
+    "快速调整呼吸平复干呕后，更浓烈的雄臭冲入鼻腔，令你的神志都有些昏沉。"
 
 translate schinese scene_ambleskill_f7761289:
 
     # "A heavy hit of Amble's musk enters your mind."
-    ""
+    pass
 
 translate schinese scene_ambleskill_6a5be902:
 
     # "Your mind dulls with lust."
-    ""
+    pass
 
 translate schinese scene_ambleskill_974bd6eb:
 
     # "The musk comes from the fuzz at the base of Amble's shaft."
-    ""
+    "这股气味来自根部的毛发，那里肯定是最浓烈的地方。"
 
 translate schinese scene_ambleskill_3b7015ca:
 
     # "You know that the scent there will be the heaviest."
-    ""
+    pass
 
 translate schinese scene_ambleskill_0ceb791b:
 
     # "You want to bury your nose in that bush and breathe in heavily. That shall be your reward."
-    ""
+    "你多想把鼻子埋进去狠狠吸上一口，简直不要太爽。"
 
 translate schinese scene_ambleskill_1f6ca929:
 
     # "Focused on that one goal, you force yourself to go further."
-    ""
+    "抱着这个愿望，你强迫自己再次发力。"
 
 translate schinese scene_ambleskill_7c6dd68d_1:
 
     # e "Hmm... Hmm..."
-    e ""
+    e "嗯……嗯……"
 
 translate schinese scene_ambleskill_85a1385a:
 
     # a "Christ... Yes..."
-    a ""
+    a "天呐……好爽……"
 
 translate schinese scene_ambleskill_1819a542:
 
     # "You take in Amble's cock inch by inch."
-    ""
+    "巨根缓缓没入喉咙，艰辛而坚决。"
 
 translate schinese scene_ambleskill_17d1cd10:
 
     # "The cock makes a slow but steady decline into your throat."
-    ""
+    pass
 
 translate schinese scene_ambleskill_70aa7582:
 
     # e "Huh... Hng... Hng..."
-    e ""
+    e "唔……嗯……嗯……"
 
 translate schinese scene_ambleskill_ef4324e5:
 
     # "You finally hit the base of Amble's giant shaft."
-    ""
+    "终于，你的鼻尖碰到了安布的小腹。"
 
 translate schinese scene_ambleskill_f68a2d6f:
 
     # "The musk fills up your mind and the pain and difficulty fade into the background."
-    ""
+    "浓烈的气息充斥你的脑海，所有疼痛和不适都被幸福感压了下去。"
 
 translate schinese scene_ambleskill_f5237b2a:
 
     # "You suck the giant cock that has filled up your throat."
-    ""
+    "你的喉管完全被这根大肉棒塞满了。"
 
 translate schinese scene_ambleskill_87f7be86:
 
     # a "Hot damn... I thought only Jog can manage this."
-    a ""
+    a "……我以为只有乔格能吞这么深。"
 
 translate schinese scene_ambleskill_7c6dd68d_2:
 
     # e "Hmm... Hmm..."
-    e ""
+    e "唔……唔……"
 
 translate schinese scene_ambleskill_51a24d8d:
 
     # "With Amble's full cock inside your mouth, you start to suck."
-    ""
+    "安布整根巨屌都被你含在嘴里，你开始前后摆动吞吐起来。"
 
 translate schinese scene_ambleskill_16dc0e00:
 
     # a "Christ... Oh..."
-    a ""
+    a "天啊……噢……"
 
 translate schinese scene_ambleskill_d16a00ee:
 
     # "Your throat and mouth muscles must have pressed on Amble's cock from all sides."
-    ""
+    "喉咙和口腔的肌肉紧紧包裹住了肉棒，从四面八方挤压着。"
 
 translate schinese scene_ambleskill_31e19b57:
 
     # "However, all you can feel is the giant cock in your mouth and the heavy musk that clouds your mind."
-    ""
+    "而这不过是你无意识的动作。此时你脑子里想的只有口中雄伟的性器，和那令人上瘾的体味。"
 
 translate schinese scene_ambleskill_03113d26:
 
     # a "Hng... I'm close."
-    a ""
+    a "呃哼……要来了。"
 
 translate schinese scene_ambleskill_aa357da4:
 
     # "That you do feel coming."
-    ""
+    pass
 
 translate schinese scene_ambleskill_96be0fb9:
 
     # "The base of Amble's shaft throbs with heat."
-    ""
+    "发烫的鸡巴根传来规律而急促的搏动。"
 
 translate schinese scene_ambleskill_033d5fb6:
 
     # "You know that the juice is coming."
-    ""
+    "你知道高潮即将到来，加快了甩头的速度全力吸吮巨根。"
 
 translate schinese scene_ambleskill_ff123488:
 
     # "You have no idea how to prepare for it for you've done everything you could."
-    ""
+    "这便是你能做到的全部。"
 
 translate schinese scene_ambleskill_3fdbce2b:
 
     # a "I'm coming!"
-    a ""
+    a "来了！"
 
 translate schinese scene_ambleskill_3252ff96:
 
     # "Amble's cock vibrates violently inside your mouth. You think you are going to go crazy."
-    ""
+    "粗长如小臂的大鸡巴在口中猛烈跳动，你觉得自己快要疯了。"
 
 translate schinese scene_ambleskill_7f980f9e:
 
     # "Soon, warm jizz stills the discomfort you're feeling. It oils the insides of your mouth, numbing you to the pain."
-    ""
+    "热乎乎的浓精不断灌入滋润着喉舌，顺食道流入胃袋，冲刷掉疼痛与不适。"
 
 translate schinese scene_ambleskill_7a0d2fc0:
 
     # "The outpouring of jizz feels endless as your throat get filled up more and more."
-    ""
+    pass
 
 translate schinese scene_ambleskill_d05d92bc:
 
     # "Your gag reflex is not as sensitive as normal."
-    ""
+    "你饮下辛勤付出换来的奖赏，几乎没有咳嗽或干呕。"
 
 translate schinese scene_ambleskill_5e23119b:
 
     # "You barely cough as the hot spunk make a smooth travel down your throat."
-    ""
+    "然而他的量实在是太多了，仿佛无穷无尽，来不及吞咽的部分从嘴角溢了出来。"
 
 translate schinese scene_ambleskill_91795f5b:
 
     # "However, the load is simply too large."
-    ""
+    pass
 
 translate schinese scene_ambleskill_29811921:
 
     # "The cum overflows and oozes out the side of your mouth."
-    ""
+    pass
 
 translate schinese scene_ambleskill_faa7d97b:
 
     # e "Hmm..."
-    e ""
+    e "唔——"
 
 translate schinese scene_ambleskill_071bbfd9:
 
     # "You keep your mouth on Amble's cock for you do not want to miss out on the milk."
-    ""
+    "你依然含着安布的大鸡巴，不愿浪费一滴珍贵的种汁。"
 
 translate schinese scene_ambleskill_243c761b:
 
     # a "Oh... Oh..."
-    a ""
+    a "噢……噢……"
 
 translate schinese scene_ambleskill_c0ddb016:
 
     # "Amble comes down from his high. As the jizz leaves his cock, the boner decreases in size."
-    ""
+    "高潮过后，那根傲人的雄器逐渐恢复了安分的样子。"
 
 translate schinese scene_ambleskill_539f307c:
 
     # "You still feel so full because you are now chokefull with Amble's hot spunk."
-    ""
+    "你被填得满满当当，肚子里全是这头红熊温热的精液。"
 
 translate schinese scene_ambleskill_3f8e81ef:
 
     # "Amble slides his cock out of your mouth."
-    ""
+    "安布拔出巨屌，你精疲力尽地躺在地上喘息，一点一点咽入口中残存的雄精。"
 
 translate schinese scene_ambleskill_aa0cf031:
 
     # "You lay your head on the ground from sheer exhaustion."
-    ""
+    pass
 
 translate schinese scene_ambleskill_bf94367c:
 
     # "Little by little, you swallow the milk in your mouth."
-    ""
+    pass
 
 translate schinese scene_ambleskill_e99cbda7:
 
     # "By the end, you are so full."
-    ""
+    "这下，你终于满足了。安布则开始收拾残局。"
 
 translate schinese scene_ambleskill_f5e1313a:
 
     # "As you lay there exhausted, Amble starts to clean up."
-    ""
+    pass
 
 translate schinese scene_ambleskill_515d5229:
 
     # "He wipes down your face, chin, lips and body."
-    ""
+    "他轻轻擦过你的脸、下巴、嘴唇、身体。"
 
 translate schinese scene_ambleskill_56badedc:
 
     # "You just allow him to take care of you."
-    ""
+    "你没有说话，只是静静地让他照顾你。"
 
 translate schinese scene_ambleskill_2a3f453d:
 
     # "When he is done, he lays down beside you."
-    ""
+    "擦完之后，他在你身旁躺了下来。"
 
 translate schinese scene_jogskill_556c7193:
 
     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg ""
+    $ renpy.notify("该场景文本未与画面同步更新")
 
 translate schinese scene_jogskill_da2555f9:
 
