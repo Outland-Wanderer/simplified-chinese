@@ -3674,322 +3674,323 @@ translate schinese Jog_Ole_Training_Scene_18fe3705:
 translate schinese Jog_Ole_Training_Scene_e600cd0a:
 
     # "Jog hops down from his haybale."
-    ""
+    "乔格从草垛上跳下来。"
 
 translate schinese Jog_Ole_Training_Scene_f785cef8:
 
     # j "Perfect timing. Let's go."
-    j ""
+    j "来得正好，走吧。"
 
 translate schinese Jog_Ole_Training_Scene_c4086d54:
 
     # e "Where are we going?"
-    e ""
+    e "我们要去哪里？"
 
 translate schinese Jog_Ole_Training_Scene_20b80bf1:
 
     # j "The bushes near the forest will be fine."
-    j ""
+    j "森林边上的灌木丛就挺不错。"
 
 translate schinese Jog_Ole_Training_Scene_b9f6bb9c:
 
     # e "What are we going to do?"
-    e ""
+    e "去那里干什么？"
 
 translate schinese Jog_Ole_Training_Scene_7428efc6:
 
     # j "You'll find out."
-    j ""
+    j "去到你自然会知道。"
 
 translate schinese Jog_Ole_Training_Scene_a838e0e0:
 
     # e "Do I need to prepare anything?"
-    e ""
+    e "我需要准备什么吗？"
 
 translate schinese Jog_Ole_Training_Scene_82d7ded8:
 
     # j "Just bring your handsome self there."
-    j ""
+    j "带上你这张帅脸就够了。别跟十万个为什么似的，我在那等你。"
 
 translate schinese Jog_Ole_Training_Scene_ea03e3b9:
 
     # j "And enough with the 20 questions. I'll meet you there."
-    j ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_1962914c:
 
     # "You are about to suggest that you two can travel there together, but as you turn the corner, you see he's already disappeared."
-    ""
+    "你正想说一起走，可刚拐个弯他便没影了。"
 
 translate schinese Jog_Ole_Training_Scene_8491e5b8:
 
     # "You arrive at the forest. The place is peaceful and serene."
-    ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_6248a843:
 
     # "Jog is nowhere to be found."
-    ""
+    "你将信将疑地来到乔格说的地方。此时的森林宁静而祥和，但那只小鬣狗却不见踪影。"
 
 translate schinese Jog_Ole_Training_Scene_bcde38c5:
 
     # e "Jog? Are you there?"
-    e ""
+    e "乔格？你在吗？"
 
 translate schinese Jog_Ole_Training_Scene_02cda242:
 
     # "The only answer you get is the chirping of birds."
-    ""
+    "回应你的只有鸟叫声。"
 
 translate schinese Jog_Ole_Training_Scene_4211b0c4:
 
     # "Just as you wonder if this is a prank, you feel a pinch on your butt."
-    ""
+    "正当你怀疑自己是不是被耍了的时候，屁股突然被人掐了一把。"
 
 translate schinese Jog_Ole_Training_Scene_33ce38fc:
 
     # j "That was your punishment for making me wait so long."
-    j ""
+    j "磨磨蹭蹭的，必须惩罚一下你。"
 
 translate schinese Jog_Ole_Training_Scene_d333a3bf:
 
     # "Jog appears out of the shadows."
-    ""
+    "乔格从暗处现身，拎着一篮子各色野果。"
 
 translate schinese Jog_Ole_Training_Scene_e52165e5:
 
     # "He is carrying a basket of what appears to be different kinds of berries."
-    ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_5c609639:
 
     # e "What do you have there, Jog?"
-    e ""
+    e "这些是什么，我们要去摘浆果吗？"
 
 translate schinese Jog_Ole_Training_Scene_43a2d3c1:
 
     # e "Are we going berry-picking?"
-    e ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_9752d2ec:
 
     # j "Are we children frolicking through the woods? No."
-    j ""
+    j "你以为我们要像小屁孩春游啊？才不是。"
 
 translate schinese Jog_Ole_Training_Scene_bf07d712:
 
     # j "I'm going to teach you a skill vital to being a scout."
-    j ""
+    j "今天我要教你侦察员的必备技能。"
 
 translate schinese Jog_Ole_Training_Scene_924d27d3:
 
     # e "What is it?"
-    e ""
+    e "噢？"
 
 translate schinese Jog_Ole_Training_Scene_aaf07927:
 
     # j "The art of camouflage."
-    j ""
+    j "伪装术。"
 
 translate schinese Jog_Ole_Training_Scene_6df8025b:
 
     # e "That sounds cool."
-    e ""
+    e "听起来还挺厉害的。"
 
 translate schinese Jog_Ole_Training_Scene_eaa0a922:
 
     # j "And highly useful."
-    j ""
+    j "而且非常实用。"
 
 translate schinese Jog_Ole_Training_Scene_6cc867db:
 
     # e "But how are the berries involved?"
-    e ""
+    e "但这跟浆果有什么关系？"
 
 translate schinese Jog_Ole_Training_Scene_8582534f:
 
     # "Jog shakes the basket."
-    ""
+    "乔格晃了晃篮子。"
 
 translate schinese Jog_Ole_Training_Scene_8270ebc0:
 
     # j "You wouldn't be carrying paint with you out in the wilds, would you?"
-    j ""
+    j "你会带着颜料去荒郊野岭吗？"
 
 translate schinese Jog_Ole_Training_Scene_879634cc:
 
     # e "No."
-    e ""
+    e "不会。"
 
 translate schinese Jog_Ole_Training_Scene_e7da5408:
 
     # j "Bingo. But these berries can be found everywhere. As long as you know your colors, you can basically mix up any hue you need for the perfect camouflage."
-    j ""
+    j "所以咯。这些野果满山遍野都是，只要懂调配，什么颜色都可以调出来。"
 
 translate schinese Jog_Ole_Training_Scene_6ac99167:
 
     # e "That sounds neat."
-    e ""
+    e "有道理。"
 
 translate schinese Jog_Ole_Training_Scene_85d83fe9:
 
     # j "Alright. Now, strip."
-    j ""
+    j "好了，脱衣服吧。"
 
 translate schinese Jog_Ole_Training_Scene_ad8f48d1:
 
     # "You are surprised by the demand."
-    ""
+    "这要求令你一愣。"
 
 translate schinese Jog_Ole_Training_Scene_790c5b80:
 
     # e "Strip? Why?"
-    e ""
+    e "脱衣服？为什么？"
 
 translate schinese Jog_Ole_Training_Scene_e3bc7524:
 
     # j "Cause berries stain, and I'm not going have you blame me for ruining your clothes later."
-    j ""
+    j "浆果汁弄上去难洗干净，我可不想你回头怪我弄脏了衣服。"
 
 translate schinese Jog_Ole_Training_Scene_743e5839:
 
     # j "Plus, this makes the lesson a lot more fun."
-    j ""
+    j "而且，这样会更有趣。"
 
 translate schinese Jog_Ole_Training_Scene_19022f52:
 
     # "Jog winks naughtily at you."
-    ""
+    "乔格冲你坏笑一下。"
 
 translate schinese Jog_Ole_Training_Scene_4d14a03f:
 
     # j "Stop wasting time. Get those clothes off."
-    j ""
+    j "别浪费时间了，赶紧脱。"
 
 translate schinese Jog_Ole_Training_Scene_5290c77d:
 
     # j "You're not shy, are you?"
-    j ""
+    j "你不会害羞了吧？"
 
 translate schinese Jog_Ole_Training_Scene_5d25027a:
 
     # e "No..."
-    e ""
+    e "才没有……"
 
 translate schinese Jog_Ole_Training_Scene_86dfce74:
 
     # "You strip down to your loincloth."
-    ""
+    "你脱到只剩兜裆布。"
 
 translate schinese Jog_Ole_Training_Scene_57ef6df3:
 
     # "Even though Jog is also just standing there in his briefs, you can't help but feel a little self-conscious."
-    ""
+    "虽然乔格同样穿着内裤站在那里，你还是有点不好意思。"
 
 translate schinese Jog_Ole_Training_Scene_c8027eae:
 
     # "Jog whistles."
-    ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_30de0b66:
 
     # j "Nice bod."
-    j ""
+    j "身材不错嘛。"
+    "他吹吹口哨评价道。"
 
 translate schinese Jog_Ole_Training_Scene_4b01a27e:
 
     # e "Jog, focus."
-    e ""
+    e "乔格，认真点。"
 
 translate schinese Jog_Ole_Training_Scene_a423411c:
 
     # j "I am."
-    j ""
+    j "我很认真的。"
 
 translate schinese Jog_Ole_Training_Scene_a7868852:
 
     # "He says this as he focuses his eyes on your exposed body."
-    ""
+    "他说这话的时候，双眼还紧盯着你裸露的身体。"
 
 translate schinese Jog_Ole_Training_Scene_23236483:
 
     # e "Jog, be serious."
-    e ""
+    e "不要闹了。"
 
 translate schinese Jog_Ole_Training_Scene_9660dd78:
 
     # j "Alright. Loosen up a little... Or I might need to help you."
-    j ""
+    j "好好好，放轻松……不然我可要帮你放松咯。"
 
 translate schinese Jog_Ole_Training_Scene_b285ef14:
 
     # j "Anyway, look at this."
-    j ""
+    j "呐，你看。"
 
 translate schinese Jog_Ole_Training_Scene_8fb47169:
 
     # "Jog grabs a handful of blue and golden berries."
-    ""
+    "乔格抓了把蓝莓和金莓，用力一握将它们碾碎在掌心里。"
 
 translate schinese Jog_Ole_Training_Scene_35c6c913:
 
     # "He mulches them in his paw. To your surprise, the berries slowly turn a green color that matches the color of the leaves around you."
-    ""
+    "浆果的汁液混到一起，竟慢慢变成和周围树叶一样的绿色。"
 
 translate schinese Jog_Ole_Training_Scene_b851e15c:
 
     # e "That's amazing."
-    e ""
+    e "太神奇了！"
 
 translate schinese Jog_Ole_Training_Scene_e7f841e9:
 
     # "You are genuinely in awe."
-    ""
+    "你发自内心地被震撼到。"
 
 translate schinese Jog_Ole_Training_Scene_0e609d17:
 
     # j "You can get any color you want as long as you know how to combine them."
-    j ""
+    j "只要掌握混合的和比例，就能调出任何颜色。"
 
 translate schinese Jog_Ole_Training_Scene_52124093:
 
     # "Jog adds a few more golden berries to the mix, and the color morphs to a brighter emerald shade."
-    ""
+    "乔格又添了一些金莓，原本的汁液变成了更亮的祖母绿。"
 
 translate schinese Jog_Ole_Training_Scene_f0712253:
 
     # j "With some shading, you can create the illusion of shadows."
-    j ""
+    j "假如加强暗部还能创造更加立体的效果。"
 
 translate schinese Jog_Ole_Training_Scene_d0a0f53a:
 
     # j "Plus, you can use more than just berries. Everything around you can be used as a material."
-    j ""
+    j "另外，不光野果，我们周围的一切都能用来调色。"
 
 translate schinese Jog_Ole_Training_Scene_eaee73d2:
 
     # "To demonstrate, Jog picks up some soil and mashes it with some red berries."
-    ""
+    "为了向你演示，乔格从地上抓起一把土混着红莓揉碎。"
 
 translate schinese Jog_Ole_Training_Scene_c46275e1:
 
     # "The bright redness of the berries becomes more coppery. You then realize what he is trying to mimic."
-    ""
+    "鲜红的汁液变成铁锈色，你一下就明白了他在仿造什么。"
 
 translate schinese Jog_Ole_Training_Scene_2a032647:
 
     # e "Is that blood?"
-    e ""
+    e "这是血？"
 
 translate schinese Jog_Ole_Training_Scene_5fd27299:
 
     # j "Correct. Or at least, it's fake blood."
-    j ""
+    j "没错，超仿真的假血。误导敌人的时候特别管用。"
 
 translate schinese Jog_Ole_Training_Scene_926d38be:
 
     # j "Useful when trying to lead your enemies down a false trail."
-    j ""
+    pass
 
 translate schinese Jog_Ole_Training_Scene_efcd41db:
 
