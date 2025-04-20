@@ -3553,87 +3553,87 @@ translate schinese strings:
 translate schinese Ole_Report_Courier_Quest_2ff75fe8:
 
     # e "H-hey...I'm back. From Amble and Jog."
-    e ""
+    e "我从安布和乔格那回来了。"
 
 translate schinese Ole_Report_Courier_Quest_91ce38e2:
 
     # o "Hey, [e]. What's going on, why did you look so tired?"
-    o ""
+    o "嘿，你们干什么了？怎么看起来这么累。"
 
 translate schinese Ole_Report_Courier_Quest_bec24e7f:
 
     # e "...because...training?"
-    e ""
+    e "……训练……的确比较辛苦。"
 
 translate schinese Ole_Report_Courier_Quest_8d5f471b:
 
     # o "Fair enough. So, nothing else?"
-    o ""
+    o "好吧，除此之外呢？"
 
 translate schinese Ole_Report_Courier_Quest_3f456947:
 
     # e "I've gotten a few new skills and tricks I can use. They're really useful!"
-    e ""
+    e "他们教了我一些新技能和技巧，真的很有用！"
 
 translate schinese Ole_Report_Courier_Quest_f76324f7:
 
     # o "Ha. That's good to know. Remember you can check out your skills in the journal."
-    o ""
+    o "哈哈，学以致用学用相长。记得回头翻翻笔记本查看技能的详细说明。"
 
 translate schinese Ole_Report_Courier_Quest_2137a00a:
 
     # o "Anything else?"
-    o ""
+    o "然后呢？"
 
 translate schinese Ole_Report_Courier_Quest_e7588066:
 
     # e "W-what? What else...?"
-    e ""
+    e "然、然后？然后就没有然后了……？"
 
 translate schinese Ole_Report_Courier_Quest_b6629acd:
 
     # o "Hmmm... Sure then."
-    o ""
+    o "嗯……那就没有吧。"
 
 translate schinese Ole_Report_Courier_Quest_7a63ee25:
 
     # o "Hope it proves useful for your future adventures."
-    o ""
+    o "总之希望这对你未来的冒险有帮助。"
 
 translate schinese Ole_Report_Courier_Quest_99d116ba:
 
     # e "It definitely will!"
-    e ""
+    e "非常有帮助！谢啦奥利，多亏你帮我加训。"
 
 translate schinese Ole_Report_Courier_Quest_56d51591:
 
     # e "Thank you, Ole, for helping with the trainings."
-    e ""
+    pass
 
 translate schinese Ole_Report_Courier_Quest_1f6ec84a:
 
     # o "Thank them, not me, kiddo. But I see you're appreciative enough."
-    o ""
+    o "谢谢他们，不用谢我。不过我看你已经向他们表达过谢意了。"
 
 translate schinese Ole_Report_Courier_Quest_d7bf05f9:
 
     # e "Hmm?"
-    e ""
+    e "嗯？"
 
 translate schinese Ole_Report_Courier_Quest_beb12164:
 
     # o "mhmm... take a bath!"
-    o ""
+    o "呃……赶紧去洗个澡吧！"
 
 translate schinese Ole_Report_Courier_Quest_523c9855:
 
     # e "O-ok! Didn't know you can smell that..."
-    e ""
+    e "啊！原来你能得闻到……"
 
 translate schinese Ole_Ask_Courier_Quest_8cf10d8c:
 
     # e "Ole, it has been quite some time since my first courier mission. Do you have a new mission?"
-    e "奥利，自从我完成第一个差客委托已经有一段时间了。今天有新的委托吗？"
+    e "奥利，我完成第一个差客委托已经有一段时间了。今天有新的委托吗？"
 
 translate schinese Ole_Ask_Courier_Quest_849d0904:
 

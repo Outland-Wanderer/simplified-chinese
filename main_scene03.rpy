@@ -781,504 +781,504 @@ translate schinese scene_jogskill_556c7193:
 translate schinese scene_jogskill_da2555f9:
 
     # "Before you realize what's happening, Jog sidles up to you and smears the mixture on your bare chest."
-    ""
+    "你还没反应过来，乔格便凑到你身前，把那混合后的浆果汁液抹在你裸露的胸膛上。"
 
 translate schinese scene_jogskill_08e8e5f6:
 
     # "The sudden contact makes you shudder."
-    ""
+    "突如其来的触碰让你浑身一颤。"
 
 translate schinese scene_jogskill_b5237264:
 
     # e "Hey, what's that for?"
-    e ""
+    e "嘿，这算哪门子教学？"
 
 translate schinese scene_jogskill_48bb0d32:
 
     # j "You don't think we're ending the lesson without practical application, do you?"
-    j ""
+    j "你不会以为我们光说不练吧？"
 
 translate schinese scene_jogskill_1bb71adc:
 
     # e "But why are you painting me?"
-    e ""
+    e "那你干嘛往我身上涂颜料啊？"
 
 translate schinese scene_jogskill_1a40428e:
 
     # j "You're the one who wanted to learn something new."
-    j ""
+    j "不是你说要学点新鲜的么？"
 
 translate schinese scene_jogskill_f21b6384:
 
     # j "Now watch and learn."
-    j ""
+    j "现在看好了——"
 
 translate schinese scene_jogskill_f6928498:
 
     # "Jog's paws expertly slather the color mixture on your torso."
-    ""
+    "乔格的爪子娴熟地往你躯干涂抹着彩料。"
 
 translate schinese scene_jogskill_1c99e326:
 
     # "It's mesmerizing to see how he paints the foliage around you on the canvas that is your body."
-    ""
+    "他将你周身的草木景色复刻到你的皮毛上，让你看得入迷。"
 
 translate schinese scene_jogskill_9de99c62:
 
     # "You can see the outline and details of your body fade and meld into the surroundings, becoming nearly indistinguishable."
-    ""
+    "眼看自己的身形轮廓逐渐融入自然，连你都快要分不清边界在哪了。"
 
 translate schinese scene_jogskill_21e8f33f:
 
     # "However, it's really hard for you to concentrate, because Jog is having a bit too much fun with his demonstration."
-    ""
+    "但你实在没法专心观察，这家伙玩得也有点太投入了。"
 
 translate schinese scene_jogskill_f0250227:
 
     # "You have no idea if he's doing this on purpose or not. Jog's hands wander freely over your chest and abdomen as he applies the paint."
-    ""
+    "乔格两手借着涂抹动作在你胸腹间四处游走，不知有意无意。"
 
 translate schinese scene_jogskill_519983ca:
 
     # "His paws are warm. As they move around every inch of your upper body, you find yourself getting hot."
-    ""
+    "暖暖的爪子在每个角落摸来摸去，一股燥热感升了上来。"
 
 translate schinese scene_jogskill_20c01144:
 
     # j "Someone sure is enjoying this."
-    j ""
+    j "有人真是享受得不行。"
 
 translate schinese scene_jogskill_fb8134ce:
 
     # "Jog's comment draws you to look down. You notice that you have a semi hard-on."
-    ""
+    "顺着他的目光低头，你发现胯间已经支起了小帐篷。"
 
 translate schinese scene_jogskill_115fec1f:
 
     # e "No... That's..."
-    e ""
+    e "不……这是……"
 
 translate schinese scene_jogskill_9b1aa906:
 
     # j "Hey, that's no problem with me at all. In fact, I quite enjoy the view."
-    j ""
+    j "嘿，我可一点也不介意。这样的风景，我很喜欢。"
 
 translate schinese scene_jogskill_5cc61975:
 
     # "Jog grabs a berry and pops it right before your nipple."
-    ""
+    "乔格捏爆一颗浆果，正对着你乳头挤下去。"
 
 translate schinese scene_jogskill_c79649ab:
 
     # "The sticky juice splatters onto your skin. It causes your nipple to perk right up."
-    ""
+    "黏稠的汁水滴落乳尖，激得那点立刻挺立起来。"
 
 translate schinese scene_jogskill_f6bcb0b9:
 
     # e "Jog... That's... Is that necessary?"
-    e ""
+    e "非、非得……这样吗？"
 
 translate schinese scene_jogskill_ae4712cb:
 
     # j "Oh, yes."
-    j ""
+    j "当然咯。"
 
 translate schinese scene_jogskill_212a1503:
 
     # "Jog rubs the berry juice around your nipples. Slick with juice, your nipples firm up even more."
-    ""
+    "他继续将浆果汁在你乳头周围揉搓开，湿滑的触感让它们愈发硬挺。"
 
 translate schinese scene_jogskill_faa7d97b:
 
     # e "Hmm..."
-    e ""
+    e "嗯……"
 
 translate schinese scene_jogskill_a21a0efa:
 
     # j "Do you know what the purpose of camouflage is?"
-    j ""
+    j "你知道伪装术的精髓是什么吗？"
 
 translate schinese scene_jogskill_e894dad8:
 
     # "You're too distracted by his hand on your nipple to answer."
-    ""
+    "你被他在乳头上画圈的手弄得说不出话。"
 
 translate schinese scene_jogskill_c6a1cf8b:
 
     # "Jog chuckles."
-    ""
+    "他暗笑了几下继续说："
 
 translate schinese scene_jogskill_d6695bf7:
 
     # j "It's to take advantage of the enemy's moment of weakness in surprise."
-    j ""
+    j "就是要趁敌人不备时抓住他们的破绽。"
 
 translate schinese scene_jogskill_d4154dec:
 
     # "You feel a sudden pressure around your butthole."
-    ""
+    "你突然感觉后穴传来一阵压迫。"
 
 translate schinese scene_jogskill_ea9e767e:
 
     # e "Eek!"
-    e ""
+    e "啊呀！"
 
 translate schinese scene_jogskill_0ee1c9bc:
 
     # "With one hand still massaging your nipple, Jog's other hand has slipped down the back of your loincloth."
-    ""
+    "乔格左手把玩你胸前的果实，而右手早已探进兜裆布后方。"
 
 translate schinese scene_jogskill_b5a104da:
 
     # "Without warning, Jog sticks one finger up your ass."
-    ""
+    "毫无预警地，他一根手指顶进了甬道。"
 
 translate schinese scene_jogskill_42c84ff3:
 
     # "Thanks to the lubrication from the berry juice, the invasion is not as painful as it should have been."
-    ""
+    "幸亏有浆果汁润滑，这下没你想象的那么痛。"
 
 translate schinese scene_jogskill_59cc8763:
 
     # "However, having a foreign object up your ass still requires some getting used to."
-    ""
+    "不过异物感总还是得慢慢适应。"
 
 translate schinese scene_jogskill_3b8a0475:
 
     # e "Jog... Hng..."
-    e ""
+    e "乔格……啊哈……"
 
 translate schinese scene_jogskill_7ba7b330:
 
     # "Jog pours juice down the small of your back."
-    ""
+    "他顺着你后腰倒下更多果汁。"
 
 translate schinese scene_jogskill_d6c3b82f:
 
     # "The juice drips down your crack and onto Jog's finger."
-    ""
+    "黏腻的液体滑入股缝，浸湿他正在开拓的手指。"
 
 translate schinese scene_jogskill_a369a55c:
 
     # j "With the enemy's defense down, you can aim for a critical hit."
-    j ""
+    j "然后打出致命一击。"
 
 translate schinese scene_jogskill_f5cc6079:
 
     # "Jog pushes his finger deeper into you."
-    ""
+    "指节又往深处顶进半寸。"
 
 translate schinese scene_jogskill_87247b76:
 
     # e "Argh..."
-    e ""
+    e "呃啊……"
 
 translate schinese scene_jogskill_d4e4706a:
 
     # "His finger hits a spot that makes your legs go weak."
-    ""
+    "小鬣狗戳中花心令你瞬间腿软，他接着开始把手指稍稍抽出又送回去。"
 
 translate schinese scene_jogskill_a2a77387:
 
     # "Jog pulls his finger out slightly before nudging it back in."
-    ""
+    pass
 
 translate schinese scene_jogskill_4d503052:
 
     # "Your ass has gotten a lot more receptive to his finger."
-    ""
+    "你的后穴很快适应了这种侵犯，痛感逐渐化作细密的酥麻。"
 
 translate schinese scene_jogskill_e2dbb64c:
 
     # "The pain begins to fade to pleasure."
-    ""
+    pass
 
 translate schinese scene_jogskill_391b5a5d:
 
     # e "Ah... Ah..."
-    e ""
+    e "啊……啊……"
 
 translate schinese scene_jogskill_a73318e6:
 
     # "Your semi hard-on has turned into a full-on boner."
-    ""
+    "你方才半硬的下体此刻已经完全挺立。"
 
 translate schinese scene_jogskill_0e2347a6:
 
     # j "Now, this part of your body is exposed. Let me just fix that."
-    j ""
+    j "哎呀，这里暴露了，得赶紧遮起来。"
 
 translate schinese scene_jogskill_a1967a4b:
 
     # "Jog relinquishes the nipple massage to grab some berries."
-    ""
+    "乔格暂时放过红肿的乳尖，抓起一把浆果。"
 
 translate schinese scene_jogskill_1f25dae8:
 
     # "As he continues to fingerfuck your ass, his other hand grabs your penis."
-    ""
+    "他一只手继续操弄你的屁眼，另一只手则伸向你的鸡巴。"
 
 translate schinese scene_jogskill_142238fe:
 
     # j "Not bad."
-    j ""
+    j "真大。"
 
 translate schinese scene_jogskill_03107091:
 
     # e "Oh... Oh..."
-    e ""
+    e "噢……噢……"
 
 translate schinese scene_jogskill_62911582:
 
     # "Jog keeps up with his finger's constant exploration and massage of your ass, while his other hand works on your penis."
-    ""
+    pass
 
 translate schinese scene_jogskill_2dfcf583:
 
     # "He slides his hand along its underside, tracing from base, all the way up and around the glans."
-    ""
+    "他掌心贴着柱身从根部直捋到冠沟。"
 
 translate schinese scene_jogskill_426db5ed:
 
     # j "One has to take care of all the angles."
-    j ""
+    j "每个角落都要照顾到。"
 
 translate schinese scene_jogskill_a2bd7820:
 
     # "Jog squeezes your penis through the loincloth."
-    ""
+    "乔格隔着兜裆布握住你的雄器。布面沾满了果浆和淫水，但你已经没心思在意能不能洗掉了。"
 
 translate schinese scene_jogskill_0b0d71ae:
 
     # "Your loincloth is heavily stained, but you are not in the mindset to care."
-    ""
+    pass
 
 translate schinese scene_jogskill_03107091_1:
 
     # e "Oh... Oh..."
-    e ""
+    e "噢……噢……"
 
 translate schinese scene_jogskill_ec624751:
 
     # "Jog grabs your cock, and begins to properly massage it."
-    ""
+    "他握住昂扬的肉棒揉捏套弄，富有规律。"
 
 translate schinese scene_jogskill_65b3ada7:
 
     # e "Hng... Oh... Hng..."
-    e ""
+    e "哼嗯……噢……哼嗯……"
 
 translate schinese scene_jogskill_d7d14883:
 
     # "You are getting impossibly hard."
-    ""
+    pass
 
 translate schinese scene_jogskill_dfae8fcf:
 
     # "With his one finger inside your ass and his other hand stroking your penis, it's hard to tell where the greater sensation is coming from."
-    ""
+    "你鸡巴硬的发疼。乔格两只小手前后夹击，都分不清哪边快感更强烈。"
 
 translate schinese scene_jogskill_654cb847:
 
     # "All you know is that your body is enjoying this too much."
-    ""
+    "你只感觉身体有些舒服得过头了。"
 
 translate schinese scene_jogskill_ae5bbc55:
 
     # j "Mustn't forget these either."
-    j ""
+    j "这对宝贝也不能冷落。"
 
 translate schinese scene_jogskill_dd139951:
 
     # "Jog smacks your balls. They pull up, accompanied by a throb of pleasure to your dick."
-    ""
+    "乔格轻拍沉甸甸的囊袋，再稍稍往外一扯，肉棒头端便立马颤动着冒出晶莹的爱液。"
 
 translate schinese scene_jogskill_8f8819fc:
 
     # e "Erng..."
-    e ""
+    e "呃啊……"
 
 translate schinese scene_jogskill_4ae66c57:
 
     # "Your cock shivers and jolts, precum oozing out of your cockhead."
-    ""
+    pass
 
 translate schinese scene_jogskill_3416cf17:
 
     # "However, it is hard to tell with your loincloth covered in berry juices."
-    ""
+    "爱液迅速融入果浆，只在兜裆布上留下淡淡的水痕。"
 
 translate schinese scene_jogskill_05d42dce:
 
     # j "Now, it's time to go for the kill."
-    j ""
+    j "该上大杀招了。"
 
 translate schinese scene_jogskill_96df0a1a:
 
     # "Your asshole stretches open as two fingers slip inside of it."
-    ""
+    "你的后穴一下被撑开，第二根手指挤了进来。"
 
 translate schinese scene_jogskill_06f5aa10:
 
     # e "Oh... Oh!"
-    e ""
+    e "啊……啊！"
 
 translate schinese scene_jogskill_a7a22c28:
 
     # "Your ass clenches, the extra thickness from the second finger filling you up to your limit."
-    ""
+    "你本能绞紧穴肉，艰难适应着增加的厚度。"
 
 translate schinese scene_jogskill_c4ca0823:
 
     # "The attention to your ass has only served to excite you more, drawing you even further into a lusty haze."
-    ""
+    "注意力转移至后头放大了那股酥麻感，快感将理智冲得更加七零八落。"
 
 translate schinese scene_jogskill_ba132188:
 
     # "You can feel your cock bouncing and trembling in Jog's hand."
-    ""
+    "你能清晰地感觉到自己的鸡巴在对方掌中跳动颤抖。"
 
 translate schinese scene_jogskill_b4bb3535:
 
     # "As expected of Jog, he pounces on the opportunity."
-    ""
+    "正如乔格所料，他趁机加快套弄的节奏，从根到顶。"
 
 translate schinese scene_jogskill_c843baae:
 
     # "He starts to pump you hard, his hand going up and down your rod."
-    ""
+    pass
 
 translate schinese scene_jogskill_876fb765:
 
     # "You feel jolts of pleasure as he subtly increases the pleasure as he reaches your head."
-    ""
+    "快感随着他的小手往上攀升。每次撸到龟头时，都会故意加重揉搓敏感处的力道。"
 
 translate schinese scene_jogskill_9e0f9023:
 
     # "Always making sure to gently rub on the sensitive ridge of skin around your frenulum."
-    ""
+    pass
 
 translate schinese scene_jogskill_ed672d18:
 
     # e "I'm... I'm... coming..."
-    e ""
+    e "我……我要射了……"
 
 translate schinese scene_jogskill_a6beb841:
 
     # "Jog's hand only picks up the pace, beating it at a frenzied pace, while simultaneously, digging his two fingers deeper and deeper into your hole."
-    ""
+    "乔格的手速逐渐狂乱，两根手指往你穴里越插越深。"
 
 translate schinese scene_jogskill_9afeba85:
 
     # "Attacked from the front and back, you quickly surrender to lust."
-    ""
+    "你腹背受敌，很快便彻底屈服于这般淫乐。"
 
 translate schinese scene_jogskill_6e12f635:
 
     # "Your ass puckers, sucking Jog's two fingers deep inside you as your penis shakes in anticipation of the climax."
-    ""
+    "后头贪婪地吮吸着手指，前头则在释放的边缘剧烈颤抖。"
 
 translate schinese scene_jogskill_6ef922e4:
 
     # e "Yes... Oh..."
-    e ""
+    e "射了……啊……"
 
 translate schinese scene_jogskill_ae8d2cfe:
 
     # "Your penis pulses as cum shoots out of your dickhead. Jog keeps the stimulation going."
-    ""
+    "鸡巴暴胀猛地一挺，浓精从马眼迸发而出。而对方并没有停下手中动作。"
 
 translate schinese scene_jogskill_3df1bd32:
 
     # "Ropes and ropes of cum shoot out of your cock. It isn't long before your loincloth is covered in it."
-    ""
+    "一股接一股的精液浸染了大半兜裆布，多到甚至透过布料渗出来，白色的一滩在迷彩绿中格外显眼。"
 
 translate schinese scene_jogskill_ab7b4e31:
 
     # "When the initial shots of cum taper off into a gentle dribble down your shaft, Jog lets go."
-    ""
+    "直到激射变成涓流，乔格才松开握住肉棒的手。"
 
 translate schinese scene_jogskill_5d2d3d2f:
 
     # "As the climax passes, the muscles of your body relax."
-    ""
+    "高潮过后，你整个人都放松下来。小鬣狗也得以轻松地抽出手指。"
 
 translate schinese scene_jogskill_3f6b2d9c:
 
     # "This means that Jog can easily slide his fingers out of your asshole."
-    ""
+    pass
 
 translate schinese scene_jogskill_769047ea:
 
     # "Your hole opens and closes. You miss having the thickness inside you."
-    ""
+    "屁眼一张一闭，你反而有些不舍那种充实感。"
 
 translate schinese scene_jogskill_685dffa8:
 
     # "On the other side, your cock is still leaking."
-    ""
+    pass
 
 translate schinese scene_jogskill_2629168c:
 
     # "Your warm cum slides down the inside of your legs."
-    ""
+    pass
 
 translate schinese scene_jogskill_a50a1ca1:
 
     # "Exhausted, you slowly crumple to the ground."
-    ""
+    "累极的你缓缓瘫软到地上。鸡巴仍徐徐冒出余精，温热的白浆顺着大腿内侧滑下。"
 
 translate schinese scene_jogskill_941d9554:
 
     # j "Well, I hope you enjoyed our lesson."
-    j ""
+    j "哼哼，这堂课够好玩吧。"
 
 translate schinese scene_jogskill_ea27c0ea:
 
     # j "It was definitely fun for me."
-    j ""
+    j "我教得倒是很尽兴。"
 
 translate schinese scene_jogskill_faa7d97b_1:
 
     # e "Hmm..."
-    e ""
+    e "唔……"
 
 translate schinese scene_jogskill_85a4a0e2:
 
     # "You are too tired to reply."
-    ""
+    "你疲倦到懒得动嘴。"
 
 translate schinese scene_jogskill_064d1295:
 
     # j "Your ass is ready for something much bigger than my two fingers, but I think that's enough for today."
-    j ""
+    j "这回才两根手指，你的潜力可比这大多了，但今天就到这里吧。"
 
 translate schinese scene_jogskill_85722ec2:
 
     # "Jog grins salaciously. You notice that he is rock hard too. However, you are far too drained to do anything about it right now."
-    ""
+    "乔格露出淫荡的笑容。你看见他下面同样支起了帐篷，而自己快困得连眼皮都睁不开。"
 
 translate schinese scene_jogskill_28d292fb:
 
     # j "But next time, you better be ready."
-    j ""
+    j "下次要提前做好准备哟。"
 
 translate schinese scene_jogskill_50d66148:
 
     # "Your asshole puckers at the thought."
-    ""
+    "听到这话，你后穴不由自主地一紧。"
 
 translate schinese scene_jogskill_e564909f:
 
     # j "Anyway, with the camouflage that I've done on you, you should be able to rest and recover here for a while without anyone noticing."
-    j ""
+    j "涂了这身伪装，应该能保你几个小时不会被野怪打扰，安心休息吧。"
 
 translate schinese scene_jogskill_f74aad10:
 
     # j "I, on the other hand, have some business to attend to."
-    j ""
+    j "至于我，我还有些事要办。"
 
 translate schinese scene_jogskill_7d5784b5:
 
     # j "Til next time."
-    j ""
+    j "先走一步，回见咯。"
