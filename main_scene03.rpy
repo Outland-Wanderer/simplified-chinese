@@ -831,7 +831,7 @@ translate schinese scene_jogskill_9de99c62:
 translate schinese scene_jogskill_21e8f33f:
 
     # "However, it's really hard for you to concentrate, because Jog is having a bit too much fun with his demonstration."
-    "但你实在没法专心观察，这家伙玩得也有点太投入了。"
+    "但你实在没法专心观察，这家伙玩得也有点太过投入。"
 
 translate schinese scene_jogskill_f0250227:
 
@@ -841,7 +841,7 @@ translate schinese scene_jogskill_f0250227:
 translate schinese scene_jogskill_519983ca:
 
     # "His paws are warm. As they move around every inch of your upper body, you find yourself getting hot."
-    "暖暖的爪子在每个角落摸来摸去，一股燥热感升了上来。"
+    "暖暖的爪子在每个角落摸来摸去，一股燥热感升上来。"
 
 translate schinese scene_jogskill_20c01144:
 
@@ -906,7 +906,7 @@ translate schinese scene_jogskill_e894dad8:
 translate schinese scene_jogskill_c6a1cf8b:
 
     # "Jog chuckles."
-    "他暗笑了几下继续说："
+    "他暗笑几下继续说："
 
 translate schinese scene_jogskill_d6695bf7:
 
@@ -931,7 +931,7 @@ translate schinese scene_jogskill_0ee1c9bc:
 translate schinese scene_jogskill_b5a104da:
 
     # "Without warning, Jog sticks one finger up your ass."
-    "毫无预警地，他一根手指顶进了甬道。"
+    "毫无预警地，他一根手指顶进屁股中间的通道。"
 
 translate schinese scene_jogskill_42c84ff3:
 
@@ -976,7 +976,7 @@ translate schinese scene_jogskill_87247b76:
 translate schinese scene_jogskill_d4e4706a:
 
     # "His finger hits a spot that makes your legs go weak."
-    "小鬣狗戳中花心令你瞬间腿软，他接着开始把手指稍稍抽出又送回去。"
+    "小鬣狗戳中花心令你瞬间腿软，他接着把手指稍稍抽出又送回去。"
 
 translate schinese scene_jogskill_a2a77387:
 
@@ -1266,7 +1266,7 @@ translate schinese scene_jogskill_28d292fb:
 translate schinese scene_jogskill_50d66148:
 
     # "Your asshole puckers at the thought."
-    "听到这话，你后穴不由自主地一紧。"
+    "听到这话，你屁眼不由自主地一紧。"
 
 translate schinese scene_jogskill_e564909f:
 

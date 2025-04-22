@@ -3633,7 +3633,7 @@ translate schinese Ole_Report_Courier_Quest_523c9855:
 translate schinese Ole_Ask_Courier_Quest_8cf10d8c:
 
     # e "Ole, it has been quite some time since my first courier mission. Do you have a new mission?"
-    e "奥利，我完成第一个差客委托已经有一段时间了。今天有新的委托吗？"
+    e "奥利，今天有新的委托吗？我完成第一个委托已经有一段时间了。"
 
 translate schinese Ole_Ask_Courier_Quest_849d0904:
 
@@ -3653,7 +3653,7 @@ translate schinese Ole_Ask_Courier_Quest_88f314f9:
 translate schinese Ole_Ask_Courier_Quest_13a9df3b:
 
     # o "With the goat tribe and the roads still filled with danger, there hasn't been much need for courier work."
-    o "山羊部落和乐村断交，进村的路上还有很多魔兽，我们同外界的联系少了很多。"
+    o "山羊部落和乐村断交，进村的路上还有很多魔兽，我们同外界的联系少之又少。"
 
 translate schinese Ole_Ask_Courier_Quest_b727b592:
 
@@ -3709,7 +3709,7 @@ translate schinese Ole_Ask_Courier_Quest_701bc39c:
 translate schinese Ole_Ask_Courier_Quest_8608c21c:
 
     # o "You know that Jog and Amble are couriers like you too, right? Or at least, they patrol the roads to keep it safe for couriers like you."
-    o "你知道乔格和安布也是差客吧？或者这么说，他们每天在路上巡逻就是为了保护像你这样往返乐村的差客。"
+    o "你知道乔格和安布也是差客吧？或者这么说，他们每天在路上巡逻就是为了保护像你这样往返乐村的冒险家。"
 
 translate schinese Ole_Ask_Courier_Quest_6186867a:
 
@@ -3729,7 +3729,7 @@ translate schinese Ole_Ask_Courier_Quest_991359e0:
 translate schinese Ole_Ask_Courier_Quest_489710b8:
 
     # o "At least, I'm sure Amble will be able to help. Jog..."
-    o "至少安布肯定有，乔格的话……"
+    o "至少安布有，乔格的话……"
 
 translate schinese Ole_Ask_Courier_Quest_747e8663:
 

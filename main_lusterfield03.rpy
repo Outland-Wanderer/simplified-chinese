@@ -4701,17 +4701,17 @@ translate schinese Amble_Ole_Training_0ceac477:
 translate schinese Amble_Ole_Training_5b9749a1:
 
     # a "Hmm... I think so."
-    a "唔……应该有吧。"
+    a "唔……应该有喔。"
 
 translate schinese Amble_Ole_Training_28765077:
 
     # e "That's great."
-    e "太好了。"
+    pass
 
 translate schinese Amble_Ole_Training_0ae7ddde:
 
     # e "When do you think you can teach me?"
-    e "那你觉得什么时候方便教我呢？"
+    e "太好了。那什么时候方便呢？"
 
 translate schinese Amble_Ole_Training_03c75f9b:
 
@@ -4736,7 +4736,7 @@ translate schinese Amble_Ole_Training_8b47b126:
 translate schinese Amble_Ole_Training_6db0516e:
 
     # "You and Amble turn around to see Jog tapping his feet and staring at you."
-    "你和安布转过身，看到乔格盯着你们气势汹汹地走过来。"
+    "你和安布转过身，乔格盯着你们气势汹汹地走过来。"
 
 translate schinese Amble_Ole_Training_c32ee83b:
 
@@ -4776,12 +4776,12 @@ translate schinese Amble_Ole_Training_5b089749:
 translate schinese Amble_Ole_Training_59ad9096:
 
     # "You turn to Amble for help."
-    "你转向安布希望他能帮你说说话。"
+    "你转向安布希望他能帮你说说话，而他遗憾地耸肩。"
 
 translate schinese Amble_Ole_Training_1c8a96c3:
 
     # "Amble shrugs."
-    "而他遗憾地耸肩。"
+    pass
 
 translate schinese Amble_Ole_Training_2b87488f:
 
@@ -4806,7 +4806,7 @@ translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
 translate schinese Amble_Ole_Training_Lothar_db60e514:
 
     # a "Awesome. I knew he would agree. He's such a nice person."
-    a "太棒了。我就知道洛哥会同意的，他真是个好大哥。"
+    a "太棒了。我就知道洛哥会同意，他真是个好大哥。"
 
 translate schinese Amble_Ole_Training_Lothar_3f7c5517:
 
@@ -4851,7 +4851,7 @@ translate schinese Amble_Ole_Training_Lothar_a1134b02:
 translate schinese Amble_Ole_Training_Lothar_70ddc782:
 
     # "Amble gets into the idea of the training faster than you anticipate. He trundles off to make his preparation."
-    "安布匆匆离开去做准备，他对训练的热情比你预想的高多了。"
+    "安布匆匆离开去做准备，他对训练的热情比你预想高多了。"
 
 translate schinese Amble_Ole_Training_Lothar_085bcf34:
 
@@ -4861,7 +4861,7 @@ translate schinese Amble_Ole_Training_Lothar_085bcf34:
 translate schinese Amble_Ole_Training_Lothar_5dff4ad8:
 
     # e "So Jog, will you teach me some new skills too?"
-    e "那乔格，你也会教我一些新技能吗？"
+    e "那乔格，也能请你教我一些新技能吗？"
 
 translate schinese Amble_Ole_Training_Lothar_b96acf5d:
 
@@ -5677,7 +5677,7 @@ translate schinese Amble_Ole_Training_Scene_c0861881:
 translate schinese Amble_Ole_Training_Scene_72df042b:
 
     # "Amble's large ass swings and bounces with each of the bear's steps."
-    "安布浑圆的大屁股随着步伐扭动弹跳，你想起了乔格说的话："
+    "安布浑圆的大屁股随着步伐扭动弹跳，你想起乔格说的话："
 
 translate schinese Amble_Ole_Training_Scene_4ebdad8d:
 
@@ -5863,7 +5863,7 @@ translate schinese Amble_Ole_Training_Scene_1d642d4c:
 translate schinese Amble_Ole_Training_Scene_9f55e2c7:
 
     # a "This is for you."
-    a "这是给你的"
+    a "这是给你的。"
 
 translate schinese Amble_Ole_Training_Scene_0ee48921:
 
@@ -5953,7 +5953,7 @@ translate schinese Amble_Ole_Training_Scene_414fc3a2:
 translate schinese Amble_Ole_Training_Scene_025f9fb5:
 
     # "In any case, the briefs are still warm from being wedged in Amble's clothes."
-    "总之，你穿上了这条内裤，自觉这样还挺性感的。"
+    "总之，你穿上了这条内裤，自觉还挺性感的。"
 
 translate schinese Amble_Ole_Training_Scene_55144e1c:
 
@@ -5963,7 +5963,7 @@ translate schinese Amble_Ole_Training_Scene_55144e1c:
 translate schinese Amble_Ole_Training_Scene_f61f1a50:
 
     # e "Why only the briefs?"
-    e "我们不用穿其他防具训练吗？"
+    e "我们不用穿其他防具吗？"
     a "如果穿着那些铁片，训练的时候会很容易划伤自己的。"
 
 translate schinese Amble_Ole_Training_Scene_a07dab3c:
