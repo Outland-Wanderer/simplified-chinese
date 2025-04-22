@@ -803,7 +803,7 @@ translate schinese Damp_Cave_Loop_ed7b2a19:
 translate schinese Damp_Cave_Loop_67435228:
 
     # k "Courier, He's right there!"
-    k "邮差，弗坎就在那！"
+    k "[e]，弗坎就在那！"
 
 translate schinese Damp_Cave_Loop_2c2f1fc4:
 

@@ -206,7 +206,7 @@ translate schinese Battle_Kari_188e5f4f:
 translate schinese Battle_Kari_e16dd3fd:
 
     # k "Hmm... finally get to use my spell, guess it's for you, courier."
-    k "呵……终于有机会施法了，提起精神，邮差。"
+    k "呵……终于有机会施法了，提起精神，[e]。"
 
 translate schinese Battle_Kari_1aa8b32d:
 
@@ -561,7 +561,7 @@ translate schinese goat_guard_battle_loop_464a510d:
 translate schinese goat_guard_battle_loop_c20265d4:
 
     # gg "It's you and me now, courier."
-    gg "轮到你和我的对决了，邮差。"
+    gg "轮到你和我的对决了，外村差客。"
 
 translate schinese goat_guard_battle_loop_160af8a9:
 
@@ -1151,7 +1151,7 @@ translate schinese goat_general_win_93e978ea:
 translate schinese goat_general_win_569bed2f:
 
     # gg "Be a man and finish me right here, courier."
-    gg "像个男人了结掉我吧，乐村来的邮差。"
+    gg "像个男人了结掉我吧，乐村来的差客。"
 
 translate schinese goat_general_win_a88a3c39:
 
@@ -1401,7 +1401,7 @@ translate schinese goat_general_win_8b1d2fbd:
 translate schinese goat_general_win_48fd52c3:
 
     # e "I'm simply a courier, I just wanted to save him."
-    e "我只是个暂住在乐村的小邮差，我也想救出弗坎。"
+    e "我只是个暂住在乐村的小差客，我也想救出弗坎。"
 
 translate schinese goat_general_win_d256ed1d:
 
@@ -1631,7 +1631,7 @@ translate schinese goat_general_lose_9612631c:
 translate schinese goat_general_lose_d42bf877:
 
     # gg "Come with me, courier. I need your help."
-    gg "跟我来，邮差。我需要你的帮助。"
+    gg "跟我来，外村差客。我需要你的帮助。"
 
 translate schinese goat_general_lose_6112b769:
 

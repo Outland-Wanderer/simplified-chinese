@@ -345,10 +345,10 @@ translate schinese Sebas_Normal_Talk_87b8e211:
 translate schinese strings:
 
     old "Ask about Postal Training"
-    new "询问邮递员培训的事情"
+    new "询问差客培训的事情"
 
     old "Report to Postal Training"
-    new "报告邮递员培训的完成情况"
+    new "报告差客培训的完成情况"
 
     old "Go to the river with Sebas and Lothar"
     new "与塞巴斯和洛萨尔一同前往招藓河"
@@ -3502,7 +3502,7 @@ translate schinese Ole_Normal_Talk_fe5fcc14:
 translate schinese strings:
 
     old "Finish with Postal Training"
-    new "报告邮递员培训的完成情况"
+    new "报告差客培训的完成情况"
 
     # old "Ask for his potion request"
     # new "询问药剂进货任务"
@@ -3520,7 +3520,7 @@ translate schinese strings:
     new "探问是否看见了你在柜台底下做的事情"
 
     old "Ask about Further training and lessons"
-    new "询问进一步的邮递员训练和课程"
+    new "询问进一步的差客训练和课程"
 
     old "Ask about his habit of cleaning"
     new "好奇他对清洁的爱好"
@@ -3859,7 +3859,7 @@ translate schinese Ole_Party_Begin_993c18b7:
 translate schinese Ole_Party_Begin_54be7d07:
 
     # o "Your courier training."
-    o "你的邮递员职业培训。"
+    o "你的差客职业培训。"
 
 translate schinese Ole_Party_Begin_1884c6e3:
 
@@ -4095,7 +4095,7 @@ translate schinese Ole_Ask_Ointment_Quest_bc467a46:
 translate schinese Ole_Ask_Ointment_Quest_bcc97e0d:
 
     # e "O-hh... But does the potion maker know me, if I went there?"
-    e "噢噢……但他知道我是乐村的邮递员吗？"
+    e "噢噢……但他知道我是乐村的差客吗？"
 
 translate schinese Ole_Ask_Ointment_Quest_9bdc524c:
 
@@ -4105,7 +4105,7 @@ translate schinese Ole_Ask_Ointment_Quest_9bdc524c:
 translate schinese Ole_Ask_Ointment_Quest_6b43982e:
 
     # o "Alright, courier, don't disappoint me with your first job."
-    o "那么，新任邮递员[e]，认真对待你入职的第一次工作，别让我失望。"
+    o "那么，新任差客[e]，认真对待你入职的第一次工作，别让我失望。"
 
 translate schinese Ole_Ask_Ointment_Quest_1e01be55:
 
@@ -4130,7 +4130,7 @@ translate schinese Ole_Ask_Cleaning_13edcf9e:
 translate schinese Ole_Ask_Cleaning_9f2e108d:
 
     # o "Arranging new couriers, doing inventory, tallying up the accounts and so on."
-    o "比如安排新的邮差，管理库存和账目等等。"
+    o "比如安排新的差客，管理库存和账目等等。"
 
 translate schinese Ole_Ask_Cleaning_9330d358:
 
@@ -6236,7 +6236,7 @@ translate schinese Ole_Postal_Finish_daeb3047:
 translate schinese Ole_Postal_Finish_208e5430:
 
     # o "Hmm... I've heard so! Congratulation, [e]. You are now the courier of the lusterfield!"
-    o "嗯……我已经听说了。[e]，恭喜你成为乐斯民菲尔德村的邮递员！"
+    o "嗯……我已经听说了。[e]，恭喜你成为乐斯民菲尔德村的差客！"
 
 translate schinese Ole_Postal_Finish_c81b1808:
 
@@ -6266,12 +6266,12 @@ translate schinese Ole_Postal_Finish_0701ac3f:
 translate schinese Ole_Postal_Finish_a1889f96:
 
     # o "Great! Now I'll give you a badge of honor. Courier of Lusterfield."
-    o "非常好！现在，乐斯民菲尔德的邮递员，由我授予你准入行业的荣誉徽章。"
+    o "非常好！现在，乐斯民菲尔德的差客，由我授予你准入行业的荣誉徽章。"
 
 translate schinese Ole_Postal_Finish_d68218ee:
 
     # "Ole searches around his pocket, and hands you a grey badge, it has the shape of your head, and you can see the word 'Courier' written in the middle of it."
-    "奥利掏掏口袋，将一枚灰色的徽章递给了你。你仔细观察着徽章，它的外形酷似你的正脸，中间题笔“邮递员”三字。"
+    "奥利掏掏口袋，将一枚灰色的徽章递给了你。你仔细观察着徽章，它的外形酷似你的正脸，中间题笔“差客”二字。"
 
 translate schinese Ole_Postal_Finish_0cfb9682:
 
@@ -6281,7 +6281,7 @@ translate schinese Ole_Postal_Finish_0cfb9682:
 translate schinese Ole_Postal_Finish_671750a5:
 
     # o "Yeah, I thought I should make it represent you in someway. It should be enough to let people know you are the courier of Lusterfield."
-    o "是的，我觉得这样能让徽章更加代表你本人。只要看过徽章，任凭谁都会记得你就是乐村的邮递员。"
+    o "是的，我觉得这样能让徽章更加代表你本人。只要看过徽章，任凭谁都会记得你就是乐村的差客。"
 
 translate schinese Ole_Postal_Finish_5869fd5c:
 
@@ -6311,7 +6311,7 @@ translate schinese Ole_Postal_Finish_7c1a48c4:
 translate schinese Ole_Postal_Finish_23fcb143:
 
     # o "Then what are you waiting for, I've got to get ready for your badge in the mean time."
-    o "那你还等什么呢，你的邮递员徽章都快做好了。"
+    o "那你还等什么呢，你的差客徽章都快做好了。"
 
 translate schinese Ole_Postal_Finish_e2808404:
 
@@ -6377,7 +6377,7 @@ translate schinese Ole_Ask_Kingspawn_398d784d:
 translate schinese Ole_Postal_Training_7f4577d7:
 
     # e "Ole. Did you mention about the postal training yesterday?"
-    e "奥利，我记得你昨天好像说有个邮递员培训我得去？"
+    e "奥利，我记得你昨天好像说有个差客培训我得去？"
 
 translate schinese Ole_Postal_Training_771f7415:
 
@@ -6407,17 +6407,17 @@ translate schinese Ole_Postal_Training_e58826b7:
 translate schinese Ole_Postal_Training_e1fa8197:
 
     # o "Nope, I'm gonna stay and watch over the shop. When you finish all three trainings just come back to me and I'll give you a badge of certificate."
-    o "我得留下来看店。如果你完成了这三项训练，记得来告诉我，我会给你颁发邮递员资质徽章。"
+    o "我得留下来看店。如果你完成了这三项训练，记得来告诉我，我会给你颁发差客资质徽章。"
 
 translate schinese Ole_Postal_Training_ab8f28e6:
 
     # e "This is so elaborate, I thought couriers just take and deliver stuff."
-    e "邮递员的工作不就是帮人跑腿，多简单，没必要这么讲究吧。"
+    e "差客的工作不就是帮人跑腿，多简单，没必要这么讲究吧。"
 
 translate schinese Ole_Postal_Training_e6f1fc98:
 
     # o "You see, there was another courier from the town, we were pretty friendly. Just like you, he told me that he just takes and delivers stuff. "
-    o "听我说，我们这以前有个从镇上来的邮递员。他就像你一样，说自己只是帮人跑腿，简简单单。"
+    o "听我说，我们这以前有个从镇上来的差客。他就像你一样，说自己只是帮人跑腿，简简单单。"
 
 translate schinese Ole_Postal_Training_6926132c:
 
@@ -6437,7 +6437,7 @@ translate schinese Ole_Postal_Training_781e6083:
 translate schinese Ole_Postal_Training_458a6978:
 
     # o "Things doesn't always happen like how you imagined. So just take the training seriously, I don't want to lose you to the wild just like the last courier."
-    o "事情不总会朝你预想的方向发展。我希望你能认真对待这次培训，不要重蹈上一任邮递员的覆辙。"
+    o "事情不总会朝你预想的方向发展。我希望你能认真对待这次培训，不要重蹈上一任差客的覆辙。"
 
 translate schinese Ole_Postal_Training_4c86e27f:
 
@@ -6908,7 +6908,7 @@ translate schinese strings:
     # new "报告花束采集的情况"
 
     old "Finishing Postal Training"
-    new "报告邮递员培训的完成情况"
+    new "报告差客培训的完成情况"
 
     # old "Ask to help Rahim"
     # new "提议帮忙"
@@ -7526,7 +7526,7 @@ translate schinese Rahim_Ask_GoatTribe_b924522b:
 translate schinese Rahim_Ask_GoatTribe_a09009d5:
 
     # r "They found the remains of their couriers East to our village, near the pond."
-    r "接着他们在乐村东边的池塘发现了邮递员的尸体。"
+    r "接着他们在乐村东边的池塘发现了差客的尸体。"
 
 translate schinese Rahim_Ask_GoatTribe_5b0ca1f4:
 
@@ -8349,7 +8349,7 @@ translate schinese Rahim_Outfit_End_c3d41cc3:
 
     # r "Thanks for treating this seriously. I'm not sure you would. This doesn't normally fall under the job scope of a courier."
     r "总之，谢谢你认真帮我收集反馈。"
-    r "说实话一开始我以为你会拒绝，毕竟当模特不是邮差的份内事。"
+    r "说实话一开始我以为你会拒绝，毕竟当模特不是差客的份内事。"
 
 translate schinese Rahim_Outfit_End_9ad5955e:
 

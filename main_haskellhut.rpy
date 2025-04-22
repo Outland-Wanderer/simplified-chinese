@@ -1,13 +1,13 @@
 ﻿translate schinese strings:
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to report back to Ole for the 30 strength potion."
-    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要交给奥利 30 瓶力量药水。"
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为差客的本职工作。{p}现在我需要交给奥利 30 瓶力量药水。"
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to wait for two days for Haskell to complete his potions."
-    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要等上两天，等哈斯克尔配完药水。"
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为差客的本职工作。{p}现在我需要等上两天，等哈斯克尔配完药水。"
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to sedate two Buggbears with the powder Haskell gave me."
-    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要利用哈斯克尔教我制作的镇静剂扳倒熊地精，收集两份他们的口水。"
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为差客的本职工作。{p}现在我需要利用哈斯克尔教我制作的镇静剂扳倒熊地精，收集两份他们的口水。"
 
 translate schinese Haskell_Dialogues_f2b2b1cb:
 

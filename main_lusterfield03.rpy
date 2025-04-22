@@ -21,7 +21,7 @@ translate schinese Jog_Dialogue_e9575ac9:
 translate schinese Jog_Dialogue_0584414f:
 
     # j "Lothar's disciple, courier, outsider?"
-    j "你是洛萨尔的徒弟，和海外来的邮差？"
+    j "你是洛萨尔的徒弟，和海外来的差客？"
 
 translate schinese Jog_Dialogue_42ab47ad:
 
@@ -56,7 +56,7 @@ translate schinese Jog_Dialogue_670841a4:
 translate schinese Jog_Dialogue_45be28bc:
 
     # j "If it isn't the courier with that cheeks clapping! Hey, [e]."
-    j "这不是我们每天为爱鼓掌的小邮差吗！嘿，[e]。"
+    j "这不是我们每天为爱鼓掌的小冒险家吗！嘿，[e]。"
 
 translate schinese Jog_Normal_Talk_8ff6718f:
 
@@ -170,7 +170,7 @@ translate schinese Jog_Lothar_Training_e4c0c14f:
 translate schinese Jog_Lothar_Training_15f0701e:
 
     # j "That won't do. But we're going to fix that."
-    j "作为大乐村的邮差这怎么行，今天我得给你特别补习。"
+    j "作为大乐村的差客这怎么行，今天我得给你特别补习。"
 
 translate schinese Jog_Lothar_Training_6f57a41c:
 

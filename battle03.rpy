@@ -1482,7 +1482,7 @@ translate schinese Damp_Cave_End_48014797:
 translate schinese Damp_Cave_End_7c5afb1c:
 
     # f "The courier? Why are you here."
-    f "乐村的邮差？你怎么在这。"
+    f "乐村差客？你怎么在这。"
 
 translate schinese Damp_Cave_End_e5aaaaa3:
 
@@ -1808,7 +1808,7 @@ translate schinese Damp_Cave_End_bcda30d6:
 translate schinese Damp_Cave_End_d06b9227:
 
     # f "Courier? Why are you here."
-    f "乐村的邮差？你怎么在这里。"
+    f "乐村差客？你怎么在这里。"
 
 translate schinese Damp_Cave_End_25d2b6ed:
 

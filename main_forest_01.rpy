@@ -720,7 +720,7 @@ translate schinese woodland_outpost_loop_9c5abfe1:
 translate schinese woodland_outpost_loop_4b83c24d:
 
     # my "So, you are that courier."
-    my "总之，你就是那个邮差，对吧。"
+    my "总之，你就是那个差客，对吧。"
 
 translate schinese woodland_outpost_loop_d7bf05f9:
 
@@ -730,7 +730,7 @@ translate schinese woodland_outpost_loop_d7bf05f9:
 translate schinese woodland_outpost_loop_a4000d3b:
 
     # my "The courier from Lusterfield, Chief told me about you."
-    my "你不是乐村的邮差吗，族长和我提过你。"
+    my "你不是乐村的差客吗，族长和我提过你。"
 
 translate schinese woodland_outpost_loop_2dd895ab:
 
@@ -850,7 +850,7 @@ translate schinese woodland_outpost_loop_dc806ac7:
 translate schinese woodland_outpost_loop_02a3da0f:
 
     # my "I know you, You... you're coming with me either way, courier."
-    my "我知道你就够了，你……你不想来也得来，邮差。"
+    my "我知道你就够了，你……你不想来也得来，外村差客。"
 
 translate schinese woodland_outpost_loop_72a33094:
 

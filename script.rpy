@@ -1369,7 +1369,7 @@ translate schinese name_done_809c6a88:
 translate schinese name_done_a3deb9c1:
 
     # o "So, we would be very grateful if you can be our courier, and deliver those wares between us and our clients."
-    o "所以如果你能当邮差，为我们和客户运送货物的话，可就帮大忙了。"
+    o "所以如果你能当差客，为我们和客户运送货物的话，可就帮大忙了。"
 
 translate schinese name_done_9fb179f0:
 
@@ -1444,17 +1444,17 @@ translate schinese name_done_c9676f75:
 translate schinese name_done_e4c0ee62:
 
     # o "From the green forest down south, Sebas and I found him lying there. He is an outsider dragon, so we thought we'd bring him here to be our courier."
-    o "[e]是从海外来的龙。我和塞巴斯在叠翠森林南边遇到了他，他当时昏了过去，所以我们想带他回来休养一段时间，顺便请他担任我们的新邮差。"
+    o "[e]是从海外来的龙。我和塞巴斯在叠翠森林南边遇到了他，他当时昏了过去，所以我们想带他回来休养一段时间，顺便请他担任我们的新差客。"
 
 translate schinese name_done_fc40231b:
 
     # r "Courier? Didn't that fox courier from the town disappeared last week?"
-    r "新邮差？你们原来的邮递员，那只镇上来的狐狸不是上星期才失踪了吗？"
+    r "新差客？你们原来的人，那只镇上来的狐狸不是上星期才失踪了吗？"
 
 translate schinese name_done_e7472d3f:
 
     # o "Yes, that's why our village should need one for our goods, and your textiles as well."
-    o "是的，因此为物流畅通，我们村需要招聘新邮差。您订购的纺织品也需要有人送过去不是吗？"
+    o "是的，因此为物流畅通，我们村需要聘任新差客。您订购的纺织品也需要有人送过去不是吗？"
 
 translate schinese name_done_e304ada5:
 

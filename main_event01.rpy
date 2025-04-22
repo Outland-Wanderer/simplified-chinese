@@ -1182,7 +1182,7 @@ translate schinese Event_Party01_3e912f38:
 translate schinese Event_Party01_1222a168:
 
     # h "Hold your horses, young courier."
-    h "别急，年轻的小邮差。"
+    h "别急，年轻的小差客。"
 
 translate schinese Event_Party01_6088d047:
 
@@ -1272,7 +1272,7 @@ translate schinese Event_Party01_a87606ae:
 translate schinese Event_Party01_32b3b7d3:
 
     # j "Yes, the new courier. That one's some nice eye-candy."
-    j "啊，新来的小邮差。很养眼对吧？"
+    j "啊，新来的小冒险者。很养眼对吧？"
 
 translate schinese Event_Party01_61963365:
 

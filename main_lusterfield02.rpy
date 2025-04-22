@@ -4510,7 +4510,7 @@ translate schinese Lothar_First_46b8308f:
 translate schinese Lothar_First_79e988e5:
 
     # my "Yes, dragon. Ole talked to me about you, those two in the shop wanted me, the hero of Lusterfield to train you. You must be something else, are you not?"
-    my "对，外乡龙。你的事情奥利已经交代过了。他和另一只笨猫想请我——乐村的超级英雄，将你训练成一名合格的邮递员。"
+    my "对，外乡龙。你的事情奥利已经交代过了。他和另一只笨猫想请我——乐村的超级英雄，将你训练成一名合格的差客。"
     my "现在看你样子，应该多少有点过人之处。"
 
 translate schinese Lothar_First_660b31e4:
@@ -4688,7 +4688,7 @@ translate schinese Lothar_Who_Smile_205b48f8:
 translate schinese Lothar_Who_Smile_a7c2628b:
 
     # l "What? I was being genuinely considerate about your memory, I saw it on the courier news that brain worms can eat your memory away."
-    l "我这是好心为你可怜的记忆力着想。邮政告示说有一种寄生在脑袋的虫子会吃掉宿主的记忆，我怕你已经被寄生了。"
+    l "我这是好心为你可怜的记忆力着想。差客公会告示说有一种寄生在脑袋的虫子会吃掉宿主的记忆，我怕你已经被寄生了。"
 
 translate schinese Lothar_Who_Smile_06ab5f35:
 
@@ -8780,7 +8780,7 @@ translate schinese Lothar_Ask_Invasion_c0fa5750:
 translate schinese Lothar_Ask_Invasion_863c7354:
 
     # l "But if you do, well... they probably won't kill a courier."
-    l "但假如，我是说假如你露馅了的话……他们也应该不会对一个小邮差下杀手。"
+    l "但假如，我是说假如你露馅了的话……他们也应该不会对一个小差客下杀手。"
 
 translate schinese Lothar_Ask_Invasion_72a33094_1:
 
@@ -9114,7 +9114,7 @@ translate schinese Lothar_Invasion_Quest_31a8bb4f:
 
     # l "Look, they already recognise most of us hero squad. But you're the courier... I think they won't try to kill you."
     l "听着，我英雄团的成员都有谁，那群山羊几乎认得一清二楚。"
-    l "但你不一样……你是新来的邮差，他们应该不会袭击你。"
+    l "但你不一样……你是新来的差客，他们应该不会袭击你。"
 
 translate schinese Lothar_Invasion_Quest_31157a0e:
 
@@ -10209,7 +10209,7 @@ translate schinese Lothar_Night_Greet_9bc5a1c2:
 translate schinese Lothar_Night_Greet_eceb32db:
 
     # l "Talking about proof... You got your courier badge yet?" nointeract
-    l "说到证明……你拿到邮递员徽章没？" nointeract
+    l "说到证明……你拿到差客徽章没？" nointeract
 
 translate schinese strings:
 
@@ -10457,7 +10457,7 @@ translate schinese Lothar_Night_Greet_e1a40d4e:
 translate schinese Lothar_Night_Greet_0da43084:
 
     # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
-    amble "是咯，你现在甚至没点邮递员的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
+    amble "是咯，你现在甚至没点差客的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
 
 translate schinese Lothar_Night_Greet_bad30a84:
 
@@ -10482,7 +10482,7 @@ translate schinese Lothar_Night_Greet_52c36b9b:
 translate schinese Lothar_Night_Greet_14fa7471:
 
     # l "[e], that was really a low lie. You have your badge on your chest right now. Who are you even lying to?"
-    l "[e]，你撒谎的水平还能再低点吗。邮递员徽章就挂在你胸上，骗谁呢？"
+    l "[e]，你撒谎的水平还能再低点吗。差客徽章就挂在你胸上，骗谁呢？"
 
 translate schinese Lothar_Night_Greet_ef32a34c:
 
@@ -10522,7 +10522,7 @@ translate schinese Lothar_Night_Greet_12db68b7:
 translate schinese Lothar_Night_Greet_476f07d4:
 
     # l "[e], I can see the courier badge in your messager bag right now. Who are you even lying to?"
-    l "[e]，我能看见邮递员徽章现在就装在你包里。想骗谁呢？"
+    l "[e]，我能看见差客徽章现在就装在你包里。想骗谁呢？"
 
 translate schinese Lothar_Night_Greet_ef32a34c_1:
 
@@ -10662,7 +10662,7 @@ translate schinese Lothar_Night_Greet_8fafdc8b:
 translate schinese Lothar_Night_Greet_0da43084_1:
 
     # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
-    amble "是咯，你现在甚至没点邮递员的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
+    amble "是咯，你现在甚至没点差客的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
 
 translate schinese Lothar_Night_Greet_bad30a84_1:
 

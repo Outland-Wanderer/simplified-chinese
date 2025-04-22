@@ -331,13 +331,13 @@ translate schinese strings:
     new "塞巴斯做的小狮子公仔，他说带着它能好运连连。"
 
     old "Courier Badge"
-    new "邮差徽章"
+    new "差客徽章"
 
     old "A badge given by Ole, to declare me as the courier of lusterfield. {p} Defense: +4"
-    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的邮递员。"
+    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的差客。"
 
     old "A badge given by Ole, as a symbol of the courier of lusterfield."
-    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的邮递员。"
+    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的差客。"
 
     old "Slime Necklace"
     new "史莱姆项链"
@@ -1104,10 +1104,10 @@ translate schinese strings:
     #备忘录
 
     old "Ole's Postal Training" #01
-    new "邮递员特训"
+    new "差客特训"
 
     old "Ole urges me to complete the training from Sebas, Lothar and Rahim in order to prepare for my adventure."
-    new "奥利敦促我请教村民完成邮递员新人培训，为我的冒险之旅做足准备。"
+    new "奥利敦促我请教村民完成差客新人培训，为我的冒险之旅做足准备。"
 
     old "Complete task from Sebas"
     new "完成塞巴斯那的培训"
@@ -1179,7 +1179,7 @@ translate schinese strings:
     new "药剂师的双边协定"
 
     old "As my courier job, Ole told me about helping him get potion from an old friend."
-    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为差客的本职工作。"
 
     old "Visit the Potion maker"
     new "拜访药剂师"
@@ -1260,7 +1260,7 @@ translate schinese strings:
     new "探望奥利"
 
     old "Courier Training...?" #16
-    new "新邮递员特训……？"
+    new "新差客特训……？"
 
     old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
     new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"

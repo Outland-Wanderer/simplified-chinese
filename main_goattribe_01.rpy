@@ -6,7 +6,7 @@
 translate schinese Kari_Dialogue_b21ba27b:
 
     # k "Courier? Had Chief given you the approval to enter the tribe?"
-    k "乐村的邮差？族长允许你进村了吗？"
+    k "乐村差客？族长允许你进村了吗？"
 
 translate schinese Kari_Dialogue_118adec5:
 
@@ -1462,7 +1462,7 @@ translate schinese Kari_Dialogue_End_e89acd94:
 translate schinese Kari_Dialogue_End_361c6fec:
 
     # k "See you... Courier."
-    k "再见，乐村来的邮差。"
+    k "再见，乐村来的差客。"
 
 translate schinese Kechioeren_Enter_5d8de010:
 
@@ -1558,7 +1558,7 @@ translate schinese Kechioeren_Enter_d5ecfce0:
 translate schinese Kechioeren_Enter_717db05d:
 
     # e "I'm from Lusterfield. I'm a courier. Look."
-    e "我从乐斯民菲尔德来，我是那的邮递员。这是我的证明。"
+    e "我从乐斯民菲尔德来，我是那的差客。这是我的证明。"
 
 translate schinese Kechioeren_Enter_dca3ca57:
 
@@ -1970,7 +1970,7 @@ translate schinese Kechioeren_Enter_1136f8a9:
 translate schinese Kechioeren_Enter_ca84bd2d:
 
     # gg "Bullshit, I know Furkan said he met a courier from Lusterfield, you seem to fit his description very nicely."
-    gg "胡说，族长说他见过一个乐斯民菲尔德的邮差，你和他描述的样子一模一样。"
+    gg "胡说，族长说他见过一个乐斯民菲尔德的差客，你和他描述的样子一模一样。"
 
 translate schinese Kechioeren_Enter_5ce011df:
 
@@ -2000,7 +2000,7 @@ translate schinese Kechioeren_Enter_16ec2160:
 translate schinese Kechioeren_Enter_8ad190d2:
 
     # e "I'm a courier from Lusterfield, and he asked me to give a letter to Rahim earlier."
-    e "我是乐村的邮差，弗坎之前委托我送信给雷希姆。"
+    e "我是乐村的差客，弗坎之前委托我送信给雷希姆。"
 
 translate schinese Kechioeren_Enter_5f2abe47:
 
@@ -2050,7 +2050,7 @@ translate schinese Kechioeren_Enter_6ea96692:
 translate schinese Kechioeren_Enter_94d95b26:
 
     # e "Except that I'm just a courier."
-    e "我只是一个小小的邮差。"
+    e "我只是一个小小的冒险者。"
 
 translate schinese Kechioeren_Enter_4c06e445:
 
@@ -2408,7 +2408,7 @@ translate schinese Kechioeren_Enter_Artifact_9612631c:
 translate schinese Kechioeren_Enter_Artifact_d42bf877:
 
     # gg "Come with me, courier. I need your help."
-    gg "跟我来，邮差。我需要你的帮助。"
+    gg "跟我来，差客。我需要你的帮助。"
 
 translate schinese Kechioeren_Enter_Artifact_6112b769:
 
@@ -3388,7 +3388,7 @@ translate schinese Kari_Adventure_4bdf677e:
 translate schinese Kari_Adventure_0f16cedf:
 
     # k "Stay Alert, courier."
-    k "保持警惕，邮差。"
+    k "保持警惕，差客。"
 
 translate schinese Kari_Adventure_1745fa0f:
 
@@ -3600,7 +3600,7 @@ translate schinese Furkan_First_Meet_65c6723e:
 translate schinese Furkan_First_Meet_31dbfce2:
 
     # f "How do I know I can trust you. Are you a courier?"
-    f "我要怎么确定我能信任你。你是村里的邮差吗？"
+    f "我要怎么确定我能信任你。你是村里的差客吗？"
 
 translate schinese Furkan_First_Meet_9b90deac:
 
@@ -3660,12 +3660,12 @@ translate schinese Furkan_First_Meet_8c3907b5:
 translate schinese Furkan_First_Meet_ffe0248d:
 
     # f "Would you become a courier later or would you find someone else?"
-    f "你是想说自己就快担任邮差了，还是要帮我找别的邮差？"
+    f "你是想说自己就快入编了，还是要帮我找别的差客？"
 
 translate schinese Furkan_First_Meet_c1276890:
 
     # e "I'll be right back and I'll show you a proof of being a courier."
-    e "我很快就能拿到担任邮差的证明给你看。"
+    e "我很快就能拿到证明给你看。"
 
 translate schinese Furkan_First_Meet_038b3ad2:
 
@@ -3685,7 +3685,7 @@ translate schinese Furkan_Second_Meet_43c5bf38:
 translate schinese Furkan_Second_Meet_4ee6acae:
 
     # e "I brought you my badge, I'm the courier of Lusterfield now."
-    e "我现在是乐村的邮递员了，这是我的资质徽章。"
+    e "我现在是乐村的差客了，这是我的资质徽章。"
 
 translate schinese Furkan_Second_Meet_30d81586:
 
@@ -3735,7 +3735,7 @@ translate schinese Furkan_Second_Meet_939f7613:
 translate schinese Furkan_Second_Meet_c145b90b:
 
     # e "Hey... I was just walking around. I am not the courier... yet."
-    e "嗨……我只是随便逛逛。我……还没完成邮递员培训。"
+    e "嗨……我只是随便逛逛。我……还没完成差客培训。"
 
 translate schinese Furkan_Second_Meet_8c3907b5:
 
@@ -3745,12 +3745,12 @@ translate schinese Furkan_Second_Meet_8c3907b5:
 translate schinese Furkan_Second_Meet_ffe0248d:
 
     # f "Would you become a courier later or would you find someone else?"
-    f "你是想说自己就快担任邮差了，还是要帮我找别的邮差？"
+    f "你是想说自己就快入编了，还是要帮我找别的差客？"
 
 translate schinese Furkan_Second_Meet_c1276890:
 
     # e "I'll be right back and I'll show you a proof of being a courier."
-    e "我很快就能拿到担任邮差的证明给你看。"
+    e "我很快就能拿到证明给你看。"
 
 translate schinese Furkan_Second_Meet_038b3ad2:
 
@@ -3860,7 +3860,7 @@ translate schinese Furkan_Second_Meet_12d52308:
 translate schinese Furkan_Second_Meet_257c3cc1:
 
     # f "No. Forget we ever have any such conversation. Do not come back, my people will not spare a courier."
-    f "不。忘掉我们之前任何的谈话。别再靠近古树，我的族人不待见外村邮差。"
+    f "不。忘掉我们之前任何的谈话。别再靠近古树，我的族人不待见外村差客。"
 
 translate schinese Furkan_Second_Meet_47ff1c95:
 
