@@ -57,11 +57,11 @@ translate schinese strings:
     # old "{color=#000}Winning in Werewolf Battle{/color}"
     # new "{color=#000}战胜狼人{/color}"
 
-    # old "{color=#000}Learning Skill from Amble{/color}"
-    # new "{color=#000}向安布请教{/color}"
+    old "{color=#000}Learning Skill from Amble{/color}"
+    new "{color=#000}向安布请教{/color}"
 
-    # old "{color=#000}Learning Skill from Jog{/color}"
-    # new "{color=#000}向乔格请教{/color}"
+    old "{color=#000}Learning Skill from Jog{/color}"
+    new "{color=#000}向乔格请教{/color}"
 
     # old "{color=#000}Losing in Feral Battle{/color}"
     # new "{color=#000}战败狂野狼人{/color}"

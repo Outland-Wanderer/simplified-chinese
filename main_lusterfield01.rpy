@@ -3513,14 +3513,14 @@ translate schinese strings:
     old "Ask about ingredient for Cane's Apron"
     new "询问有无缝补围裙需要用到的材料"
 
-    # old "Report about Amble and Jog's Training"
-    # new "报告向安布和乔格请教的学习情况"
+    old "Report about Amble and Jog's Training"
+    new "报告向安布和乔格请教的学习情况"
 
     old "Ask if he sees you under the counter"
     new "探问是否看见了你在柜台底下做的事情"
 
-    # old "Ask about Further training and lessons"
-    # new "询问进一步的邮递员训练和课程"
+    old "Ask about Further training and lessons"
+    new "询问进一步的邮递员训练和课程"
 
     old "Ask about his habit of cleaning"
     new "好奇他对清洁的爱好"
@@ -3549,6 +3549,202 @@ translate schinese strings:
 
     old "Ask about the people in Lusterfield"
     new "打听村民"
+
+translate schinese Ole_Report_Courier_Quest_2ff75fe8:
+
+    # e "H-hey...I'm back. From Amble and Jog."
+    e "我从安布和乔格那回来了。"
+
+translate schinese Ole_Report_Courier_Quest_91ce38e2:
+
+    # o "Hey, [e]. What's going on, why did you look so tired?"
+    o "嘿，你们干什么了？怎么看起来这么累。"
+
+translate schinese Ole_Report_Courier_Quest_bec24e7f:
+
+    # e "...because...training?"
+    e "……训练……的确比较辛苦。"
+
+translate schinese Ole_Report_Courier_Quest_8d5f471b:
+
+    # o "Fair enough. So, nothing else?"
+    o "好吧，除此之外呢？"
+
+translate schinese Ole_Report_Courier_Quest_3f456947:
+
+    # e "I've gotten a few new skills and tricks I can use. They're really useful!"
+    e "他们教了我一些新技能和技巧，真的很有用！"
+
+translate schinese Ole_Report_Courier_Quest_f76324f7:
+
+    # o "Ha. That's good to know. Remember you can check out your skills in the journal."
+    o "哈哈，学以致用学用相长。记得回头翻翻笔记本查看技能的详细说明。"
+
+translate schinese Ole_Report_Courier_Quest_2137a00a:
+
+    # o "Anything else?"
+    o "然后呢？"
+
+translate schinese Ole_Report_Courier_Quest_e7588066:
+
+    # e "W-what? What else...?"
+    e "然、然后？然后就没有然后了……？"
+
+translate schinese Ole_Report_Courier_Quest_b6629acd:
+
+    # o "Hmmm... Sure then."
+    o "嗯……那就没有吧。"
+
+translate schinese Ole_Report_Courier_Quest_7a63ee25:
+
+    # o "Hope it proves useful for your future adventures."
+    o "总之希望这对你未来的冒险有帮助。"
+
+translate schinese Ole_Report_Courier_Quest_99d116ba:
+
+    # e "It definitely will!"
+    e "非常有帮助！谢啦奥利，多亏你帮我加训。"
+
+translate schinese Ole_Report_Courier_Quest_56d51591:
+
+    # e "Thank you, Ole, for helping with the trainings."
+    pass
+
+translate schinese Ole_Report_Courier_Quest_1f6ec84a:
+
+    # o "Thank them, not me, kiddo. But I see you're appreciative enough."
+    o "谢谢他们，不用谢我。不过我看你已经向他们表达过谢意了。"
+
+translate schinese Ole_Report_Courier_Quest_d7bf05f9:
+
+    # e "Hmm?"
+    e "嗯？"
+
+translate schinese Ole_Report_Courier_Quest_beb12164:
+
+    # o "mhmm... take a bath!"
+    o "呃……赶紧去洗个澡吧！"
+
+translate schinese Ole_Report_Courier_Quest_523c9855:
+
+    # e "O-ok! Didn't know you can smell that..."
+    e "啊！原来你能得闻到……"
+
+translate schinese Ole_Ask_Courier_Quest_8cf10d8c:
+
+    # e "Ole, it has been quite some time since my first courier mission. Do you have a new mission?"
+    e "奥利，今天有新的委托吗？我完成第一个委托已经有一段时间了。"
+
+translate schinese Ole_Ask_Courier_Quest_849d0904:
+
+    # o "Speaking of, you've been a great help with Haskell and the potions."
+    o "说起来，上回你帮忙运药可帮了大忙。"
+
+translate schinese Ole_Ask_Courier_Quest_c8287b97:
+
+    # o "Glad to see that you're in such a spirit too."
+    o "很高兴看你这么干劲十足的样子，但我这边暂时没有新的委托。"
+
+translate schinese Ole_Ask_Courier_Quest_88f314f9:
+
+    # o "But there aren't any new courier jobs for the taking at the moment."
+    pass
+
+translate schinese Ole_Ask_Courier_Quest_13a9df3b:
+
+    # o "With the goat tribe and the roads still filled with danger, there hasn't been much need for courier work."
+    o "山羊部落和乐村断交，进村的路上还有很多魔兽，我们同外界的联系少之又少。"
+
+translate schinese Ole_Ask_Courier_Quest_b727b592:
+
+    # o "We wouldn't want you to repeat the last courier's fate."
+    pass
+
+translate schinese Ole_Ask_Courier_Quest_d6c36688:
+
+    # "Ole's face dims."
+    "奥利的脸色沉了下来。"
+    o "我们不能让你重蹈上一个差客的覆辙。"
+
+translate schinese Ole_Ask_Courier_Quest_195fb3b8:
+
+    # e "It's fine then. I was just asking. I can wait."
+    e "没关系，我只是问问，哪天有需要找我就好。"
+
+translate schinese Ole_Ask_Courier_Quest_891842ed:
+
+    # e "I'm sure there are other odd jobs I can do in the meantime."
+    e "这段时间我可以打些零工。"
+
+translate schinese Ole_Ask_Courier_Quest_1009f460:
+
+    # "As you turn to leave, Ole stops you."
+    "你正转身要走，奥利叫住了你。"
+
+translate schinese Ole_Ask_Courier_Quest_673b6317:
+
+    # o "Actually, wait. Eventually, you'll have to venture far away from Lusterfield to complete your courier job."
+    o "那个——等等。总有一天你会冒险到离乐村很远很远的地方。"
+
+translate schinese Ole_Ask_Courier_Quest_6b69c486:
+
+    # o "The world at large is not exactly safe."
+    o "但外面的世界并不安全。"
+
+translate schinese Ole_Ask_Courier_Quest_6d2d6adb:
+
+    # e "Don't worry, Ole. I can take care of myself."
+    e "别担心，奥利，我能照顾好自己。"
+
+translate schinese Ole_Ask_Courier_Quest_e96856bf:
+
+    # o "That's good to know. But it's better to be safe than sorry."
+    o "能当然好，不过小心驶得万年船。"
+
+translate schinese Ole_Ask_Courier_Quest_701bc39c:
+
+    # e "What do you mean, Ole?"
+    pass
+
+translate schinese Ole_Ask_Courier_Quest_8608c21c:
+
+    # o "You know that Jog and Amble are couriers like you too, right? Or at least, they patrol the roads to keep it safe for couriers like you."
+    o "你知道乔格和安布也是差客吧？或者这么说，他们每天在路上巡逻就是为了保护像你这样往返乐村的冒险家。"
+
+translate schinese Ole_Ask_Courier_Quest_6186867a:
+
+    # "You nod."
+    "你点点头。"
+
+translate schinese Ole_Ask_Courier_Quest_f8cbaddc:
+
+    # o "While we wait for more courier jobs to open up, why don't you get them to teach you some new skills?"
+    o "在有新的委托之前，不如让他们教你一些新技能？"
+
+translate schinese Ole_Ask_Courier_Quest_991359e0:
+
+    # o "As your seniors, I'm sure they have much knowledge to impart."
+    o "他们作为你的前辈，肯定有不少经验可以传授。"
+
+translate schinese Ole_Ask_Courier_Quest_489710b8:
+
+    # o "At least, I'm sure Amble will be able to help. Jog..."
+    o "至少安布有，乔格的话……"
+
+translate schinese Ole_Ask_Courier_Quest_747e8663:
+
+    # "Ole frowns at the name."
+    "奥利提到这个名字时皱了皱眉。"
+
+translate schinese Ole_Ask_Courier_Quest_52ec5b08:
+
+    # o "Why don't you ask Amble first?"
+    o "要不你先去问问安布怎么想的吧？"
+
+translate schinese Ole_Ask_Courier_Quest_e889f33c:
+
+    # e "Hmm... alright."
+    e "唔……好的。"
 
 translate schinese Ole_Party_Begin_5aa3fb82:
 

@@ -1271,11 +1271,20 @@ translate schinese strings:
     old "Head to the Tavern"
     new "前往酒馆"
 
-    # old "Strength and Disguise" #17
-    # new "劲与蔽"
+    old "Strength and Disguise" #17
+    new "劲与蔽"
 
-    # old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
-    # new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
+    old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
+    new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
+
+    old "Ask Lothar for Permission"
+    new "取得洛萨尔的同意"
+
+    old "Ask Amble and Jog for training"
+    new "请教安布和乔格"
+
+    old "Wait a day and report to Jog and Amble"
+    new "过一天再去找安布和乔格"
 
     old "Fluff and Tuff" #18
     new "人前人后俩个样"

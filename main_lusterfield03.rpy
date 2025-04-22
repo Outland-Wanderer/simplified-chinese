@@ -3666,335 +3666,336 @@ translate schinese Jog_Lothar_Training_5c591fd1:
 #     # "Well. You've got a werewolf to go convince."
 #     ""
 
-# translate schinese Jog_Ole_Training_Scene_18fe3705:
+translate schinese Jog_Ole_Training_Scene_18fe3705:
 
-#     # e "Jog, I'm here for training."
-#     e ""
+    # e "Jog, I'm here for training."
+    e "我来训练了。"
 
-# translate schinese Jog_Ole_Training_Scene_e600cd0a:
+translate schinese Jog_Ole_Training_Scene_e600cd0a:
 
-#     # "Jog hops down from his haybale."
-#     ""
+    # "Jog hops down from his haybale."
+    "乔格从草垛上跳下来。"
 
-# translate schinese Jog_Ole_Training_Scene_f785cef8:
+translate schinese Jog_Ole_Training_Scene_f785cef8:
 
-#     # j "Perfect timing. Let's go."
-#     j ""
+    # j "Perfect timing. Let's go."
+    j "来得正好，走吧。"
 
-# translate schinese Jog_Ole_Training_Scene_c4086d54:
+translate schinese Jog_Ole_Training_Scene_c4086d54:
 
-#     # e "Where are we going?"
-#     e ""
+    # e "Where are we going?"
+    e "我们要去哪里？"
 
-# translate schinese Jog_Ole_Training_Scene_20b80bf1:
+translate schinese Jog_Ole_Training_Scene_20b80bf1:
 
-#     # j "The bushes near the forest will be fine."
-#     j ""
+    # j "The bushes near the forest will be fine."
+    j "森林边上的灌木丛就挺不错。"
 
-# translate schinese Jog_Ole_Training_Scene_b9f6bb9c:
+translate schinese Jog_Ole_Training_Scene_b9f6bb9c:
 
-#     # e "What are we going to do?"
-#     e ""
+    # e "What are we going to do?"
+    e "去那里干什么？"
 
-# translate schinese Jog_Ole_Training_Scene_7428efc6:
+translate schinese Jog_Ole_Training_Scene_7428efc6:
 
-#     # j "You'll find out."
-#     j ""
+    # j "You'll find out."
+    j "去到你自然会知道。"
 
-# translate schinese Jog_Ole_Training_Scene_a838e0e0:
+translate schinese Jog_Ole_Training_Scene_a838e0e0:
 
-#     # e "Do I need to prepare anything?"
-#     e ""
+    # e "Do I need to prepare anything?"
+    e "我需要准备什么吗？"
 
-# translate schinese Jog_Ole_Training_Scene_82d7ded8:
+translate schinese Jog_Ole_Training_Scene_82d7ded8:
 
-#     # j "Just bring your handsome self there."
-#     j ""
+    # j "Just bring your handsome self there."
+    j "带上你这张帅脸就够了。别跟十万个为什么似的，我在那等你。"
 
-# translate schinese Jog_Ole_Training_Scene_ea03e3b9:
+translate schinese Jog_Ole_Training_Scene_ea03e3b9:
 
-#     # j "And enough with the 20 questions. I'll meet you there."
-#     j ""
+    # j "And enough with the 20 questions. I'll meet you there."
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_1962914c:
+translate schinese Jog_Ole_Training_Scene_1962914c:
 
-#     # "You are about to suggest that you two can travel there together, but as you turn the corner, you see he's already disappeared."
-#     ""
+    # "You are about to suggest that you two can travel there together, but as you turn the corner, you see he's already disappeared."
+    "你正想说一起走，可刚拐个弯他便没影了。"
 
-# translate schinese Jog_Ole_Training_Scene_8491e5b8:
+translate schinese Jog_Ole_Training_Scene_8491e5b8:
 
-#     # "You arrive at the forest. The place is peaceful and serene."
-#     ""
+    # "You arrive at the forest. The place is peaceful and serene."
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_6248a843:
+translate schinese Jog_Ole_Training_Scene_6248a843:
 
-#     # "Jog is nowhere to be found."
-#     ""
+    # "Jog is nowhere to be found."
+    "你将信将疑地来到乔格说的地方。此时的森林宁静而祥和，但那只小鬣狗却不见踪影。"
 
-# translate schinese Jog_Ole_Training_Scene_bcde38c5:
+translate schinese Jog_Ole_Training_Scene_bcde38c5:
 
-#     # e "Jog? Are you there?"
-#     e ""
+    # e "Jog? Are you there?"
+    e "乔格？你在吗？"
 
-# translate schinese Jog_Ole_Training_Scene_02cda242:
+translate schinese Jog_Ole_Training_Scene_02cda242:
 
-#     # "The only answer you get is the chirping of birds."
-#     ""
+    # "The only answer you get is the chirping of birds."
+    "回应你的只有鸟叫声。"
 
-# translate schinese Jog_Ole_Training_Scene_4211b0c4:
+translate schinese Jog_Ole_Training_Scene_4211b0c4:
 
-#     # "Just as you wonder if this is a prank, you feel a pinch on your butt."
-#     ""
+    # "Just as you wonder if this is a prank, you feel a pinch on your butt."
+    "正当你怀疑自己是不是被耍了的时候，屁股突然被人掐了一把。"
 
-# translate schinese Jog_Ole_Training_Scene_33ce38fc:
+translate schinese Jog_Ole_Training_Scene_33ce38fc:
 
-#     # j "That was your punishment for making me wait so long."
-#     j ""
+    # j "That was your punishment for making me wait so long."
+    j "磨磨蹭蹭的，必须惩罚一下你。"
 
-# translate schinese Jog_Ole_Training_Scene_d333a3bf:
+translate schinese Jog_Ole_Training_Scene_d333a3bf:
 
-#     # "Jog appears out of the shadows."
-#     ""
+    # "Jog appears out of the shadows."
+    "乔格从暗处现身，拎着一篮子各色野果。"
 
-# translate schinese Jog_Ole_Training_Scene_e52165e5:
+translate schinese Jog_Ole_Training_Scene_e52165e5:
 
-#     # "He is carrying a basket of what appears to be different kinds of berries."
-#     ""
+    # "He is carrying a basket of what appears to be different kinds of berries."
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_5c609639:
+translate schinese Jog_Ole_Training_Scene_5c609639:
 
-#     # e "What do you have there, Jog?"
-#     e ""
+    # e "What do you have there, Jog?"
+    e "这些是什么，我们要去摘浆果吗？"
 
-# translate schinese Jog_Ole_Training_Scene_43a2d3c1:
+translate schinese Jog_Ole_Training_Scene_43a2d3c1:
 
-#     # e "Are we going berry-picking?"
-#     e ""
+    # e "Are we going berry-picking?"
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_9752d2ec:
+translate schinese Jog_Ole_Training_Scene_9752d2ec:
 
-#     # j "Are we children frolicking through the woods? No."
-#     j ""
+    # j "Are we children frolicking through the woods? No."
+    j "你以为我们要像小屁孩春游啊？才不是。"
 
-# translate schinese Jog_Ole_Training_Scene_bf07d712:
+translate schinese Jog_Ole_Training_Scene_bf07d712:
 
-#     # j "I'm going to teach you a skill vital to being a scout."
-#     j ""
+    # j "I'm going to teach you a skill vital to being a scout."
+    j "今天我要教你侦察员的必备技能。"
 
-# translate schinese Jog_Ole_Training_Scene_924d27d3:
+translate schinese Jog_Ole_Training_Scene_924d27d3:
 
-#     # e "What is it?"
-#     e ""
+    # e "What is it?"
+    e "噢？"
 
-# translate schinese Jog_Ole_Training_Scene_aaf07927:
+translate schinese Jog_Ole_Training_Scene_aaf07927:
 
-#     # j "The art of camouflage."
-#     j ""
+    # j "The art of camouflage."
+    j "伪装术。"
 
-# translate schinese Jog_Ole_Training_Scene_6df8025b:
+translate schinese Jog_Ole_Training_Scene_6df8025b:
 
-#     # e "That sounds cool."
-#     e ""
+    # e "That sounds cool."
+    e "听起来还挺厉害的。"
 
-# translate schinese Jog_Ole_Training_Scene_eaa0a922:
+translate schinese Jog_Ole_Training_Scene_eaa0a922:
 
-#     # j "And highly useful."
-#     j ""
+    # j "And highly useful."
+    j "而且非常实用。"
 
-# translate schinese Jog_Ole_Training_Scene_6cc867db:
+translate schinese Jog_Ole_Training_Scene_6cc867db:
 
-#     # e "But how are the berries involved?"
-#     e ""
+    # e "But how are the berries involved?"
+    e "但这跟浆果有什么关系？"
 
-# translate schinese Jog_Ole_Training_Scene_8582534f:
+translate schinese Jog_Ole_Training_Scene_8582534f:
 
-#     # "Jog shakes the basket."
-#     ""
+    # "Jog shakes the basket."
+    "乔格晃了晃篮子。"
 
-# translate schinese Jog_Ole_Training_Scene_8270ebc0:
+translate schinese Jog_Ole_Training_Scene_8270ebc0:
 
-#     # j "You wouldn't be carrying paint with you out in the wilds, would you?"
-#     j ""
+    # j "You wouldn't be carrying paint with you out in the wilds, would you?"
+    j "你会带着颜料去荒郊野岭吗？"
 
-# translate schinese Jog_Ole_Training_Scene_879634cc:
+translate schinese Jog_Ole_Training_Scene_879634cc:
 
-#     # e "No."
-#     e ""
+    # e "No."
+    e "不会。"
 
-# translate schinese Jog_Ole_Training_Scene_e7da5408:
+translate schinese Jog_Ole_Training_Scene_e7da5408:
 
-#     # j "Bingo. But these berries can be found everywhere. As long as you know your colors, you can basically mix up any hue you need for the perfect camouflage."
-#     j ""
+    # j "Bingo. But these berries can be found everywhere. As long as you know your colors, you can basically mix up any hue you need for the perfect camouflage."
+    j "所以咯。这些野果满山遍野都是，只要懂调配，什么颜色都可以调出来。"
 
-# translate schinese Jog_Ole_Training_Scene_6ac99167:
+translate schinese Jog_Ole_Training_Scene_6ac99167:
 
-#     # e "That sounds neat."
-#     e ""
+    # e "That sounds neat."
+    e "有道理。"
 
-# translate schinese Jog_Ole_Training_Scene_85d83fe9:
+translate schinese Jog_Ole_Training_Scene_85d83fe9:
 
-#     # j "Alright. Now, strip."
-#     j ""
+    # j "Alright. Now, strip."
+    j "好了，脱衣服吧。"
 
-# translate schinese Jog_Ole_Training_Scene_ad8f48d1:
+translate schinese Jog_Ole_Training_Scene_ad8f48d1:
 
-#     # "You are surprised by the demand."
-#     ""
+    # "You are surprised by the demand."
+    "这要求令你一愣。"
 
-# translate schinese Jog_Ole_Training_Scene_790c5b80:
+translate schinese Jog_Ole_Training_Scene_790c5b80:
 
-#     # e "Strip? Why?"
-#     e ""
+    # e "Strip? Why?"
+    e "脱衣服？为什么？"
 
-# translate schinese Jog_Ole_Training_Scene_e3bc7524:
+translate schinese Jog_Ole_Training_Scene_e3bc7524:
 
-#     # j "Cause berries stain, and I'm not going have you blame me for ruining your clothes later."
-#     j ""
+    # j "Cause berries stain, and I'm not going have you blame me for ruining your clothes later."
+    j "浆果汁弄上去难洗干净，我可不想你回头怪我弄脏了衣服。"
 
-# translate schinese Jog_Ole_Training_Scene_743e5839:
+translate schinese Jog_Ole_Training_Scene_743e5839:
 
-#     # j "Plus, this makes the lesson a lot more fun."
-#     j ""
+    # j "Plus, this makes the lesson a lot more fun."
+    j "而且，这样会更有趣。"
 
-# translate schinese Jog_Ole_Training_Scene_19022f52:
+translate schinese Jog_Ole_Training_Scene_19022f52:
 
-#     # "Jog winks naughtily at you."
-#     ""
+    # "Jog winks naughtily at you."
+    "乔格冲你坏笑一下。"
 
-# translate schinese Jog_Ole_Training_Scene_4d14a03f:
+translate schinese Jog_Ole_Training_Scene_4d14a03f:
 
-#     # j "Stop wasting time. Get those clothes off."
-#     j ""
+    # j "Stop wasting time. Get those clothes off."
+    j "别浪费时间了，赶紧脱。"
 
-# translate schinese Jog_Ole_Training_Scene_5290c77d:
+translate schinese Jog_Ole_Training_Scene_5290c77d:
 
-#     # j "You're not shy, are you?"
-#     j ""
+    # j "You're not shy, are you?"
+    j "你不会害羞了吧？"
 
-# translate schinese Jog_Ole_Training_Scene_5d25027a:
+translate schinese Jog_Ole_Training_Scene_5d25027a:
 
-#     # e "No..."
-#     e ""
+    # e "No..."
+    e "才没有……"
 
-# translate schinese Jog_Ole_Training_Scene_86dfce74:
+translate schinese Jog_Ole_Training_Scene_86dfce74:
 
-#     # "You strip down to your loincloth."
-#     ""
+    # "You strip down to your loincloth."
+    "你脱到只剩兜裆布。"
 
-# translate schinese Jog_Ole_Training_Scene_57ef6df3:
+translate schinese Jog_Ole_Training_Scene_57ef6df3:
 
-#     # "Even though Jog is also just standing there in his briefs, you can't help but feel a little self-conscious."
-#     ""
+    # "Even though Jog is also just standing there in his briefs, you can't help but feel a little self-conscious."
+    "虽然乔格同样穿着内裤站在那里，你还是有点不好意思。"
 
-# translate schinese Jog_Ole_Training_Scene_c8027eae:
+translate schinese Jog_Ole_Training_Scene_c8027eae:
 
-#     # "Jog whistles."
-#     ""
+    # "Jog whistles."
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_30de0b66:
+translate schinese Jog_Ole_Training_Scene_30de0b66:
 
-#     # j "Nice bod."
-#     j ""
+    # j "Nice bod."
+    j "身材不错嘛。"
+    "他吹吹口哨评价道。"
 
-# translate schinese Jog_Ole_Training_Scene_4b01a27e:
+translate schinese Jog_Ole_Training_Scene_4b01a27e:
 
-#     # e "Jog, focus."
-#     e ""
+    # e "Jog, focus."
+    e "乔格，认真点。"
 
-# translate schinese Jog_Ole_Training_Scene_a423411c:
+translate schinese Jog_Ole_Training_Scene_a423411c:
 
-#     # j "I am."
-#     j ""
+    # j "I am."
+    j "我很认真的。"
 
-# translate schinese Jog_Ole_Training_Scene_a7868852:
+translate schinese Jog_Ole_Training_Scene_a7868852:
 
-#     # "He says this as he focuses his eyes on your exposed body."
-#     ""
+    # "He says this as he focuses his eyes on your exposed body."
+    "他说这话的时候，双眼还紧盯着你裸露的身体。"
 
-# translate schinese Jog_Ole_Training_Scene_23236483:
+translate schinese Jog_Ole_Training_Scene_23236483:
 
-#     # e "Jog, be serious."
-#     e ""
+    # e "Jog, be serious."
+    e "不要闹了。"
 
-# translate schinese Jog_Ole_Training_Scene_9660dd78:
+translate schinese Jog_Ole_Training_Scene_9660dd78:
 
-#     # j "Alright. Loosen up a little... Or I might need to help you."
-#     j ""
+    # j "Alright. Loosen up a little... Or I might need to help you."
+    j "好好好，放轻松……不然我可要帮你放松咯。"
 
-# translate schinese Jog_Ole_Training_Scene_b285ef14:
+translate schinese Jog_Ole_Training_Scene_b285ef14:
 
-#     # j "Anyway, look at this."
-#     j ""
+    # j "Anyway, look at this."
+    j "呐，你看。"
 
-# translate schinese Jog_Ole_Training_Scene_8fb47169:
+translate schinese Jog_Ole_Training_Scene_8fb47169:
 
-#     # "Jog grabs a handful of blue and golden berries."
-#     ""
+    # "Jog grabs a handful of blue and golden berries."
+    "乔格抓了把蓝莓和金莓，用力一握将它们碾碎在掌心里。"
 
-# translate schinese Jog_Ole_Training_Scene_35c6c913:
+translate schinese Jog_Ole_Training_Scene_35c6c913:
 
-#     # "He mulches them in his paw. To your surprise, the berries slowly turn a green color that matches the color of the leaves around you."
-#     ""
+    # "He mulches them in his paw. To your surprise, the berries slowly turn a green color that matches the color of the leaves around you."
+    "浆果的汁液混到一起，竟慢慢变成和周围树叶一样的绿色。"
 
-# translate schinese Jog_Ole_Training_Scene_b851e15c:
+translate schinese Jog_Ole_Training_Scene_b851e15c:
 
-#     # e "That's amazing."
-#     e ""
+    # e "That's amazing."
+    e "太神奇了！"
 
-# translate schinese Jog_Ole_Training_Scene_e7f841e9:
+translate schinese Jog_Ole_Training_Scene_e7f841e9:
 
-#     # "You are genuinely in awe."
-#     ""
+    # "You are genuinely in awe."
+    "你发自内心地被震撼到。"
 
-# translate schinese Jog_Ole_Training_Scene_0e609d17:
+translate schinese Jog_Ole_Training_Scene_0e609d17:
 
-#     # j "You can get any color you want as long as you know how to combine them."
-#     j ""
+    # j "You can get any color you want as long as you know how to combine them."
+    j "只要掌握混合的和比例，就能调出任何颜色。"
 
-# translate schinese Jog_Ole_Training_Scene_52124093:
+translate schinese Jog_Ole_Training_Scene_52124093:
 
-#     # "Jog adds a few more golden berries to the mix, and the color morphs to a brighter emerald shade."
-#     ""
+    # "Jog adds a few more golden berries to the mix, and the color morphs to a brighter emerald shade."
+    "乔格又添了一些金莓，原本的汁液变成了更亮的祖母绿。"
 
-# translate schinese Jog_Ole_Training_Scene_f0712253:
+translate schinese Jog_Ole_Training_Scene_f0712253:
 
-#     # j "With some shading, you can create the illusion of shadows."
-#     j ""
+    # j "With some shading, you can create the illusion of shadows."
+    j "假如加强暗部还能创造更加立体的效果。"
 
-# translate schinese Jog_Ole_Training_Scene_d0a0f53a:
+translate schinese Jog_Ole_Training_Scene_d0a0f53a:
 
-#     # j "Plus, you can use more than just berries. Everything around you can be used as a material."
-#     j ""
+    # j "Plus, you can use more than just berries. Everything around you can be used as a material."
+    j "另外，不光野果，我们周围的一切都能用来调色。"
 
-# translate schinese Jog_Ole_Training_Scene_eaee73d2:
+translate schinese Jog_Ole_Training_Scene_eaee73d2:
 
-#     # "To demonstrate, Jog picks up some soil and mashes it with some red berries."
-#     ""
+    # "To demonstrate, Jog picks up some soil and mashes it with some red berries."
+    "为了向你演示，乔格从地上抓起一把土混着红莓揉碎。"
 
-# translate schinese Jog_Ole_Training_Scene_c46275e1:
+translate schinese Jog_Ole_Training_Scene_c46275e1:
 
-#     # "The bright redness of the berries becomes more coppery. You then realize what he is trying to mimic."
-#     ""
+    # "The bright redness of the berries becomes more coppery. You then realize what he is trying to mimic."
+    "鲜红的汁液变成铁锈色，你一下就明白了他在仿造什么。"
 
-# translate schinese Jog_Ole_Training_Scene_2a032647:
+translate schinese Jog_Ole_Training_Scene_2a032647:
 
-#     # e "Is that blood?"
-#     e ""
+    # e "Is that blood?"
+    e "这是血？"
 
-# translate schinese Jog_Ole_Training_Scene_5fd27299:
+translate schinese Jog_Ole_Training_Scene_5fd27299:
 
-#     # j "Correct. Or at least, it's fake blood."
-#     j ""
+    # j "Correct. Or at least, it's fake blood."
+    j "没错，超仿真的假血。误导敌人的时候特别管用。"
 
-# translate schinese Jog_Ole_Training_Scene_926d38be:
+translate schinese Jog_Ole_Training_Scene_926d38be:
 
-#     # j "Useful when trying to lead your enemies down a false trail."
-#     j ""
+    # j "Useful when trying to lead your enemies down a false trail."
+    pass
 
-# translate schinese Jog_Ole_Training_Scene_efcd41db:
+translate schinese Jog_Ole_Training_Scene_efcd41db:
 
-#     # j "Now, onto the fun part."
-#     j ""
+    # j "Now, onto the fun part."
+    j "现在，该轮到好玩的了。"
 
 translate schinese Jog_Ask_How_Doing_24c5ec78:
 
@@ -4641,6 +4642,12 @@ translate schinese strings:
     old "Ask for Training"
     new "提起洛萨尔要求的训练"
 
+    old "Ask about the training Ole mentioned"
+    new "询问奥利提到的训练"
+
+    old "Ask about Training Ole mentioned"
+    new "询问奥利提到的训练"
+
 translate schinese Amble_Normal_Talk_e1b4b9b5:
 
     # e "What about the other dudes?"
@@ -4656,235 +4663,235 @@ translate schinese strings:
     old "Ask about Jog"
     new "打听乔格"
 
-# translate schinese Amble_Ole_Training_de33b095:
+translate schinese Amble_Ole_Training_de33b095:
 
-#     # e "Amble, do you have some time?"
-#     e ""
+    # e "Amble, do you have some time?"
+    e "你最近有空吗？"
 
-# translate schinese Amble_Ole_Training_ebb2afb6:
+translate schinese Amble_Ole_Training_ebb2afb6:
 
-#     # a "Sure."
-#     a ""
+    # a "Sure."
+    a "有啊。"
 
-# translate schinese Amble_Ole_Training_a09ee073:
+translate schinese Amble_Ole_Training_a09ee073:
 
-#     # e "You and Jog have been travelling much longer than I am."
-#     e ""
+    # e "You and Jog have been travelling much longer than I am."
+    e "你和乔格的冒险经历肯定比我长多了。"
 
-# translate schinese Amble_Ole_Training_b760ddd9:
+translate schinese Amble_Ole_Training_b760ddd9:
 
-#     # a "Correct."
-#     a ""
+    # a "Correct."
+    a "没错。"
 
-# translate schinese Amble_Ole_Training_026bfe9f:
+translate schinese Amble_Ole_Training_026bfe9f:
 
-#     # e "So that you means you have more battle experience."
-#     e ""
+    # e "So that you means you have more battle experience."
+    e "也就是说，你们的战斗经验很丰富。"
 
-# translate schinese Amble_Ole_Training_210c06eb:
+translate schinese Amble_Ole_Training_210c06eb:
 
-#     # a "Yes."
-#     a ""
+    # a "Yes."
+    a "当然。"
 
-# translate schinese Amble_Ole_Training_0ceac477:
+translate schinese Amble_Ole_Training_0ceac477:
 
-#     # e "In that case, Amble, do you have any battle skills that you can teach me?"
-#     e ""
+    # e "In that case, Amble, do you have any battle skills that you can teach me?"
+    e "这样的话，安布，请问你有没有什么战斗技巧可以教教我？"
 
-# translate schinese Amble_Ole_Training_5b9749a1:
+translate schinese Amble_Ole_Training_5b9749a1:
 
-#     # a "Hmm... I think so."
-#     a ""
+    # a "Hmm... I think so."
+    a "唔……应该有喔。"
 
-# translate schinese Amble_Ole_Training_28765077:
+translate schinese Amble_Ole_Training_28765077:
 
-#     # e "That's great."
-#     e ""
+    # e "That's great."
+    pass
 
-# translate schinese Amble_Ole_Training_0ae7ddde:
+translate schinese Amble_Ole_Training_0ae7ddde:
 
-#     # e "When do you think you can teach me?"
-#     e ""
+    # e "When do you think you can teach me?"
+    e "太好了。那什么时候方便呢？"
 
-# translate schinese Amble_Ole_Training_03c75f9b:
+translate schinese Amble_Ole_Training_03c75f9b:
 
-#     # a "How about now, my puny friend?"
-#     a ""
+    # a "How about now, my puny friend?"
+    a "要不就现在吧，小不点。"
 
-# translate schinese Amble_Ole_Training_577e4bd1:
+translate schinese Amble_Ole_Training_577e4bd1:
 
-#     # e "Okay."
-#     e ""
+    # e "Okay."
+    e "好啊。"
 
-# translate schinese Amble_Ole_Training_f78c2279:
+translate schinese Amble_Ole_Training_f78c2279:
 
-#     # "A voice travels from the other end of the archery field."
-#     ""
+    # "A voice travels from the other end of the archery field."
+    "这时，训练场对面传来另一个声音。"
 
-# translate schinese Amble_Ole_Training_8b47b126:
+translate schinese Amble_Ole_Training_8b47b126:
 
-#     # j "Hold on a second!"
-#     j ""
+    # j "Hold on a second!"
+    j "等一下！"
 
-# translate schinese Amble_Ole_Training_6db0516e:
+translate schinese Amble_Ole_Training_6db0516e:
 
-#     # "You and Amble turn around to see Jog tapping his feet and staring at you."
-#     ""
+    # "You and Amble turn around to see Jog tapping his feet and staring at you."
+    "你和安布转过身，乔格盯着你们气势汹汹地走过来。"
 
-# translate schinese Amble_Ole_Training_c32ee83b:
+translate schinese Amble_Ole_Training_c32ee83b:
 
-#     # j "Are you here on Lot's behest?"
-#     j ""
+    # j "Are you here on Lot's behest?"
+    j "是洛哥叫你来的吗？"
 
-# translate schinese Amble_Ole_Training_a817dd70:
+translate schinese Amble_Ole_Training_a817dd70:
 
-#     # e "Not really. But it's for the courier training..."
-#     e ""
+    # e "Not really. But it's for the courier training..."
+    e "不算是吧。但这也是为了巩固之前的差客训练……"
 
-# translate schinese Amble_Ole_Training_92965c87:
+translate schinese Amble_Ole_Training_92965c87:
 
-#     # "Jog interrupts you."
-#     ""
+    # "Jog interrupts you."
+    "乔格打断了你。"
 
-# translate schinese Amble_Ole_Training_801288ab:
+translate schinese Amble_Ole_Training_801288ab:
 
-#     # j "Sorry, friend. Can't help you there. Our training in Lusterfield is supervised by Lot."
-#     j ""
+    # j "Sorry, friend. Can't help you there. Our training in Lusterfield is supervised by Lot."
+    j "不好意思，伙计。这事儿我们帮不了。我们在乐村的任何训练都由洛哥监管。"
 
-# translate schinese Amble_Ole_Training_3643c182:
+translate schinese Amble_Ole_Training_3643c182:
 
-#     # j "We're not doing any extra training without going through him first."
-#     j ""
+    # j "We're not doing any extra training without going through him first."
+    j "没有他的同意，我们不能私自加练。"
 
-# translate schinese Amble_Ole_Training_d4993d94:
+translate schinese Amble_Ole_Training_d4993d94:
 
-#     # e "But..."
-#     e ""
+    # e "But..."
+    e "可是……"
 
-# translate schinese Amble_Ole_Training_5b089749:
+translate schinese Amble_Ole_Training_5b089749:
 
-#     # j "We don't make the rules."
-#     j ""
+    # j "We don't make the rules."
+    j "规矩不是我们定的。"
 
-# translate schinese Amble_Ole_Training_59ad9096:
+translate schinese Amble_Ole_Training_59ad9096:
 
-#     # "You turn to Amble for help."
-#     ""
+    # "You turn to Amble for help."
+    "你转向安布希望他能帮你说说话，而他遗憾地耸肩。"
 
-# translate schinese Amble_Ole_Training_1c8a96c3:
+translate schinese Amble_Ole_Training_1c8a96c3:
 
-#     # "Amble shrugs."
-#     ""
+    # "Amble shrugs."
+    pass
 
-# translate schinese Amble_Ole_Training_2b87488f:
+translate schinese Amble_Ole_Training_2b87488f:
 
-#     # a "What Jog says is right. Need to notify Lot first."
-#     a ""
+    # a "What Jog says is right. Need to notify Lot first."
+    a "乔格是对的。加练要先征得洛哥的同意。"
 
-# translate schinese Amble_Ole_Training_681e3962:
+translate schinese Amble_Ole_Training_681e3962:
 
-#     # "You sigh."
-#     ""
+    # "You sigh."
+    "你叹了口气。"
 
-# translate schinese Amble_Ole_Training_e53c6fed:
+translate schinese Amble_Ole_Training_e53c6fed:
 
-#     # e "Alright..."
-#     e ""
+    # e "Alright..."
+    e "好吧……"
 
-# translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
+translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
 
-#     # e "Alright. I got the permission from Lothar. He says the training is a go."
-#     e ""
+    # e "Alright. I got the permission from Lothar. He says the training is a go."
+    e "关于训练的事，我得到洛萨尔的同意了。"
 
-# translate schinese Amble_Ole_Training_Lothar_db60e514:
+translate schinese Amble_Ole_Training_Lothar_db60e514:
 
-#     # a "Awesome. I knew he would agree. He's such a nice person."
-#     a ""
+    # a "Awesome. I knew he would agree. He's such a nice person."
+    a "太棒了。我就知道洛哥会同意，他真是个好大哥。"
 
-# translate schinese Amble_Ole_Training_Lothar_3f7c5517:
+translate schinese Amble_Ole_Training_Lothar_3f7c5517:
 
-#     # j "Color me surprised. I was a bit 50-50 on the result. I guess he does like you."
-#     j ""
+    # j "Color me surprised. I was a bit 50-50 on the result. I guess he does like you."
+    j "没想到啊，本来我还觉得有点悬，看来洛哥确实挺喜欢你的。"
 
-# translate schinese Amble_Ole_Training_Lothar_546aaac0:
+translate schinese Amble_Ole_Training_Lothar_546aaac0:
 
-#     # "You are not so sure about that. The person Lothar likes is probably himself."
-#     ""
+    # "You are not so sure about that. The person Lothar likes is probably himself."
+    "你心想这可不一定，洛萨尔喜欢的大概只有他自己。"
 
-# translate schinese Amble_Ole_Training_Lothar_38dc0924:
+translate schinese Amble_Ole_Training_Lothar_38dc0924:
 
-#     # e "So, back to the skill training."
-#     e ""
+    # e "So, back to the skill training."
+    pass
 
-# translate schinese Amble_Ole_Training_Lothar_681d664c:
+translate schinese Amble_Ole_Training_Lothar_681d664c:
 
-#     # a "Yes. This is fun. [e], I'll teach you how to properly crush the enemy in battle."
-#     a ""
+    # a "Yes. This is fun. [e], I'll teach you how to properly crush the enemy in battle."
+    a "是啊，[e]。而且训练会很好玩的，我会教你怎么把坏蛋揍得粉身碎骨。"
 
-# translate schinese Amble_Ole_Training_Lothar_2ee980da:
+translate schinese Amble_Ole_Training_Lothar_2ee980da:
 
-#     # e "Sounds good."
-#     e ""
+    # e "Sounds good."
+    e "这么厉害。"
 
-# translate schinese Amble_Ole_Training_Lothar_617164c3:
+translate schinese Amble_Ole_Training_Lothar_617164c3:
 
-#     # a "But I'll have to get things prepared first. Give me some time?"
-#     a ""
+    # a "But I'll have to get things prepared first. Give me some time?"
+    a "不过我得先准备一下。能给我点时间吗？"
 
-# translate schinese Amble_Ole_Training_Lothar_2e8a5fe0:
+translate schinese Amble_Ole_Training_Lothar_2e8a5fe0:
 
-#     # e "Of course."
-#     e ""
+    # e "Of course."
+    e "当然。"
 
-# translate schinese Amble_Ole_Training_Lothar_a1134b02:
+translate schinese Amble_Ole_Training_Lothar_a1134b02:
 
-#     # a "See you back here later, [e]."
-#     a ""
+    # a "See you back here later, [e]."
+    a "好，到时这里见，[e]。"
 
-# translate schinese Amble_Ole_Training_Lothar_70ddc782:
+translate schinese Amble_Ole_Training_Lothar_70ddc782:
 
-#     # "Amble gets into the idea of the training faster than you anticipate. He trundles off to make his preparation."
-#     ""
+    # "Amble gets into the idea of the training faster than you anticipate. He trundles off to make his preparation."
+    "安布匆匆离开去做准备，他对训练的热情比你预想高多了。"
 
-# translate schinese Amble_Ole_Training_Lothar_085bcf34:
+translate schinese Amble_Ole_Training_Lothar_085bcf34:
 
-#     # "After Amble leaves, Jog eyes you from his perch."
-#     ""
+    # "After Amble leaves, Jog eyes you from his perch."
+    "大红熊走后，躺在草垛的小鬣狗瞄了你一眼。"
 
-# translate schinese Amble_Ole_Training_Lothar_5dff4ad8:
+translate schinese Amble_Ole_Training_Lothar_5dff4ad8:
 
-#     # e "So Jog, will you teach me some new skills too?"
-#     e ""
+    # e "So Jog, will you teach me some new skills too?"
+    e "那乔格，也能请你教我一些新技能吗？"
 
-# translate schinese Amble_Ole_Training_Lothar_b96acf5d:
+translate schinese Amble_Ole_Training_Lothar_b96acf5d:
 
-#     # "Jog ponders."
-#     ""
+    # "Jog ponders."
+    "乔格琢磨了一小下。"
 
-# translate schinese Amble_Ole_Training_Lothar_a3fd992c:
+translate schinese Amble_Ole_Training_Lothar_a3fd992c:
 
-#     # j "Eh, why not? Like the blockhead said, this will be fun."
-#     j ""
+    # j "Eh, why not? Like the blockhead said, this will be fun."
+    j "嘁，为什么不呢？就像那个木头脑袋说的，这会很好玩的。"
 
-# translate schinese Amble_Ole_Training_Lothar_467ca80f:
+translate schinese Amble_Ole_Training_Lothar_467ca80f:
 
-#     # "Jog's eyes glow with a mischievous glint."
-#     ""
+    # "Jog's eyes glow with a mischievous glint."
+    "他的表情变得调皮起来。"
 
-# translate schinese Amble_Ole_Training_Lothar_089d7b97:
+translate schinese Amble_Ole_Training_Lothar_089d7b97:
 
-#     # j "Similarly, I too need to prepare for this lesson. I assure you this lesson will be fun for us both."
-#     j ""
+    # j "Similarly, I too need to prepare for this lesson. I assure you this lesson will be fun for us both."
+    j "同样，我也要花些时间准备我的课，保证超级带劲哟。"
 
-# translate schinese Amble_Ole_Training_Lothar_a60a6a96:
+translate schinese Amble_Ole_Training_Lothar_a60a6a96:
 
-#     # e "...Okay."
-#     e ""
+    # e "...Okay."
+    e "好的……"
 
-# translate schinese Amble_Ole_Training_Lothar_fd27dbb3:
+translate schinese Amble_Ole_Training_Lothar_fd27dbb3:
 
-#     # "Jog rustles away."
-#     ""
+    # "Jog rustles away."
+    "乔格嗖地一声跑远了。"
 
 translate schinese Amble_Lothar_Training_a39ae20a:
 
@@ -5587,615 +5594,617 @@ translate schinese Amble_Lothar_Training_f407b3d4:
     # "After Amble disappear from view, you relax fully into the water. However, there's one part of you that refuses to calm down."
     "待他走远后，你终于能真正静下心来放松。不过你的小兄弟好像并不那么想……"
 
-# translate schinese Amble_Ole_Training_Scene_9ac7cf24:
+translate schinese Amble_Ole_Training_Scene_9ac7cf24:
 
-#     # a "Puny friend, here you are!"
-#     a ""
+    # a "Puny friend, here you are!"
+    a "小不点，你来啦！"
 
-# translate schinese Amble_Ole_Training_Scene_cb425fb7:
+translate schinese Amble_Ole_Training_Scene_cb425fb7:
 
-#     # e "Amble, were you looking for me?"
-#     e ""
+    # e "Amble, were you looking for me?"
+    e "安布，你在找我？"
 
-# translate schinese Amble_Ole_Training_Scene_d0e50c36:
+translate schinese Amble_Ole_Training_Scene_d0e50c36:
 
-#     # a "Oh yes. Aren't we going to get to the skill training?"
-#     a ""
+    # a "Oh yes. Aren't we going to get to the skill training?"
+    a "对啊，你不是要我教你新技能吗？"
 
-# translate schinese Amble_Ole_Training_Scene_4e1070cb:
+translate schinese Amble_Ole_Training_Scene_4e1070cb:
 
-#     # e "Yea, but I wasn't expecting you to be so into it."
-#     e ""
+    # e "Yea, but I wasn't expecting you to be so into it."
+    e "只是没想到你这么兴奋。"
 
-# translate schinese Amble_Ole_Training_Scene_dad18d94:
+translate schinese Amble_Ole_Training_Scene_dad18d94:
 
-#     # a "Of course. We have to do everything with everything we've got!"
-#     a ""
+    # a "Of course. We have to do everything with everything we've got!"
+    a "肯定啦。不管做什么事情，我们都要全力以赴！"
 
-# translate schinese Amble_Ole_Training_Scene_e478e865:
+translate schinese Amble_Ole_Training_Scene_e478e865:
 
-#     # a "Come on now."
-#     a ""
+    # a "Come on now."
+    a "跟我来。"
 
-# translate schinese Amble_Ole_Training_Scene_f022caa2:
+translate schinese Amble_Ole_Training_Scene_f022caa2:
 
-#     # "Amble turns and waves for you to follow."
-#     ""
+    # "Amble turns and waves for you to follow."
+    "安布转身挥手示意你跟上。"
 
-# translate schinese Amble_Ole_Training_Scene_ee89007c:
+translate schinese Amble_Ole_Training_Scene_ee89007c:
 
-#     # e "Amble, wait!"
-#     e ""
+    # e "Amble, wait!"
+    e "安布，等等！"
 
-# translate schinese Amble_Ole_Training_Scene_3cb7739f:
+translate schinese Amble_Ole_Training_Scene_3cb7739f:
 
-#     # "Amble stops and turns to you."
-#     ""
+    # "Amble stops and turns to you."
+    "安布停下脚步重新面向你。"
 
-# translate schinese Amble_Ole_Training_Scene_c3786cda:
+translate schinese Amble_Ole_Training_Scene_c3786cda:
 
-#     # a "What's wrong?"
-#     a ""
+    # a "What's wrong?"
+    a "怎么了？"
 
-# translate schinese Amble_Ole_Training_Scene_5d8ee48a:
+translate schinese Amble_Ole_Training_Scene_5d8ee48a:
 
-#     # e "Where are we going? Aren't we doing the training here?"
-#     e ""
+    # e "Where are we going? Aren't we doing the training here?"
+    e "我们要去哪里？不是在这里训练吗？"
 
-# translate schinese Amble_Ole_Training_Scene_e359f166:
+translate schinese Amble_Ole_Training_Scene_e359f166:
 
-#     # "You gesture at the archery training field."
-#     ""
+    # "You gesture at the archery training field."
+    "你指向周围。"
 
-# translate schinese Amble_Ole_Training_Scene_5d1161e9:
+translate schinese Amble_Ole_Training_Scene_5d1161e9:
 
-#     # a "Silly friend. Of course not. We're going to somewhere else for this special training. Come with me."
-#     a ""
+    # a "Silly friend. Of course not. We're going to somewhere else for this special training. Come with me."
+    a "小笨笨，当然不是啦。我们要去别的地方做特别训练，快跟我来吧。"
 
-# translate schinese Amble_Ole_Training_Scene_36f80a9b:
+translate schinese Amble_Ole_Training_Scene_36f80a9b:
 
-#     # "Amble walks away."
-#     ""
+    # "Amble walks away."
+    "安布走向街道。"
 
-# translate schinese Amble_Ole_Training_Scene_83b7176c:
+translate schinese Amble_Ole_Training_Scene_83b7176c:
 
-#     # "He waves, greets and nods at everyone along the way. Dwarfed by his size, you follow silently behind Amble."
-#     ""
+    # "He waves, greets and nods at everyone along the way. Dwarfed by his size, you follow silently behind Amble."
+    "一路上，他朝遇见的每个人招手、问好、点头。你默默跟在这头大红熊后面，感觉自己就像只幼崽。"
 
-# translate schinese Amble_Ole_Training_Scene_c0861881:
+translate schinese Amble_Ole_Training_Scene_c0861881:
 
-#     # "You cannot help but admire the view before you."
-#     ""
+    # "You cannot help but admire the view before you."
+    "而且你没法将视线从眼前的风景移开。"
 
-# translate schinese Amble_Ole_Training_Scene_72df042b:
+translate schinese Amble_Ole_Training_Scene_72df042b:
 
-#     # "Amble's large ass swings and bounces with each of the bear's steps."
-#     ""
+    # "Amble's large ass swings and bounces with each of the bear's steps."
+    "安布浑圆的大屁股随着步伐扭动弹跳，你想起乔格说的话："
 
-# translate schinese Amble_Ole_Training_Scene_4ebdad8d:
+translate schinese Amble_Ole_Training_Scene_4ebdad8d:
 
-#     # "You are reminded of what Jog said. Having a good view was a good perk when training with Amble."
-#     ""
+    # "You are reminded of what Jog said. Having a good view was a good perk when training with Amble."
+    "“再说了，这也很养眼，对吧？”"
 
-# translate schinese Amble_Ole_Training_Scene_c9b8cdaf:
+translate schinese Amble_Ole_Training_Scene_c9b8cdaf:
 
-#     # "You have to agree."
-#     ""
+    # "You have to agree."
+    "你不得不表示同感。"
 
-# translate schinese Amble_Ole_Training_Scene_04a969ed:
+translate schinese Amble_Ole_Training_Scene_04a969ed:
 
-#     # "You two continues the journey in silence. You openly admiring Amble's assets from behind while Amble humming joyfully to himself."
-#     ""
+    # "You two continues the journey in silence. You openly admiring Amble's assets from behind while Amble humming joyfully to himself."
+    "你们俩继续默默行路。安布在前头愉快地哼着小曲，你则在后头两眼放光欣赏他的身材，毫不遮掩。"
 
-# translate schinese Amble_Ole_Training_Scene_6e485cba:
+translate schinese Amble_Ole_Training_Scene_6e485cba:
 
-#     # "Finally, you arrive at the logging site."
-#     ""
+    # "Finally, you arrive at the logging site."
+    "终于，你们到了伐木场。"
 
-# translate schinese Amble_Ole_Training_Scene_9d2dcd9c:
+translate schinese Amble_Ole_Training_Scene_9d2dcd9c:
 
-#     # a "Here we are!"
-#     a ""
+    # a "Here we are!"
+    a "我们到啦！"
 
-# translate schinese Amble_Ole_Training_Scene_4007e1ff:
+translate schinese Amble_Ole_Training_Scene_4007e1ff:
 
-#     # "You look around."
-#     ""
+    # "You look around."
+    "你环顾四周，发现上次和安布训练就是在这里。"
 
-# translate schinese Amble_Ole_Training_Scene_bc196448:
+translate schinese Amble_Ole_Training_Scene_bc196448:
 
-#     # "It is the same place as you trained with Amble last time."
-#     ""
+    # "It is the same place as you trained with Amble last time."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_a1f996dc:
+translate schinese Amble_Ole_Training_Scene_a1f996dc:
 
-#     # e "Why are we here?"
-#     e ""
+    # e "Why are we here?"
+    e "我们来伐木场做什么？"
 
-# translate schinese Amble_Ole_Training_Scene_131ba3a8:
+translate schinese Amble_Ole_Training_Scene_131ba3a8:
 
-#     # a "Because the lesson is related to the trees, silly."
-#     a ""
+    # a "Because the lesson is related to the trees, silly."
+    a "因为我们的训练和树有关呀，小笨笨。"
 
-# translate schinese Amble_Ole_Training_Scene_e9daa6d9:
+translate schinese Amble_Ole_Training_Scene_e9daa6d9:
 
-#     # "He looks at you as if that cannot be more obvious."
-#     ""
+    # "He looks at you as if that cannot be more obvious."
+    "他看你的眼神仿佛这是再明显不过的事。"
 
-# translate schinese Amble_Ole_Training_Scene_69d6e974:
+translate schinese Amble_Ole_Training_Scene_69d6e974:
 
-#     # e "How can battle skill be related to trees?"
-#     e ""
+    # e "How can battle skill be related to trees?"
+    e "战斗技能跟树有什么关系？"
 
-# translate schinese Amble_Ole_Training_Scene_e9bdd514:
+translate schinese Amble_Ole_Training_Scene_e9bdd514:
 
-#     # a "You can learn a lot from nature. I'll show you. But before that..."
-#     a ""
+    # a "You can learn a lot from nature. I'll show you. But before that..."
+    a "大自然就是最好的老师，我会展示给你的。不过在那之前……"
 
-# translate schinese Amble_Ole_Training_Scene_03cd4f2b:
+translate schinese Amble_Ole_Training_Scene_03cd4f2b:
 
-#     # a "Let me just do this..."
-#     a ""
+    # a "Let me just do this..."
+    a "先让我……"
 
-# translate schinese Amble_Ole_Training_Scene_622c3bee:
+translate schinese Amble_Ole_Training_Scene_622c3bee:
 
-#     # "Amble strides up to you and starts to remove your armor."
-#     ""
+    # "Amble strides up to you and starts to remove your armor."
+    "安布眨眼睛跨到你面前，为你脱下身上的盔甲。"
 
-# translate schinese Amble_Ole_Training_Scene_77a11d01:
+translate schinese Amble_Ole_Training_Scene_77a11d01:
 
-#     # "The plates and shoulder pieces fall to the ground with heavy thuds."
-#     ""
+    # "The plates and shoulder pieces fall to the ground with heavy thuds."
+    "胸甲和肩甲重重地掉到地上。"
 
-# translate schinese Amble_Ole_Training_Scene_18b3e9e0:
+translate schinese Amble_Ole_Training_Scene_18b3e9e0:
 
-#     # "Flustered, you try to stop Amble but he's much too strong."
-#     ""
+    # "Flustered, you try to stop Amble but he's much too strong."
+    "你慌乱地想要阻止这头红熊，但他太强壮了。"
 
-# translate schinese Amble_Ole_Training_Scene_cf343cfe:
+translate schinese Amble_Ole_Training_Scene_cf343cfe:
 
-#     # e "Am-Amble, what are you doing?"
-#     e ""
+    # e "Am-Amble, what are you doing?"
+    e "安、安布，你做什么？"
 
-# translate schinese Amble_Ole_Training_Scene_dfa153eb:
+translate schinese Amble_Ole_Training_Scene_dfa153eb:
 
-#     # a "I'm preparing you for the training of course!"
-#     a ""
+    # a "I'm preparing you for the training of course!"
+    a "我在为你的训练做准备啊！"
 
-# translate schinese Amble_Ole_Training_Scene_11929dba:
+translate schinese Amble_Ole_Training_Scene_11929dba:
 
-#     # "Amble explains as he continues to undress you."
-#     ""
+    # "Amble explains as he continues to undress you."
+    "他一边解释一边继续脱掉你的装备。"
 
-# translate schinese Amble_Ole_Training_Scene_81ebe667:
+translate schinese Amble_Ole_Training_Scene_81ebe667:
 
-#     # "What kind of training would require you to be naked?"
-#     ""
+    # "What kind of training would require you to be naked?"
+    "什么样的训练需要光着身子？"
 
-# translate schinese Amble_Ole_Training_Scene_1d99fdac:
+translate schinese Amble_Ole_Training_Scene_1d99fdac:
 
-#     # "An answer pops up in your mind and your cheeks redden."
-#     ""
+    # "An answer pops up in your mind and your cheeks redden."
+    "你心里突然冒出一个答案，脸一下子红了。"
 
-# translate schinese Amble_Ole_Training_Scene_7493f6af:
+translate schinese Amble_Ole_Training_Scene_7493f6af:
 
-#     # e "Am-Amble, I don't mind that kind of training but..."
-#     e ""
+    # e "Am-Amble, I don't mind that kind of training but..."
+    e "安、安布，我不介意，可……"
 
-# translate schinese Amble_Ole_Training_Scene_4a8f3f66:
+translate schinese Amble_Ole_Training_Scene_4a8f3f66:
 
-#     # "Your fingers undo the straps of your armor as you say that."
-#     ""
+    # "Your fingers undo the straps of your armor as you say that."
+    "你边说着也边自己解起了绑带。"
 
-# translate schinese Amble_Ole_Training_Scene_c6554a81:
+translate schinese Amble_Ole_Training_Scene_c6554a81:
 
-#     # "Eventually, you find yourself standing in only your briefs."
-#     ""
+    # "Eventually, you find yourself standing in only your briefs."
+    "最后，你脱到只剩一条内裤。"
 
-# translate schinese Amble_Ole_Training_Scene_d274fe06:
+translate schinese Amble_Ole_Training_Scene_d274fe06:
 
-#     # "Just as you think Amble is going to strip you naked, he stops."
-#     ""
+    # "Just as you think Amble is going to strip you naked, he stops."
+    "就在你以为他要把你脱光时，他停了下来。"
 
-# translate schinese Amble_Ole_Training_Scene_bc890c5e:
+translate schinese Amble_Ole_Training_Scene_bc890c5e:
 
-#     # a "Alright. We're ready!"
-#     a ""
+    # a "Alright. We're ready!"
+    a "好啦，我们准备好了！"
 
-# translate schinese Amble_Ole_Training_Scene_57379f5a:
+translate schinese Amble_Ole_Training_Scene_57379f5a:
 
-#     # "Amble straightens himself."
-#     ""
+    # "Amble straightens himself."
+    "安布直起身子，你忍不住发问："
 
-# translate schinese Amble_Ole_Training_Scene_981dca79:
+translate schinese Amble_Ole_Training_Scene_981dca79:
 
-#     # "At that moment, you can't help but ask."
-#     ""
+    # "At that moment, you can't help but ask."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_34767d57:
+translate schinese Amble_Ole_Training_Scene_34767d57:
 
-#     # e "Amble, why am I only in my briefs?"
-#     e ""
+    # e "Amble, why am I only in my briefs?"
+    e "不脱了吗？我们就穿着内裤训练？"
 
-# translate schinese Amble_Ole_Training_Scene_6c4e5b40:
+translate schinese Amble_Ole_Training_Scene_6c4e5b40:
 
-#     # a "This is an adventurer's training so of course, you have to look the part."
-#     a ""
+    # a "This is an adventurer's training so of course, you have to look the part."
+    a "差客训练的第一课，就是首先要穿得像个差客。"
 
-# translate schinese Amble_Ole_Training_Scene_cc64560c:
+translate schinese Amble_Ole_Training_Scene_cc64560c:
 
-#     # a "That's what Jog told me."
-#     a ""
+    # a "That's what Jog told me."
+    a "乔格是这么告诉我的。"
 
-# translate schinese Amble_Ole_Training_Scene_d8453bb0:
+translate schinese Amble_Ole_Training_Scene_d8453bb0:
 
-#     # a "Why do you think I go around dressed the way I am?"
-#     a ""
+    # a "Why do you think I go around dressed the way I am?"
+    a "不然你觉得我为什么只穿着一条内裤？"
 
-# translate schinese Amble_Ole_Training_Scene_4d901698:
+translate schinese Amble_Ole_Training_Scene_4d901698:
 
-#     # "Amble flashes you a bright grin like that's the most logical thing in the world."
-#     ""
+    # "Amble flashes you a bright grin like that's the most logical thing in the world."
+    "大红熊露出灿烂的笑容，仿佛这是世界上最合理的事。"
 
-# translate schinese Amble_Ole_Training_Scene_d8b48ff4:
+translate schinese Amble_Ole_Training_Scene_d8b48ff4:
 
-#     # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
-#     ""
+    # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
+    "你不知该怎么反驳这个逻辑，既完全没理又完全在理。"
 
-# translate schinese Amble_Ole_Training_Scene_cf28f725:
+translate schinese Amble_Ole_Training_Scene_cf28f725:
 
-#     # e "But why take off the other parts of the armor?"
-#     e ""
+    # e "But why take off the other parts of the armor?"
+    e "也不是所有的差客都只穿内裤啊？"
+    a "如果不卸掉这些铁片，训练的时候会很容易划伤自己的。"
 
-# translate schinese Amble_Ole_Training_Scene_1d642d4c:
+translate schinese Amble_Ole_Training_Scene_1d642d4c:
 
-#     # "Amble rummages at the back of his briefs and soon pulls something out."
-#     ""
+    # "Amble rummages at the back of his briefs and soon pulls something out."
+    "安布掏了掏内裤后边，很快拿出了一样东西。"
 
-# translate schinese Amble_Ole_Training_Scene_9f55e2c7:
+translate schinese Amble_Ole_Training_Scene_9f55e2c7:
 
-#     # a "This is for you."
-#     a ""
+    # a "This is for you."
+    a "这是给你的。"
 
-# translate schinese Amble_Ole_Training_Scene_0ee48921:
+translate schinese Amble_Ole_Training_Scene_0ee48921:
 
-#     # "Amble opens his paw and you see what he is offering you."
-#     ""
+    # "Amble opens his paw and you see what he is offering you."
+    "他张开爪子，手心包的一条内裤，而且正是雷希姆冒险家套装中的那条。"
 
-# translate schinese Amble_Ole_Training_Scene_75fdec74:
+translate schinese Amble_Ole_Training_Scene_75fdec74:
 
-#     # "It is the briefs from Rahim's adventurer outfit. Just the briefs."
-#     ""
+    # "It is the briefs from Rahim's adventurer outfit. Just the briefs."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_6fb6bdc2:
+translate schinese Amble_Ole_Training_Scene_6fb6bdc2:
 
-#     # e "Erm... Why?"
-#     e ""
+    # e "Erm... Why?"
+    e "呃……为什么？"
 
-# translate schinese Amble_Ole_Training_Scene_0e5f7402:
+translate schinese Amble_Ole_Training_Scene_0e5f7402:
 
-#     # "Amble looks as confused as you are."
-#     ""
+    # "Amble looks as confused as you are."
+    "安布的表情和你一样困惑。"
 
-# translate schinese Amble_Ole_Training_Scene_ada30d41:
+translate schinese Amble_Ole_Training_Scene_ada30d41:
 
-#     # e "I mean... What am I supposed to do with this?"
-#     e ""
+    # e "I mean... What am I supposed to do with this?"
+    e "我的意思是……我要拿这条内裤做什么？"
 
-# translate schinese Amble_Ole_Training_Scene_f6ebbe57:
+translate schinese Amble_Ole_Training_Scene_f6ebbe57:
 
-#     # a "Put it on of course! What else can you do with it"
-#     a ""
+    # a "Put it on of course! What else can you do with it"
+    a "当然是穿上啦！还能做什么？"
 
-# translate schinese Amble_Ole_Training_Scene_84c364d4:
+translate schinese Amble_Ole_Training_Scene_84c364d4:
 
-#     # e "Again... Why?"
-#     e ""
+    # e "Again... Why?"
+    e "呃……为什么？"
 
-# translate schinese Amble_Ole_Training_Scene_6c4e5b40_1:
+translate schinese Amble_Ole_Training_Scene_6c4e5b40_1:
 
-#     # a "This is an adventurer's training so of course, you have to look the part."
-#     a ""
+    # a "This is an adventurer's training so of course, you have to look the part."
+    a "差客训练的第一课，就是首先要穿得像个差客。"
 
-# translate schinese Amble_Ole_Training_Scene_cc64560c_1:
+translate schinese Amble_Ole_Training_Scene_cc64560c_1:
 
-#     # a "That's what Jog told me."
-#     a ""
+    # a "That's what Jog told me."
+    a "乔格是这么告诉我的。"
 
-# translate schinese Amble_Ole_Training_Scene_d8453bb0_1:
+translate schinese Amble_Ole_Training_Scene_d8453bb0_1:
 
-#     # a "Why do you think I go around dressed the way I am?"
-#     a ""
+    # a "Why do you think I go around dressed the way I am?"
+    a "不然你觉得我为什么只穿着一条内裤？"
 
-# translate schinese Amble_Ole_Training_Scene_4d901698_1:
+translate schinese Amble_Ole_Training_Scene_4d901698_1:
 
-#     # "Amble flashes you a bright grin like that's the most logical thing in the world."
-#     ""
+    # "Amble flashes you a bright grin like that's the most logical thing in the world."
+    "大红熊露出灿烂的笑容，仿佛这是世界上最合理的事。"
 
-# translate schinese Amble_Ole_Training_Scene_d8b48ff4_1:
+translate schinese Amble_Ole_Training_Scene_d8b48ff4_1:
 
-#     # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
-#     ""
+    # "You do not know how to argue with that logic. It makes both no sense and absolute sense."
+    "你不知该怎么反驳这个逻辑，既完全没理又完全在理。"
 
-# translate schinese Amble_Ole_Training_Scene_d8703e59:
+translate schinese Amble_Ole_Training_Scene_d8703e59:
 
-#     # a "Hurry up."
-#     a ""
+    # a "Hurry up."
+    a "快穿上吧。"
 
-# translate schinese Amble_Ole_Training_Scene_883cbf69:
+translate schinese Amble_Ole_Training_Scene_883cbf69:
 
-#     # "Amble tosses you the briefs."
-#     ""
+    # "Amble tosses you the briefs."
+    "安布将内裤扔给你，布料还带着他的体温。"
 
-# translate schinese Amble_Ole_Training_Scene_17e5f132:
+translate schinese Amble_Ole_Training_Scene_17e5f132:
 
-#     # a "Also when I asked Rahim to loan this to me, I told him about that it's for a special training I'm doing with you."
-#     a ""
+    # a "Also when I asked Rahim to loan this to me, I told him about that it's for a special training I'm doing with you."
+    a "还有，我跟雷叔借这条内裤说要和你做特训的时候，他特别提醒我们要小心别把它弄破了。"
 
-# translate schinese Amble_Ole_Training_Scene_99f0fed5:
+translate schinese Amble_Ole_Training_Scene_99f0fed5:
 
-#     # a "Rahim told me that we better not tear it. Not sure what he means by that, but you better be careful, puny friend."
-#     a ""
+    # a "Rahim told me that we better not tear it. Not sure what he means by that, but you better be careful, puny friend."
+    a "不懂这有什么好担心的。但你还是得注意点哦，小不点。"
 
-# translate schinese Amble_Ole_Training_Scene_414fc3a2:
+translate schinese Amble_Ole_Training_Scene_414fc3a2:
 
-#     # "You are not quite sure what to feel from that information."
-#     ""
+    # "You are not quite sure what to feel from that information."
+    "你不知该对这番话作何感想。"
 
-# translate schinese Amble_Ole_Training_Scene_025f9fb5:
+translate schinese Amble_Ole_Training_Scene_025f9fb5:
 
-#     # "In any case, the briefs are still warm from being wedged in Amble's clothes."
-#     ""
+    # "In any case, the briefs are still warm from being wedged in Amble's clothes."
+    "总之，你穿上了这条内裤，自觉还挺性感的。"
 
-# translate schinese Amble_Ole_Training_Scene_55144e1c:
+translate schinese Amble_Ole_Training_Scene_55144e1c:
 
-#     # "As you put the briefs on, you find that to be quite sexy."
-#     ""
+    # "As you put the briefs on, you find that to be quite sexy."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_f61f1a50:
+translate schinese Amble_Ole_Training_Scene_f61f1a50:
 
-#     # e "Why only the briefs?"
-#     e ""
+    # e "Why only the briefs?"
+    e "我们不用穿其他防具吗？"
+    a "如果穿着那些铁片，训练的时候会很容易划伤自己的。"
 
-# translate schinese Amble_Ole_Training_Scene_a07dab3c:
+translate schinese Amble_Ole_Training_Scene_a07dab3c:
 
-#     # a "If you have any iron parts on during the training, they'll cut into you. You'll hurt."
-#     a ""
+    # a "If you have any iron parts on during the training, they'll cut into you. You'll hurt."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_547a4591:
+translate schinese Amble_Ole_Training_Scene_547a4591:
 
-#     # a "We don't want that."
-#     a ""
+    # a "We don't want that."
+    a "我不想你受伤。"
 
-# translate schinese Amble_Ole_Training_Scene_4cb5765c:
+translate schinese Amble_Ole_Training_Scene_4cb5765c:
 
-#     # e "Okay..."
-#     e ""
+    # e "Okay..."
+    e "好吧……"
 
-# translate schinese Amble_Ole_Training_Scene_b03194de:
+translate schinese Amble_Ole_Training_Scene_b03194de:
 
-#     # "That makes sense..."
-#     ""
+    # "That makes sense..."
+    "这倒是说得通……"
 
-# translate schinese Amble_Ole_Training_Scene_63ba9289:
+translate schinese Amble_Ole_Training_Scene_63ba9289:
 
-#     # a "Come. It's time for training."
-#     a ""
+    # a "Come. It's time for training."
+    a "来吧，该训练了。"
 
-# translate schinese Amble_Ole_Training_Scene_c4c43b72:
+translate schinese Amble_Ole_Training_Scene_c4c43b72:
 
-#     # "Dressed in only your briefs, you follow Amble to a big tree."
-#     ""
+    # "Dressed in only your briefs, you follow Amble to a big tree."
+    "你就这么只穿内裤跟着安布来到一棵大树前。"
 
-# translate schinese Amble_Ole_Training_Scene_23735f7c:
+translate schinese Amble_Ole_Training_Scene_23735f7c:
 
-#     # a "Puny friend, how do you cut down this tree with just one swing?"
-#     a ""
+    # a "Puny friend, how do you cut down this tree with just one swing?"
+    a "小不点，你知道怎样只用一斧子就砍倒这棵树吗？"
 
-# translate schinese Amble_Ole_Training_Scene_9ae48b57:
+translate schinese Amble_Ole_Training_Scene_9ae48b57:
 
-#     # "Amble asks as he taps the sturdy tree beside him."
-#     ""
+    # "Amble asks as he taps the sturdy tree beside him."
+    "他一边提问一边拍了拍旁边这棵粗壮的大树。"
 
-# translate schinese Amble_Ole_Training_Scene_2cb91bd7:
+translate schinese Amble_Ole_Training_Scene_2cb91bd7:
 
-#     # e "I... I have no idea."
-#     e ""
+    # e "I... I have no idea."
+    e "我……我不知道。"
 
-# translate schinese Amble_Ole_Training_Scene_a59b6c9a:
+translate schinese Amble_Ole_Training_Scene_a59b6c9a:
 
-#     # a "Puny friend, you're lucky cause I'm going to teach you that."
-#     a ""
+    # a "Puny friend, you're lucky cause I'm going to teach you that."
+    a "你真幸运，我现在就要教你这个独门绝技。"
 
-# translate schinese Amble_Ole_Training_Scene_be011780:
+translate schinese Amble_Ole_Training_Scene_be011780:
 
-#     # "Really?"
-#     ""
+    # "Really?"
+    e "真的吗？"
 
-# translate schinese Amble_Ole_Training_Scene_eb66b43a:
+translate schinese Amble_Ole_Training_Scene_eb66b43a:
 
-#     # "Honestly, that sounds quite amazing."
-#     ""
+    # "Honestly, that sounds quite amazing."
+    e "要是真能一斧子砍倒这么粗的树，那可太厉害了。"
 
-# translate schinese Amble_Ole_Training_Scene_56c9eea7:
+translate schinese Amble_Ole_Training_Scene_56c9eea7:
 
-#     # a "Course. Why else are we here?"
-#     a ""
+    # a "Course. Why else are we here?"
+    a "当然啦，不然我们来这里干嘛？"
 
-# translate schinese Amble_Ole_Training_Scene_fd24b978:
+translate schinese Amble_Ole_Training_Scene_fd24b978:
 
-#     # "Amble stands before the tree and examines it for a few seconds."
-#     ""
+    # "Amble stands before the tree and examines it for a few seconds."
+    "安布站在树前，打量了几秒钟。"
 
-# translate schinese Amble_Ole_Training_Scene_10d02d0a:
+translate schinese Amble_Ole_Training_Scene_10d02d0a:
 
-#     # "Then, he swings his axe hard into the trunk. The axe cuts about halfway through the trunk."
-#     ""
+    # "Then, he swings his axe hard into the trunk. The axe cuts about halfway through the trunk."
+    "然后，他用力挥动斧子砍向树干，将斧头砍进树干的中央。"
 
-# translate schinese Amble_Ole_Training_Scene_9e34e97f:
+translate schinese Amble_Ole_Training_Scene_9e34e97f:
 
-#     # "However, the tree remains unmoved."
-#     ""
+    # "However, the tree remains unmoved."
+    "然而这棵树却纹丝不动。"
 
-# translate schinese Amble_Ole_Training_Scene_105c8c84:
+translate schinese Amble_Ole_Training_Scene_105c8c84:
 
-#     # e "Amble, you sure..."
-#     e ""
+    # e "Amble, you sure..."
+    e "要一下砍倒或许太勉……"
 
-# translate schinese Amble_Ole_Training_Scene_181ff7c6:
+translate schinese Amble_Ole_Training_Scene_181ff7c6:
 
-#     # "Amble wiggles his axe that is lodged in the tree. The canopy rustles as the axe opens up the wound."
-#     ""
+    # "Amble wiggles his axe that is lodged in the tree. The canopy rustles as the axe opens up the wound."
+    "安布开始扭动卡在树上的斧子，摇动树冠的枝叶跟着沙沙作响。"
 
-# translate schinese Amble_Ole_Training_Scene_9d7c4a01:
+translate schinese Amble_Ole_Training_Scene_9d7c4a01:
 
-#     # "The tree starts to sway before your eyes."
-#     ""
+    # "The tree starts to sway before your eyes."
+    "大树摇晃得越来越厉害。"
 
-# translate schinese Amble_Ole_Training_Scene_8c2f189a:
+translate schinese Amble_Ole_Training_Scene_8c2f189a:
 
-#     # "Soon, Amble has opened up a large gap. With a chip in its large trunk, the tree loses its foundation and begins to tip."
-#     ""
+    # "Soon, Amble has opened up a large gap. With a chip in its large trunk, the tree loses its foundation and begins to tip."
+    "不一会儿，安布在树干上磨出了一个巨大的缺口，裂痕向另一边延展。"
 
-# translate schinese Amble_Ole_Training_Scene_029fb406:
+translate schinese Amble_Ole_Training_Scene_029fb406:
 
-#     # a "Hng!"
-#     a ""
+    # a "Hng!"
+    a "哈！"
 
-# translate schinese Amble_Ole_Training_Scene_d0f24406:
+translate schinese Amble_Ole_Training_Scene_d0f24406:
 
-#     # "Amble pulls his axe out with a grunt."
-#     ""
+    # "Amble pulls his axe out with a grunt."
+    "安布哼的一声，把斧子拔了出来。厚重的树冠失去支撑，开始朝缺口倾斜。"
 
-# translate schinese Amble_Ole_Training_Scene_5dab7443:
+translate schinese Amble_Ole_Training_Scene_5dab7443:
 
-#     # "The tree keels over from its own weight. As it lands, the forest ground trembles."
-#     ""
+    # "The tree keels over from its own weight. As it lands, the forest ground trembles."
+    "很快，大树轰然倒下，整个森林都为之一震。你愣在原地目瞪口呆。"
 
-# translate schinese Amble_Ole_Training_Scene_ffb9abb9:
+translate schinese Amble_Ole_Training_Scene_ffb9abb9:
 
-#     # "You are gobsmacked."
-#     ""
+    # "You are gobsmacked."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_643b3b81:
+translate schinese Amble_Ole_Training_Scene_643b3b81:
 
-#     # a "How about that."
-#     a ""
+    # a "How about that."
+    a "怎么样？"
 
-# translate schinese Amble_Ole_Training_Scene_22095138:
+translate schinese Amble_Ole_Training_Scene_22095138:
 
-#     # e "That... that's amazing."
-#     e ""
+    # e "That... that's amazing."
+    e "这……这太厉害了。"
 
-# translate schinese Amble_Ole_Training_Scene_dec893b9:
+translate schinese Amble_Ole_Training_Scene_dec893b9:
 
-#     # e "How did you do it, Amble?"
-#     e ""
+    # e "How did you do it, Amble?"
+    e "你是怎么做到的？"
 
-# translate schinese Amble_Ole_Training_Scene_030329dc:
+translate schinese Amble_Ole_Training_Scene_030329dc:
 
-#     # a "I'll teach you."
-#     a ""
+    # a "I'll teach you."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_348413f6:
+translate schinese Amble_Ole_Training_Scene_348413f6:
 
-#     # a "This is something I've picked up from being a lumberjack."
-#     a ""
+    # a "This is something I've picked up from being a lumberjack."
+    a "这是我在砍树的时候领悟的。"
 
-# translate schinese Amble_Ole_Training_Scene_2f6baa09:
+translate schinese Amble_Ole_Training_Scene_2f6baa09:
 
-#     # a "There's a core to every tree and once it is weakened, it'll be easier for you to make it fall."
-#     a ""
+    # a "There's a core to every tree and once it is weakened, it'll be easier for you to make it fall."
+    a "每棵树都有它的核心，一旦被削弱，倒下就是分分钟的事。"
 
-# translate schinese Amble_Ole_Training_Scene_4685b410:
+translate schinese Amble_Ole_Training_Scene_4685b410:
 
-#     # a "The same can be applied to enemies."
-#     a ""
+    # a "The same can be applied to enemies."
+    a "对付敌人也是同样的道理。"
 
-# translate schinese Amble_Ole_Training_Scene_381f206f:
+translate schinese Amble_Ole_Training_Scene_381f206f:
 
-#     # a "Only need to find the core."
-#     a ""
+    # a "Only need to find the core."
+    a "你只需要找到他的核心，也就是命门，就能轻易打倒他。"
 
-# translate schinese Amble_Ole_Training_Scene_f7621ca4:
+translate schinese Amble_Ole_Training_Scene_f7621ca4:
 
-#     # e "How does one do that?"
-#     e ""
+    # e "How does one do that?"
+    e "那要怎么找呢？"
 
-# translate schinese Amble_Ole_Training_Scene_af4e086b:
+translate schinese Amble_Ole_Training_Scene_af4e086b:
 
-#     # a "It's easy. Our core is around our belly button."
-#     a ""
+    # a "It's easy. Our core is around our belly button."
+    a "很简单。我们的命门在肚脐附近。"
 
-# translate schinese Amble_Ole_Training_Scene_987e3d37:
+translate schinese Amble_Ole_Training_Scene_987e3d37:
 
-#     # e "Really?"
-#     e ""
+    # e "Really?"
+    e "是吗？"
 
-# translate schinese Amble_Ole_Training_Scene_992139af:
+translate schinese Amble_Ole_Training_Scene_992139af:
 
-#     # "You find that rather hard to believe."
-#     ""
+    # "You find that rather hard to believe."
+    "你有些不太相信。"
 
-# translate schinese Amble_Ole_Training_Scene_77a4061f:
+translate schinese Amble_Ole_Training_Scene_77a4061f:
 
-#     # a "I'll show you."
-#     a ""
+    # a "I'll show you."
+    a "做个示范你就清楚了。"
 
-# translate schinese Amble_Ole_Training_Scene_148e3149:
+translate schinese Amble_Ole_Training_Scene_148e3149:
 
-#     # "Amble takes quick steps towards you. Before you can react, he hits you as soft as he can around your lower stomach."
-#     ""
+    # "Amble takes quick steps towards you. Before you can react, he hits you as soft as he can around your lower stomach."
+    "安布快步走向你。你还没反应过来，他便轻轻用拳头打了你小腹一下。"
 
-# translate schinese Amble_Ole_Training_Scene_8432e069:
+translate schinese Amble_Ole_Training_Scene_8432e069:
 
-#     # "It doesn't hurt that much but you are assaulted by a sense of vertigo."
-#     ""
+    # "It doesn't hurt that much but you are assaulted by a sense of vertigo."
+    "不是很疼，但眩晕感瞬间涌了上来。"
 
-# translate schinese Amble_Ole_Training_Scene_004332a0:
+translate schinese Amble_Ole_Training_Scene_004332a0:
 
-#     # e "Ahh..."
-#     e ""
+    # e "Ahh..."
+    e "啊……"
 
-# translate schinese Amble_Ole_Training_Scene_b39538ae:
+translate schinese Amble_Ole_Training_Scene_b39538ae:
 
-#     # "The world spins and there is a fleeting moment where you feel like falling."
-#     ""
+    # "The world spins and there is a fleeting moment where you feel like falling."
+    "世界天旋地转，有那么一瞬间你觉得自己像在从天空坠落，被大风刮得无法呼吸。"
 
-# translate schinese Amble_Ole_Training_Scene_47ca5707:
+translate schinese Amble_Ole_Training_Scene_47ca5707:
 
-#     # "It's like the wind has been knocked out of you."
-#     ""
+    # "It's like the wind has been knocked out of you."
+    pass
 
-# translate schinese Amble_Ole_Training_Scene_20459b99:
+translate schinese Amble_Ole_Training_Scene_20459b99:
 
-#     # "You land on the floor with your back. There is a slight buzz and when you look up, the sunlight are shining through the canopy of the forest."
-#     ""
+    # "You land on the floor with your back. There is a slight buzz and when you look up, the sunlight are shining through the canopy of the forest."
+    "你仰面摔到地上，耳边嗡嗡作响。睁开眼看，阳光透过森林的树冠洒下来。"
 
-# translate schinese Amble_Ole_Training_Scene_befc87b0:
+translate schinese Amble_Ole_Training_Scene_befc87b0:
 
-#     # e "Oof."
-#     e ""
+    # e "Oof."
+    e "噗。"
 
-# translate schinese Amble_Ole_Training_Scene_d4781850:
+translate schinese Amble_Ole_Training_Scene_d4781850:
 
-#     # a "Puny friend, that is wild. If this is what I get from teaching you new skills, feel free to come find me whenever you want."
-#     a ""
+    # a "Puny friend, that is wild. If this is what I get from teaching you new skills, feel free to come find me whenever you want."
+    a "太爽了。要是每次都能被这样感谢，小不点你每天都可以来请教我。"
 
-# translate schinese Amble_Ole_Training_Scene_d30d9b98:
+translate schinese Amble_Ole_Training_Scene_d30d9b98:
 
-#     # e "Hmm... Hmm... Yes."
-#     e ""
+    # e "Hmm... Hmm... Yes."
+    e "嗯……啊……好。"
 
-# translate schinese Amble_Ole_Training_Scene_135c1d6a:
+translate schinese Amble_Ole_Training_Scene_135c1d6a:
 
-#     # "With the taste of Amble's cum on your lips and the scent of his musk in your mind, you slowly drift off."
-#     ""
+    # "With the taste of Amble's cum on your lips and the scent of his musk in your mind, you slowly drift off."
+    "你咂咂嘴回味安布的种汁，深吸一口空气中弥漫的精腥味，慢慢睡了过去。"
 
-# translate schinese Amble_Ole_Training_Scene_32360cc6:
+translate schinese Amble_Ole_Training_Scene_32360cc6:
 
-#     # "That... was an amazing training."
-#     ""
+    # "That... was an amazing training."
+    "这……真是一次惊喜的训练。"
 
 translate schinese Amble_Ask_Lusterfield_2dedfb7c:
 
