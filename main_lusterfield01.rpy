@@ -379,65 +379,65 @@ translate schinese Sebas_Normal_Talk_58e0fbb5:
     # "As you are about to ask, you realise you are not putting on the right clothes to judge..."
     "你正准备开口，突然想起自己还没穿上那套衣服……"
 
-# translate schinese Sebas_After_Cane_Tavern_Night_696a9f9e:
+translate schinese Sebas_After_Cane_Tavern_Night_696a9f9e:
 
-#     # s "Good Fucking Morning, Roomie!"
-#     s "日踏马的安，好室友！"
+    # s "Good Fucking Morning, Roomie!"
+    s "日踏马的安，好室友！"
 
-# translate schinese Sebas_After_Cane_Tavern_Night_f2b5285a:
+translate schinese Sebas_After_Cane_Tavern_Night_f2b5285a:
 
-#     # s "How was I last night?"
-#     s "昨晚我潇洒不？"
+    # s "How was I last night?"
+    s "昨晚我潇洒不？"
 
-# translate schinese Sebas_After_Cane_Tavern_Night_095688bf:
+translate schinese Sebas_After_Cane_Tavern_Night_095688bf:
 
-#     # e "You were so drunk..."
-#     e "你醉得跟猪一样……"
+    # e "You were so drunk..."
+    e "你醉得跟猪一样……"
 
-# translate schinese Sebas_After_Cane_Tavern_Night_101d53e8:
+translate schinese Sebas_After_Cane_Tavern_Night_101d53e8:
 
-#     # s "It was fine. I had a drink at the tavern like usual."
-#     s ""
+    # s "It was fine. I had a drink at the tavern like usual."
+    s ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_646403cf:
+translate schinese Sebas_After_Cane_Tavern_Night_646403cf:
 
-#     # s "Then I had a stern talking-to with the bat about you."
-#     s ""
+    # s "Then I had a stern talking-to with the bat about you."
+    s ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_89897783:
+translate schinese Sebas_After_Cane_Tavern_Night_89897783:
 
-#     # e "A-a stern talk?"
-#     e ""
+    # e "A-a stern talk?"
+    e ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_050bc649:
+translate schinese Sebas_After_Cane_Tavern_Night_050bc649:
 
-#     # s "Well, I know you've been working there."
-#     s ""
+    # s "Well, I know you've been working there."
+    s ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_1bc5621c:
+translate schinese Sebas_After_Cane_Tavern_Night_1bc5621c:
 
-#     # s "The old bat sometimes gets out of line. You need to stand up against him."
-#     s ""
+    # s "The old bat sometimes gets out of line. You need to stand up against him."
+    s ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_f89f2566:
+translate schinese Sebas_After_Cane_Tavern_Night_f89f2566:
 
-#     # s "I told him to treat you better. And I believe I was quite persuasive. Quite very."
-#     s ""
+    # s "I told him to treat you better. And I believe I was quite persuasive. Quite very."
+    s ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_d283083e:
+translate schinese Sebas_After_Cane_Tavern_Night_d283083e:
 
-#     # "Seb's face blushes slightly at this point but you pretend not to notice."
-#     ""
+    # "Seb's face blushes slightly at this point but you pretend not to notice."
+    ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_9527f085:
+translate schinese Sebas_After_Cane_Tavern_Night_9527f085:
 
-#     # e "Thanks Seb."
-#     e ""
+    # e "Thanks Seb."
+    e ""
 
-# translate schinese Sebas_After_Cane_Tavern_Night_d4d9ca9d:
+translate schinese Sebas_After_Cane_Tavern_Night_d4d9ca9d:
 
-#     # s "It's the least I can do for my Roomie!"
-#     s ""
+    # s "It's the least I can do for my Roomie!"
+    s ""
 
 translate schinese Sebas_Drunk_Bet_Cane_aceb8c28:
 
