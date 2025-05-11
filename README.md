@@ -18,11 +18,11 @@
 
 ## 协作相关
 
-本项目大体进度可至[计划](https://github.com/users/COPtimer/projects/1)页面查询。
+本项目大体进度可至[里程碑](https://github.com/Outland-Wanderer/simplified-chinese/milestones)页面查询。
 
 为了避免撞车和给各位译者提供更丰富的支持，若欲参与本项目，请先联系本项目负责人洽谈。
 
-本项目章程详见 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+本项目章程详见[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
 ## 研究资料
 
