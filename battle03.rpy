@@ -246,7 +246,7 @@ translate schinese battle_attack_script_422c861a:
 translate schinese battle_attack_script_3e8d701f:
 
     # "The [target.name!t] vibrates, seems more than mildly annoyed now that you're hurting him."
-    "[target.name!t]激烈地颤动着，看来你的攻击对它伤害不小。"
+    "[target.name!t]激烈地颤动着，看来你的攻击奏效了。"
 
 translate schinese battle_attack_script_12680f06:
 
@@ -288,7 +288,7 @@ translate schinese battle_attack_script_f237f06f:
     # "You punch into the [target.name!t]'s stomach, grabbing him and slam him on the ground hard."
     "你一拳挥向[target.name!t]的腹部，并顺势抓住他，将他狠狠地摔在地上。"
 
-translate schinese battle_attack_script_24bcc736:
+translate schinese battle_attack_script_24bcc736_1:
 
     # "His health decreases by [oa[4]] HP."
     "对方失去了 [oa[4]] 点体力。"
@@ -507,6 +507,7 @@ translate schinese battle_escape_surrender_script_cfcbc5f4:
 
     # "You walk away from the dummy; it appears to patch itself up before going motionless, letting dust settle on it again."
     "你朝巷子口退去，但人偶只是默默地缝补自己的破口，而后恢复了静止的状态，尘埃落定。"
+
 translate schinese battle_escape_surrender_script_449a6dcd:
 
     # "As much as you try, you cannot escape from the guardian's magical aura."
