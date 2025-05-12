@@ -890,11 +890,11 @@ translate schinese strings:
     # old "Nosferat"
     # new "吸血鬼"
 
-    # old "Rat Bandit"
-    # new ""
+    old "Spriteling"
+    new "幽魂"
 
-    # old "Shark Bandit"
-    # new ""
+    old "Spritebinder"
+    new "八臂鬼"
 
     #地点
 
