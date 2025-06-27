@@ -71,3 +71,6 @@ translate schinese strings:
 
     # old "{color=#000}Asking Cane about his Favour{/color}"
     # new "{color=#000}向凯恩表热心{/color}"
+
+    old "{color=#000} Losing to a spritebinder before the elk arrives{/color}"
+    new "{color=#000}战败八臂鬼{/color}"
