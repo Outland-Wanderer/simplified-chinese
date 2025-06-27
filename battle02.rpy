@@ -138,10 +138,10 @@ translate schinese Ability_Resolution_8f64a376:
 #     # "You now have [orbed.rounds] orbs, blasting them all forwards, all enemies are dealt [orb_damage] HP."
 #     ""
 
-translate schinese Enemy_Self_Healing_fb3c2a38:
+translate schinese Enemy_Self_Healing_0302ae67:
 
-    # "[enemy.img] healed for [heal_amount_int] HP."
-    "[enemy.img] 回复了 [heal_amount_int] 点体力。"
+    # "[healed_enemy.img] healed for [heal_amount_int] HP."
+    "[healed_enemy.img] 回复了 [heal_amount_int] 点体力。"
 
 translate schinese Battle_End_Check_78e7c049:
 
@@ -1433,10 +1433,10 @@ translate schinese goat_general_win_bf832a13:
     # k "No."
     k "不用。"
 
-translate schinese goat_general_win_239efc6c:
+translate schinese goat_general_win_5ba1e493:
 
-    # k "The other guards will kill you after seeing me like that. Just leave us here."
-    k "其他士兵要是看到我这副样子，肯定会不由分说地攻击你。快去救弗坎吧。"
+    # k "The other guards will have you killed after seeing me like that. Just leave us here."
+    k "其他士兵要是看到我这副样子，肯定会不由分说地杀掉你。快去救弗坎吧。"
 
 translate schinese goat_general_win_bf6f0d3d:
 

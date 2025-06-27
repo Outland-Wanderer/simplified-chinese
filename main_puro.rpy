@@ -1281,11 +1281,6 @@ translate schinese Encountering_Moine_4a7e4db8:
     # "Weirdly, your body responeded with a shiver down the spine, and you can only attempt to cover the bulge in your own pants."
     "一阵酥麻的电流感穿过全身，你只能尽力压制自己匪夷所思的勃起。"
 
-translate schinese Encountering_Moine_ab518c94_1:
-
-    # my "Muzz lus hezzikom acha ik criv ziklo, tenkzom lus puro hylan."
-    pass
-
 translate schinese Encountering_Moine_63e260ab:
 
     # yu "Uh..."

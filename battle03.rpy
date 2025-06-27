@@ -23,6 +23,31 @@ translate schinese battle_attack_script_d5018a91:
     # "You hold and shoot an arrow at the slime, but it narrowly misses the [target.name!t]."
     "你飞箭射向[target.name!t]，可惜差一点点就命中了。"
 
+translate schinese battle_attack_script_5160e59e:
+
+    # "You slash your [pc.weapon.name!t] at the buggbear's arm. It slides right off his fluffy arm. You can only look on in disbelief."
+    "你挥动[pc.weapon.name!t]划向熊地精的手臂。难以置信，[pc.weapon.name!t]仅仅滑擦过他毛茸茸的手臂，没有留下一点痕迹。"
+
+translate schinese battle_attack_script_d7e32750:
+
+    # "You slam your [pc.weapon.name!t] into the buggbear's arm. It bounces right off. You can only look back in disbelief."
+    "你挥动[pc.weapon.name!t]砍向熊地精的手臂。难以置信，[pc.weapon.name!t]竟然被弹开了。"
+
+translate schinese battle_attack_script_9726da87:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the buggbear's arms. It pierces right through his soft fur but fails to make a dent in his skin, leaving you frozen in disbelief."
+    "你架设[pc.weapon.name!t]飞箭射向熊地精的手臂，但箭矢没能在他皮毛留下一点凹痕，你难以置信地僵住了。"
+
+translate schinese battle_attack_script_53d8fb6d:
+
+    # "You raise your fist and throw it at the buggbear, but miss and hit nothing, leaving you standing there like a fool instead."
+    "你握紧拳头冲向熊地精，但却什么也没打中。你保持出拳的姿势僵在原地就像个傻瓜。"
+
+translate schinese battle_attack_script_5dfa5b46:
+
+    # "The buggbear growls loudly, hitting his chest while taunting at your feeble attempt at attacking him."
+    "熊地精大声咆哮，捶打着胸口，嘲笑你不自量力。"
+
 translate schinese battle_attack_script_d7e5bd08:
 
     # "You slash your [pc.weapon.name!t] at the arm of the guardian, but his magical aura repels the attack."
@@ -142,6 +167,56 @@ translate schinese battle_attack_script_571e5fff:
 
     # "You bring up your bow and aim. The arrow flies right into its bull's eye."
     "你弯弓瞄准人偶，下一秒飞箭释出，正中他反背的靶心。"
+
+translate schinese battle_attack_script_e21937cd:
+
+    # "You slash your [pc.weapon.name!t] at the buggbear, grazing its stomach and drawing blood."
+    "你挥动[pc.weapon.name!t]划过熊地精的肚皮，割出一道血迹。"
+
+translate schinese battle_attack_script_ff85ef81:
+
+    # "You slash your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, somehow angrier than albeit disheveled. "
+    "你挥动[pc.weapon.name!t]将熊地精砍倒在地。蓬头垢面的熊地精朝你发出咆哮，从地上爬了起来，恼羞成怒。"
+
+translate schinese battle_attack_script_4985ccdf:
+
+    # "You slam your [pc.weapon.name!t] into the buggbear, cutting a bright red gash into his orange hide. The fur around the weeping wound grows matted with blood."
+    "你挥动[pc.weapon.name!t]劈向熊地精，后者被劈开一道口子，鲜血涌出染红了周围橙黄的皮毛。"
+
+translate schinese battle_attack_script_7ed551d3:
+
+    # "You slam your [pc.weapon.name!t] into the buggbear's face, tipping him off balance with a loud thump and roar."
+    "你抡动[pc.weapon.name!t]砸向熊地精的脸，使他失去平衡猛然跌倒，发出摔落的巨响与痛苦的吼叫。"
+
+translate schinese battle_attack_script_e459d093:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the buggbear. The arrow hits him right in the shoulder. He screams in agony."
+    "你架设[pc.weapon.name!t]飞箭射向熊地精。这一箭正中他的肩膀，使他痛苦地大叫。"
+
+translate schinese battle_attack_script_13dcf780:
+
+    # "You run while shooting your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, albeit disheveled."
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向敌人，这一箭将他击倒在地。熊地精朝你发出咆哮，从地上爬了起来，蓬头垢面的。"
+
+translate schinese battle_attack_script_01e116e5:
+
+    # "You throw your fist at the buggbear, hitting him across his face, the sheer impact of which knocks him to the ground."
+    "你一拳挥向熊地精，正中脸部。巨大的冲击力使得他应声倒地。"
+
+translate schinese battle_attack_script_ac5bad6e:
+
+    # "You punch into the buggbear's stomach making him double over in pain. You use this opportunity to knee him in the face. It feels like hitting a stone wall, but the buggbear slams into the ground hard."
+    "你勾拳猛击熊地精的腹部。他痛苦地捂着肚子，而你乘胜追击，出膝撞向他的脸。这感觉像撞上了一堵墙壁，但成功让熊地精狠狠地摔倒在地。"
+
+translate schinese battle_attack_script_6e460286:
+
+    # "The buggbear grunts in anger, he definitely doesn't appreciate getting battered by a random visitor."
+    "熊地精愤怒地咆哮着，绝不容许自己被一个陌生人如此痛打。"
+
+translate schinese battle_attack_script_b5fde2de:
+
+    # "You can barely hear the groaning sound of the buggbear. He is in absolute distress, and ready to slaughter his attacker without mercy."
+    "熊地精发出微弱的呻吟声，他已遍体鳞伤，对侵犯者的杀意暴涨到了极点。"
 
 translate schinese battle_attack_script_34af9287:
 
@@ -288,7 +363,7 @@ translate schinese battle_attack_script_f237f06f:
     # "You punch into the [target.name!t]'s stomach, grabbing him and slam him on the ground hard."
     "你一拳挥向[target.name!t]的腹部，并顺势抓住他，将他狠狠地摔在地上。"
 
-translate schinese battle_attack_script_24bcc736_1:
+translate schinese battle_attack_script_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
     "对方失去了 [oa[4]] 点体力。"
@@ -448,6 +523,26 @@ translate schinese battle_flirt_script_0d56d52b:
     # gt "Hnnnngh... I n-need to... cum."
     gt "嗯啊啊啊……好想射……"
 
+translate schinese battle_flirt_script_0f90d427:
+
+    # "Within a few seconds you can already see some movements from under the buggbear's loincloth. The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
+    "效果立竿见影，熊地精的遮裆布已然有些抽动。健壮的雄兽舔舔嘴唇，对着你的性感身躯犯咕哝。他的性欲增加了 [player_flirt] 点。"
+
+translate schinese battle_flirt_script_e7025682:
+
+    # "You notice the buggbear is staring at your crotch. You give him a subtle wink. He already looks like he can't breath from his arousal. His lust is increased by [player_flirt]."
+    "你注意到熊地精紧盯着你的胯下，你对他抛了个媚眼。他已经快兴奋到难以呼吸，性欲随之增加了 [player_flirt] 点。"
+
+translate schinese battle_flirt_script_d427826b:
+
+    # "The buggbear is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his mace tightly. His lust is increased by [player_flirt]."
+    "熊地精不安地扭动着身体，将狼牙棒握得更紧了。你听见他呼吸变得急促，还带着些许呻吟。对方的性欲增加了 [player_flirt] 点。"
+
+translate schinese battle_flirt_script_003220db:
+
+    # "You can tell the buggbear is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
+    "熊地精紧盯着你肥美的臀部，伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
+
 translate schinese battle_flirt_script_c294968b:
 
     # "You cannot detect his lust on the face, but by the vibration of the moss you can deduce that he's enjoying this a lot. His lust is increased by [player_flirt]."
@@ -543,6 +638,16 @@ translate schinese battle_escape_surrender_script_4cd25dd1:
 #     # gt "Mhmm... need to improve your running skills as well."
 #     gt ""
 
+translate schinese battle_escape_surrender_script_33260ed5:
+
+    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can."
+    "你慢慢退出熊地精的攻击范围，转身就跑。但这头巨兽轻而易举追上了你，将你一把抓起摔向黄土。逃跑失败！"
+
+translate schinese battle_escape_surrender_script_b5748ee7:
+
+    # "But the beast easily catches up to you and throws your entire body on the ground. Your escape seems to have failed!"
+    pass
+
 translate schinese battle_escape_surrender_script_ca519a13:
 
     # "You slowly back away from the [target.name!t]'s attack. Attempting to dodge its ghostly form, you trip and fall on the grass!"
@@ -578,6 +683,11 @@ translate schinese battle_escape_surrender_script_1ebf5074:
     # "You slowly back away from the [target.name!t]'s attack. Dodging its ghostly form. You successfully escape from the [target.name!t]!"
     "你慢慢向后远离，试图躲过[target.name!t]的攻击，敏捷地从它虚幻的身躯下溜走。逃跑成功！"
 
+translate schinese battle_escape_surrender_script_4af42606:
+
+    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the buggbear!"
+    "你慢慢退出熊地精的攻击范围，转身就跑。他想要追上你，却半途被绊倒摔在了地上。逃跑成功！"
+
 translate schinese battle_escape_surrender_script_13fbd82f_1:
 
     # "You slowly back down from the [target.name!t]'s attack, you turn around and run as fast as you can."
@@ -592,6 +702,11 @@ translate schinese battle_escape_surrender_script_4988e7e1:
 
     # "You try to surrender to the dummy, pretending to slip and fall on the floor... its stationary stance seem to advise you to leave instead."
     "你假装滑倒摔在地上，向人偶投降……但他一动不动，好似在无奈地劝你要走就走。"
+
+translate schinese battle_escape_surrender_script_2f57f6fe:
+
+    # "You fall to your knees, exhausted of all your energy. You grasp for breath as you lie on the ground, thinking surrendering yourself to the buggbear might be the best choice."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，把希望寄于将自己完全暴露给熊地精。"
 
 translate schinese battle_escape_surrender_script_47f4bdd0:
 
