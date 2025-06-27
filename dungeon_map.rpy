@@ -145,7 +145,7 @@ translate schinese strings:
     new "　　至于那些学者，他们所属的部落正大力追踪在乌克事件中逃脱的幽魂。看来他们与符文有过接触，这可能就是他们来到我们部落的原因。好在这里不会被魔法影响，我得以在他们被放逐之前获取一些信息。总而言之，我不能让这些学者离开，所以我得切断他们的交流能力。不过这些可怜灵魂的某些自然本能仍会以手的形式显现出来，今后就把他们视为那些烦人幽魂的克星吧。"
 
     old "Now, the crux of the matter: I gleaned from the scholars that they were in pursuit of him, motive is still unknown, unless we fall back on their own curiosity. While they proved to be nothing but a chore, they are not my primary concern. What troubles me is that the passage towards our tribe may have been known from outside. I fear that the next time someone traverses that passage, I might not have caught them in time.\n\nRegardless, those on the other side should make a better effort to ensure that does not happen again, I should not have been the only one taking care of the mess. The potential consequences could be catastrophic to them if a malicious outsider somehow made contact"
-    new "　　现在问题的关键是：从学者那里我知道他们在追踪他，但还不清楚动机，除非我们将其归结为他们的好奇心。最让我担忧的不是学者，他们最多处理起来有点麻烦，而是通往我们部族的通道可能已经为外界所知，下次再有谁通过通道时我可能来不及抓住他们。不管怎样，对面的人应该更加努力确保这种情况不再发生。这次不该只有我来善后，毕竟如果某个恶意的外来者与我们部族接触，对他们来说后果将是灾难性的。\n\n　　　　　　　　　　佩克欧"
+    new "　　现在问题的关键是：从学者那里我知道他们在追踪他，但还不清楚动机，除非我们将其归结为他们的好奇心。最让我担忧的不是学者，他们顶多处理起来有点麻烦——而是通往我们部族的通道可能已经为外界所知，下次再有谁通过通道时我可能来不及抓住他们。不管怎样，对面的人应该更加努力确保这种情况不再发生。这次不该只有我来善后，毕竟如果某个恶意的外来者与我们部族接触，对他们来说后果将是灾难性的。\n\n　　　　　　　　　　佩克欧"
 
     old "with our tribe.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPekoe"
     new ""
