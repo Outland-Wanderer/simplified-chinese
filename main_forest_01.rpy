@@ -897,20 +897,20 @@ translate schinese woodland_outpost_loop_e91ba75d_3:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese woodland_outpost_loop_0b22f34c:
+translate schinese woodland_outpost_loop_0b22f34c:
 
-#     # "Around the outpost, you remember the specific bush from Furkan and pick up a certain plant, it was a Chrysanthemum."
-#     ""
+    # "Around the outpost, you remember the specific bush from Furkan and pick up a certain plant, it was a Chrysanthemum."
+    ""
 
-# translate schinese woodland_outpost_loop_95390042:
+translate schinese woodland_outpost_loop_95390042:
 
-#     # "You put the flower in your bag, you now have [item_number] Chrysanthemum."
-#     ""
+    # "You put the flower in your bag, you now have [item_number] Chrysanthemum."
+    ""
 
-# translate schinese woodland_outpost_loop_813404ca:
+translate schinese woodland_outpost_loop_813404ca:
 
-#     # "You put the flower in your bag, you now have [item_number] Chrysanthemums."
-#     ""
+    # "You put the flower in your bag, you now have [item_number] Chrysanthemums."
+    ""
 
 translate schinese woodland_outpost_loop_e91ba75d_4:
 
