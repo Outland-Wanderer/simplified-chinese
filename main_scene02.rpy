@@ -1700,370 +1700,370 @@ translate schinese scene_minolose_56a330e1:
     # "As you move, drips of cum dribbles out of your hole and leaves a trail on the ground."
     "种汁断断续续从你血肉模糊的后穴流出，在地上画出一道带红的乳白轨迹。"
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_97fa0e21:
+translate schinese Scene_Cane_Sebas_Tavern_Night_97fa0e21:
 
-#     # s "Urgh... C-cane... You're so hard..."
-#     s ""
+    # s "Urgh... C-cane... You're so hard..."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_fdba5601:
+translate schinese Scene_Cane_Sebas_Tavern_Night_fdba5601:
 
-#     # c "And... who...whose fault is that?"
-#     c ""
+    # c "And... who...whose fault is that?"
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_699b93c5:
+translate schinese Scene_Cane_Sebas_Tavern_Night_699b93c5:
 
-#     # "You almost cannot believe your eyes. Cane's penis is completely buried in Seb's ass."
-#     ""
+    # "You almost cannot believe your eyes. Cane's penis is completely buried in Seb's ass."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_1c3ea15a:
+translate schinese Scene_Cane_Sebas_Tavern_Night_1c3ea15a:
 
-#     # "You have no idea that they share this kind of relationship."
-#     ""
+    # "You have no idea that they share this kind of relationship."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_b6c6b5d2:
+translate schinese Scene_Cane_Sebas_Tavern_Night_b6c6b5d2:
 
-#     # "The creaking sound that you hear earlier came from the bed creaking as Seb rides Cane's cock."
-#     ""
+    # "The creaking sound that you hear earlier came from the bed creaking as Seb rides Cane's cock."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_b85c7351:
+translate schinese Scene_Cane_Sebas_Tavern_Night_b85c7351:
 
-#     # "From your vantage point, you cannot see much but you can see Seb toss his head back as Cane impales him."
-#     ""
+    # "From your vantage point, you cannot see much but you can see Seb toss his head back as Cane impales him."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0ba2b576:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0ba2b576:
 
-#     # "There is a grin of satisfaction on your roommate's face."
-#     ""
+    # "There is a grin of satisfaction on your roommate's face."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_f6172ab7:
+translate schinese Scene_Cane_Sebas_Tavern_Night_f6172ab7:
 
-#     # c "Boy, we... haven't done this... in a.... while... But ya... 're still as energetic... as I remember..."
-#     c ""
+    # c "Boy, we... haven't done this... in a.... while... But ya... 're still as energetic... as I remember..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_7f769d0c:
+translate schinese Scene_Cane_Sebas_Tavern_Night_7f769d0c:
 
-#     # s "You're one... not so bad... yourself... old bat... I see that you can still.... keep up with the youth... Ungh!"
-#     s ""
+    # s "You're one... not so bad... yourself... old bat... I see that you can still.... keep up with the youth... Ungh!"
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_2cd3906c:
+translate schinese Scene_Cane_Sebas_Tavern_Night_2cd3906c:
 
-#     # "You have no idea what is happening, but based on that loud moan, it sounds like Cane has hit one of Seb's sweet spots."
-#     ""
+    # "You have no idea what is happening, but based on that loud moan, it sounds like Cane has hit one of Seb's sweet spots."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_7fd7ca30:
+translate schinese Scene_Cane_Sebas_Tavern_Night_7fd7ca30:
 
-#     # c "Boy... Look at that cock of yours tingle..."
-#     c ""
+    # c "Boy... Look at that cock of yours tingle..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_77483380:
+translate schinese Scene_Cane_Sebas_Tavern_Night_77483380:
 
-#     # c "It looks like... your magical spot hasn't changed..."
-#     c ""
+    # c "It looks like... your magical spot hasn't changed..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_4246e440:
+translate schinese Scene_Cane_Sebas_Tavern_Night_4246e440:
 
-#     # c "Whenever I hit it... Your rod perks up even more..."
-#     c ""
+    # c "Whenever I hit it... Your rod perks up even more..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_a268ad76:
+translate schinese Scene_Cane_Sebas_Tavern_Night_a268ad76:
 
-#     # "All you can hear in response is Seb's muffled groan."
-#     ""
+    # "All you can hear in response is Seb's muffled groan."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_73699a4d:
+translate schinese Scene_Cane_Sebas_Tavern_Night_73699a4d:
 
-#     # "This pounding continues for a while until you hear Cane gives out a hiss of pleasure."
-#     ""
+    # "This pounding continues for a while until you hear Cane gives out a hiss of pleasure."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_9aeac03f:
+translate schinese Scene_Cane_Sebas_Tavern_Night_9aeac03f:
 
-#     # c "Boy... Have... ya been practicing..."
-#     c ""
+    # c "Boy... Have... ya been practicing..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_4dbec6ce:
+translate schinese Scene_Cane_Sebas_Tavern_Night_4dbec6ce:
 
-#     # c "Ya hole... is pressing... on my cock so tight..."
-#     c ""
+    # c "Ya hole... is pressing... on my cock so tight..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_ed1dd225:
+translate schinese Scene_Cane_Sebas_Tavern_Night_ed1dd225:
 
-#     # "There's still a huff of pleasure in his voice, but you can hear your roommate reply."
-#     ""
+    # "There's still a huff of pleasure in his voice, but you can hear your roommate reply."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_f1d181c5:
+translate schinese Scene_Cane_Sebas_Tavern_Night_f1d181c5:
 
-#     # s "Ungh... One can always improve... I can now take up the full length of your cock so much easier than before."
-#     s ""
+    # s "Ungh... One can always improve... I can now take up the full length of your cock so much easier than before."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_e07a94a5:
+translate schinese Scene_Cane_Sebas_Tavern_Night_e07a94a5:
 
-#     # "There is the usual cheekiness in Seb's voice that you can recognize."
-#     ""
+    # "There is the usual cheekiness in Seb's voice that you can recognize."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_91539bb9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_91539bb9:
 
-#     # "Cane grunts."
-#     ""
+    # "Cane grunts."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_422c7e60:
+translate schinese Scene_Cane_Sebas_Tavern_Night_422c7e60:
 
-#     # c "No wonder... we've been doing this less. Have ya been practicing with that new friends of ya?"
-#     c ""
+    # c "No wonder... we've been doing this less. Have ya been practicing with that new friends of ya?"
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_48aa22e9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_48aa22e9:
 
-#     # c "Abandoning... your old... friend... for some fresh meat, is it?"
-#     c ""
+    # c "Abandoning... your old... friend... for some fresh meat, is it?"
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_68d8ea5a:
+translate schinese Scene_Cane_Sebas_Tavern_Night_68d8ea5a:
 
-#     # "Suddenly, there is a loud thump and you almost jump up."
-#     ""
+    # "Suddenly, there is a loud thump and you almost jump up."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_722c6ba9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_722c6ba9:
 
-#     # "Thankfully, there is also a loud moan that comes out of the room at the same time or else Seb or Cane would have discovered you already."
-#     ""
+    # "Thankfully, there is also a loud moan that comes out of the room at the same time or else Seb or Cane would have discovered you already."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_748c0a5b:
+translate schinese Scene_Cane_Sebas_Tavern_Night_748c0a5b:
 
-#     # "You look back into the room and notice a hard grit on Cane's face. It's a mixture of pain and pleasure."
-#     ""
+    # "You look back into the room and notice a hard grit on Cane's face. It's a mixture of pain and pleasure."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_f40efff8:
+translate schinese Scene_Cane_Sebas_Tavern_Night_f40efff8:
 
-#     # "You do not think it's possible but it appears like Seb has swallowed up even more of Cane's rod with his ass."
-#     ""
+    # "You do not think it's possible but it appears like Seb has swallowed up even more of Cane's rod with his ass."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_651aee83:
+translate schinese Scene_Cane_Sebas_Tavern_Night_651aee83:
 
-#     # c "Argh... What's that for... boy..."
-#     c ""
+    # c "Argh... What's that for... boy..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_74ec3407:
+translate schinese Scene_Cane_Sebas_Tavern_Night_74ec3407:
 
-#     # "Taking Cane's large rod is not an easy task, and the difficulty shows itself on Seb's flushed cheeks and sweaty mane."
-#     ""
+    # "Taking Cane's large rod is not an easy task, and the difficulty shows itself on Seb's flushed cheeks and sweaty mane."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_161fe14c:
+translate schinese Scene_Cane_Sebas_Tavern_Night_161fe14c:
 
-#     # "Even so, Seb's eyes flash in determination."
-#     ""
+    # "Even so, Seb's eyes flash in determination."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_68f04664:
+translate schinese Scene_Cane_Sebas_Tavern_Night_68f04664:
 
-#     # "Seb lifts his ass and Cane's cock slowly eases out of your roommate's hole."
-#     ""
+    # "Seb lifts his ass and Cane's cock slowly eases out of your roommate's hole."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0e416fc4:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0e416fc4:
 
-#     # "Cane groans as he flashes a smile at Seb, perhaps complimenting him for his great performance."
-#     ""
+    # "Cane groans as he flashes a smile at Seb, perhaps complimenting him for his great performance."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0cb11a0d:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0cb11a0d:
 
-#     # "Capturing Cane's temporary moment of ease, Seb slams down hard on Cane's shaft. Cane's cock disappears into Seb's hole in an instant."
-#     ""
+    # "Capturing Cane's temporary moment of ease, Seb slams down hard on Cane's shaft. Cane's cock disappears into Seb's hole in an instant."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_6c35a0f1:
+translate schinese Scene_Cane_Sebas_Tavern_Night_6c35a0f1:
 
-#     # c "Urgh!"
-#     c ""
+    # c "Urgh!"
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_e4d900e9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_e4d900e9:
 
-#     # "Seb is more prepared this time so there is a proud grin on his face as he sees the effect his sudden aggression has on Cane."
-#     ""
+    # "Seb is more prepared this time so there is a proud grin on his face as he sees the effect his sudden aggression has on Cane."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_8731d14b:
+translate schinese Scene_Cane_Sebas_Tavern_Night_8731d14b:
 
-#     # c "Boy... This is intense... But like... I said... What's that for..."
-#     c ""
+    # c "Boy... This is intense... But like... I said... What's that for..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_7e6044c4:
+translate schinese Scene_Cane_Sebas_Tavern_Night_7e6044c4:
 
-#     # "Cane manages to breathe out through gritted teeth."
-#     ""
+    # "Cane manages to breathe out through gritted teeth."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_5a34b64f:
+translate schinese Scene_Cane_Sebas_Tavern_Night_5a34b64f:
 
-#     # "Seb grinds his ass on Cane's cock, giving the bat not much breathing room."
-#     ""
+    # "Seb grinds his ass on Cane's cock, giving the bat not much breathing room."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_200e75ea:
+translate schinese Scene_Cane_Sebas_Tavern_Night_200e75ea:
 
-#     # s "That's for calling my roomie a fresh meat."
-#     s ""
+    # s "That's for calling my roomie a fresh meat."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_231d0071:
+translate schinese Scene_Cane_Sebas_Tavern_Night_231d0071:
 
-#     # "Cane seems to have gotten used to the new rhythm."
-#     ""
+    # "Cane seems to have gotten used to the new rhythm."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_289165cb:
+translate schinese Scene_Cane_Sebas_Tavern_Night_289165cb:
 
-#     # "He chuckles."
-#     ""
+    # "He chuckles."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_9051a040:
+translate schinese Scene_Cane_Sebas_Tavern_Night_9051a040:
 
-#     # c "Ya seem... highly protective of our new friend..."
-#     c ""
+    # c "Ya seem... highly protective of our new friend..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_65bb7540:
+translate schinese Scene_Cane_Sebas_Tavern_Night_65bb7540:
 
-#     # c "But ya know... What I mean... I'll be sure to take care of him... Don't worry, boy..."
-#     c ""
+    # c "But ya know... What I mean... I'll be sure to take care of him... Don't worry, boy..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_72215971:
+translate schinese Scene_Cane_Sebas_Tavern_Night_72215971:
 
-#     # "Seb's ass cheeks tighten. His hole squeezes Cane's cock that is still buried deep inside him."
-#     ""
+    # "Seb's ass cheeks tighten. His hole squeezes Cane's cock that is still buried deep inside him."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_d12ecb7d:
+translate schinese Scene_Cane_Sebas_Tavern_Night_d12ecb7d:
 
-#     # "This sends a sweet sensation through Cane and Seb."
-#     ""
+    # "This sends a sweet sensation through Cane and Seb."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_68a78c65:
+translate schinese Scene_Cane_Sebas_Tavern_Night_68a78c65:
 
-#     # s "Hng... Yea... Like how you've been taking care of me?"
-#     s ""
+    # s "Hng... Yea... Like how you've been taking care of me?"
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_6dbc0ad9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_6dbc0ad9:
 
-#     # "Cane smirks and doesn't answer."
-#     ""
+    # "Cane smirks and doesn't answer."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_58a33924:
+translate schinese Scene_Cane_Sebas_Tavern_Night_58a33924:
 
-#     # "Seb continues to bounce on Cane's cock. However, there's a sharp glint in his eyes."
-#     ""
+    # "Seb continues to bounce on Cane's cock. However, there's a sharp glint in his eyes."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_9659f86e:
+translate schinese Scene_Cane_Sebas_Tavern_Night_9659f86e:
 
-#     # s "Don't let him down and don't take advantage of him, old man. I warn you."
-#     s ""
+    # s "Don't let him down and don't take advantage of him, old man. I warn you."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_28209049:
+translate schinese Scene_Cane_Sebas_Tavern_Night_28209049:
 
-#     # "Cane's smirk lingers."
-#     ""
+    # "Cane's smirk lingers."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_ffbbf5c2:
+translate schinese Scene_Cane_Sebas_Tavern_Night_ffbbf5c2:
 
-#     # c "Ya know... Boy... That is not very convincing when... ya have my cock literally inside ya ass."
-#     c ""
+    # c "Ya know... Boy... That is not very convincing when... ya have my cock literally inside ya ass."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_6e2b264e:
+translate schinese Scene_Cane_Sebas_Tavern_Night_6e2b264e:
 
-#     # "Cane bucks his hips and jams his cock further up Seb's hole."
-#     ""
+    # "Cane bucks his hips and jams his cock further up Seb's hole."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_e963ac1e:
+translate schinese Scene_Cane_Sebas_Tavern_Night_e963ac1e:
 
-#     # "The sudden penetration catches Seb by surprise."
-#     ""
+    # "The sudden penetration catches Seb by surprise."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_b818e10e:
+translate schinese Scene_Cane_Sebas_Tavern_Night_b818e10e:
 
-#     # "The large cock instantly fills up his insides, sending him waves of pleasure."
-#     ""
+    # "The large cock instantly fills up his insides, sending him waves of pleasure."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_699ac020:
+translate schinese Scene_Cane_Sebas_Tavern_Night_699ac020:
 
-#     # s "Ah..."
-#     s ""
+    # s "Ah..."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0d884ac9:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0d884ac9:
 
-#     # "Streams of hot cum gush out of Seb's cock."
-#     ""
+    # "Streams of hot cum gush out of Seb's cock."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0112876e:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0112876e:
 
-#     # "The hot spunk splatters all over Cane's defined abs."
-#     ""
+    # "The hot spunk splatters all over Cane's defined abs."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_eb22538d:
+translate schinese Scene_Cane_Sebas_Tavern_Night_eb22538d:
 
-#     # "Drained from the ejaculation, Seb slumps slightly."
-#     ""
+    # "Drained from the ejaculation, Seb slumps slightly."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_9c9381ff:
+translate schinese Scene_Cane_Sebas_Tavern_Night_9c9381ff:
 
-#     # c "What are ya doing, boy? It's not over yet."
-#     c ""
+    # c "What are ya doing, boy? It's not over yet."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_464a7236:
+translate schinese Scene_Cane_Sebas_Tavern_Night_464a7236:
 
-#     # "Cane grabs Seb by his hips and brings the lion's hungry hole down on his rigid cock."
-#     ""
+    # "Cane grabs Seb by his hips and brings the lion's hungry hole down on his rigid cock."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_d94e763d:
+translate schinese Scene_Cane_Sebas_Tavern_Night_d94e763d:
 
-#     # s "Oh... Oh.... Oh..."
-#     s ""
+    # s "Oh... Oh.... Oh..."
+    s ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_30360a30:
+translate schinese Scene_Cane_Sebas_Tavern_Night_30360a30:
 
-#     # "Seb moans as his senses fire with pleasure again. Beads of cum are still leaking from his cock."
-#     ""
+    # "Seb moans as his senses fire with pleasure again. Beads of cum are still leaking from his cock."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_5e38c399:
+translate schinese Scene_Cane_Sebas_Tavern_Night_5e38c399:
 
-#     # c "Boy, hang in there. I'm close..."
-#     c ""
+    # c "Boy, hang in there. I'm close..."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_c6f1d5c4:
+translate schinese Scene_Cane_Sebas_Tavern_Night_c6f1d5c4:
 
-#     # "Cane heaves heavily."
-#     ""
+    # "Cane heaves heavily."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_839c8817:
+translate schinese Scene_Cane_Sebas_Tavern_Night_839c8817:
 
-#     # "Cane's cocks pulses. Moments later, white cum drips out of Seb's ravaged hole."
-#     ""
+    # "Cane's cocks pulses. Moments later, white cum drips out of Seb's ravaged hole."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_974083a7:
+translate schinese Scene_Cane_Sebas_Tavern_Night_974083a7:
 
-#     # "Depleted and spent, Seb collapses on Cane."
-#     ""
+    # "Depleted and spent, Seb collapses on Cane."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_1f4c9574:
+translate schinese Scene_Cane_Sebas_Tavern_Night_1f4c9574:
 
-#     # "The fur on his body matted from his cum that he had deposited on Cane's chest earlier."
-#     ""
+    # "The fur on his body matted from his cum that he had deposited on Cane's chest earlier."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_b02455e1:
+translate schinese Scene_Cane_Sebas_Tavern_Night_b02455e1:
 
-#     # "No longer hard, Cane's cock begins to slide out of Seb's hole."
-#     ""
+    # "No longer hard, Cane's cock begins to slide out of Seb's hole."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_491d1266:
+translate schinese Scene_Cane_Sebas_Tavern_Night_491d1266:
 
-#     # "The fill he shot inside Seb was so much that the cock slathered in cum slides out with ease. It doesn't even faze the tired Seb."
-#     ""
+    # "The fill he shot inside Seb was so much that the cock slathered in cum slides out with ease. It doesn't even faze the tired Seb."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_d16d9384:
+translate schinese Scene_Cane_Sebas_Tavern_Night_d16d9384:
 
-#     # "As Cane's liquid continues to drip out of Seb's vulnerable hole, Cane hugs Seb close."
-#     ""
+    # "As Cane's liquid continues to drip out of Seb's vulnerable hole, Cane hugs Seb close."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_bb147946:
+translate schinese Scene_Cane_Sebas_Tavern_Night_bb147946:
 
-#     # c "No worries, boy... I'll be sure to look after that new kid. I'll not make the same mistake again."
-#     c ""
+    # c "No worries, boy... I'll be sure to look after that new kid. I'll not make the same mistake again."
+    c ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_711dae66:
+translate schinese Scene_Cane_Sebas_Tavern_Night_711dae66:
 
-#     # "After a while, snoring comes from the room."
-#     ""
+    # "After a while, snoring comes from the room."
+    ""
 
-# translate schinese Scene_Cane_Sebas_Tavern_Night_0c8dacae:
+translate schinese Scene_Cane_Sebas_Tavern_Night_0c8dacae:
 
-#     # "You have no idea what you have witnessed but you decide it's best for you to retreat out of the tavern."
-#     ""
+    # "You have no idea what you have witnessed but you decide it's best for you to retreat out of the tavern."
+    ""
 
 translate schinese Scene_Exhibition_Masturbation_e8881af4:
 

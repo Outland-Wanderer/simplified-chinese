@@ -48,8 +48,8 @@ translate schinese strings:
     old "{color=#000}Losing in Mimic Battle{/color}"
     new "{color=#000}战败宝箱怪{/color}"
 
-    # old "{color=#000}Snooping on Sebas and Cane{/color}"
-    # new "{color=#000}偷看塞巴斯和凯恩的春宵{/color}"
+    old "{color=#000}Snooping on Sebas and Cane{/color}"
+    new "{color=#000}偷看塞巴斯和凯恩的春宵{/color}"
 
     # old "{color=#000}Losing in Werewolf Battle{/color}"
     # new "{color=#000}战败狼人{/color}"
