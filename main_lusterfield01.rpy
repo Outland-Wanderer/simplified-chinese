@@ -6901,11 +6901,11 @@ translate schinese strings:
     old "Ask about the fixed apron"
     new "报告围裙的修补情况"
 
-    # old "Ask about Rahim's Request"
-    # new "询问还有什么能帮忙的"
+    old "Ask about Rahim's Request"
+    new "询问还有什么能帮忙的"
 
-    # old "Report about his flowers"
-    # new "报告花束采集的情况"
+    old "Report about his flowers"
+    new "报告花束采集的情况"
 
     old "Finishing Postal Training"
     new "报告差客培训的完成情况"
@@ -7057,6 +7057,336 @@ translate schinese Rahim_Leather_Armor_d1f01bcf:
 
     # e "Bye, Rahim!"
     e "雷叔再见！"
+
+translate schinese Rahim_Flower_Quest_Finish_36648b62:
+
+    # e "Rahim, I got the mums for you."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Finish_fb80da26:
+
+    # "For a moment, you swear you could see a smile on Rahim's face."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_99bd4d8f:
+
+    # "But it disappears quickly."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_98355ecf:
+
+    # "Rahim takes the flowers from you."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_affc52c4:
+
+    # r "Thanks."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_97fc134c:
+
+    # "He grunts as he passes you 75 gold."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_06d40729:
+
+    # "He looks at the flowers and his expression dims."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_b9b755e5:
+
+    # r "..."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_9b95a411:
+
+    # e "Is there anything wrong, Rahim?"
+    e ""
+
+translate schinese Rahim_Flower_Quest_Finish_39fe80c5:
+
+    # "Rahim looks at you with temporary blankness."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_87460fa3:
+
+    # "Then, he snaps back to attention."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_4959ac1a:
+
+    # r "No. It's the flowers..."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_a5014ba1:
+
+    # e "Did I get the wrong ones? I'm sorry."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Finish_ee92f869:
+
+    # r "No. They're my daughter's favorite flowers."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_6da134d3:
+
+    # r "Today is her death anniversary."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_b481cc8e:
+
+    # "Rahim's tough shell breaks a little."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_1a2f681d:
+
+    # r "That's why I sent you to get these."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_6f54ccdd:
+
+    # r "I'll bring them to her later. She'll love these."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_cdbff688:
+
+    # e "I'm sorry."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Finish_4489ad32:
+
+    # r "Why should you be?"
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_fe6e9d1c:
+
+    # "Rahim's grip on the flowers tightened."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_dcaa5e6a:
+
+    # r "You're not the reason why she's not with us anymore."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_7de53890:
+
+    # "Rage radiates off Rahim."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_a202f14b:
+
+    # "He's about to break the chrysanthemums you've picked."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_83bd329d:
+
+    # "Looking at the mums, Rahim slowly calms down."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_eabe296c:
+
+    # r "I'm not sure how are you getting on with the goats but remember this."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_35ee51db:
+
+    # r "They've slaughtered some of us mercilessly."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_e4634e29:
+
+    # "You get closer to Rahim and put your hand on his palm, and he looks away."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_e5a9282e:
+
+    # "You decide to stay silent for the moment."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_29bb1e42:
+
+    # "For a few minutes, both of you didn't move. Only a brief whistling of the wind can be heard through the shop."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_d3962269:
+
+    # "You stares at Rahim, he is still holding onto the chrysanthemums tightly, and holding back the tear from his eyes."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_8d94f27a:
+
+    # "Rahim sniffs and looks back at you."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_3ca02f1b:
+
+    # r "I can't move on."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Finish_abf8003d:
+
+    # "The bull flings your hand away, and resume to his work with the clothes."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_17e41370:
+
+    # "You stares at the working bull. He is already back at focusing on the thin threads."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_9a0fff0f:
+
+    # "And the chrysanthemums were left on the table."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_7057d5df:
+
+    # "His response left you disappointed... but when you stare at his eyes. You noticed that something has changed."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_4431e162:
+
+    # "Maybe it's the anger inside him, maybe it's the grieve and regret."
+    ""
+
+translate schinese Rahim_Flower_Quest_Finish_10a8fe8e:
+
+    # "You can't decide if it's for the better or worse, but there's a sliver of hope you still hold onto for him."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_05b47ee5:
+
+    # e "Hey, Rahim, is there anything you need?"
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_d95be2f8:
+
+    # r "I hear that you're getting chummy with the goats."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_e3ad01fd:
+
+    # "Rahim levels you with a disapproving gaze."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_d92536ca:
+
+    # "You feel cowed."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_d899524e:
+
+    # e "Erm... Not technically... It's more like they tolerate my presence as a courier."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_c72361db:
+
+    # "Rahim nods pensively. After some time, he continues."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_01a4897e:
+
+    # r "Lusterfield was once close to the goats too... And see where it got us."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_67b55f38:
+
+    # "There is a hint of melancholy and sadness in Rahim's voice."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_2b8ba18a:
+
+    # "You do not know how to respond. Thankfully, Rahim picks up the thread of conversation."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_6215179c:
+
+    # r "Look behind your back when you're around them."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_cdf44713:
+
+    # e "I don't think they..."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_71365e1b:
+
+    # r "You were not here."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_ea847213:
+
+    # "Rahim huffs."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_80398a9b:
+
+    # r "That's beside the point. Sorry for being emotional. I need something from you."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_7be17a49:
+
+    # "You're glad for the topic change. You had a feeling Rahim was close to exploding earlier."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_73a84d3c:
+
+    # e "What do you need, Rahim?"
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_62fdea28:
+
+    # r "I need you to go to the outpost near the goat tribe to collect 4 bunches of chrysanthemum for me."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_d14f4c16:
+
+    # "You are confused."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_b04176e4:
+
+    # e "Chrysanthemum? Why?"
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_ed339701:
+
+    # e "Sounds like I've heard it somewhere..."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_a786fcb9:
+
+    # r "I need it for a garment."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_37987627:
+
+    # "Rahim grunts but you have a feeling there's more to this."
+    ""
+
+translate schinese Rahim_Flower_Quest_Begin_c17b6df7:
+
+    # e "But aren't there flowers around Lusterfield?"
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_ac5119fb:
+
+    # r "This one only grows near the goats."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_dd526913:
+
+    # r "I'm not sending any other Lusterfolks to go there lest I put them in danger. So you're the perfect candidate."
+    r ""
+
+translate schinese Rahim_Flower_Quest_Begin_4cb5765c:
+
+    # e "Okay..."
+    e ""
+
+translate schinese Rahim_Flower_Quest_Begin_102a403a:
+
+    # r "If you run into any goats, just tell them you're foraging. Now, get going."
+    r ""
 
 translate schinese Rahim_Ask_Opinion_Goat_Tribe_d86303de:
 
