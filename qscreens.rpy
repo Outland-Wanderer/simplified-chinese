@@ -12,7 +12,7 @@ translate schinese strings:
     new "已经完成："
 
     old " Progress:"
-    new "代办："
+    new "待办："
 
     old "Location: [selected_quest.location!t]"
     new "地点：[selected_quest.location!t]"

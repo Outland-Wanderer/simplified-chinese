@@ -71,6 +71,9 @@ translate schinese style stats_label_text:
 translate schinese style vitals_label_text:
     font gui.text_font
 
+translate schinese style screen_storage_button_text:
+    font gui.text_font
+
 translate schinese style ruby_style is default:
     size 24
     yoffset -32

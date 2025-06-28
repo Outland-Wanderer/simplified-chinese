@@ -966,15 +966,15 @@ translate schinese Haskell_Ask_Apothecary_83e1dfe6:
     # e "Uhh... Oolong?"
     e "呃……乌龙茶？"
 
-translate schinese Haskell_Ask_Apothecary_9cb45f86:
+translate schinese Haskell_Ask_Apothecary_12be9f2c:
 
-    # h "It takes some time to make, you usually have to wait for the plant to wither first, under strong sunlight out there."
-    h "制取乌龙茶的茶叶就要花不少时间。你通常得待到采摘下的鲜叶萎凋，然后利用强烈的阳光晒青。"
+    # h "It takes some time to make, you have to wait for the plant to wither first, under strong sunlight out there."
+    h "制取乌龙茶的茶叶就要花不少时间。你得待到采摘下的鲜叶萎凋，然后利用强烈的阳光晒青。"
 
-translate schinese Haskell_Ask_Apothecary_a2bd5b3b:
+translate schinese Haskell_Ask_Apothecary_65ed151f:
 
-    # h "After the process of oxidation, the leaves would twist and curl. You really need a lot of attention to its timing and temperature."
-    h "在阳光的作用下茶叶会变得卷曲，里面的成分也会发生变化。期间你需要密切观察控制时间和温度。"
+    # h "After the process of oxidation, the leaves would twist and curl. One has to pay utmost attention to its timing and temperature."
+    h "在阳光的作用下茶叶会变得卷曲，里面的成分也会发生变化。期间需要密切观察控制时间和温度。"
 
 translate schinese Haskell_Ask_Apothecary_a738f513:
 

@@ -123,10 +123,15 @@ translate schinese main_woodland_outpost_146c26b8:
 #     # "You turn your head left and right, there's no sign of which direction it had went, but you should chase after it before it disappears once more."
 #     ""
 
-translate schinese ancient_tree_chop_bd47983b:
+translate schinese ancient_tree_chop_b54e12b4:
 
-    # "You chop off some wood from a nearby tree. You have collected [chop_amount] Wooden Log. However, you have lost 20 hp in the process."
-    "你从附近一棵树上砍下了 [chop_amount] 截原木。但你在伐木的过程中损失了 20 体力。"
+    # "You chop off some wood from a nearby tree. You have collected [chopped_wood] Wooden Log."
+    "你从附近一棵树上砍下了 [chop_amount] 截原木。"
+
+translate schinese ancient_tree_chop_b201a95a:
+
+    # "You have lost [lost_hp] HP in total."
+    "但你在伐木的过程中损失了 [lost_hp] 点体力。"
 
 translate schinese ancient_tree_chop_176da485:
 
@@ -137,6 +142,16 @@ translate schinese ancient_tree_chop_a229b0ad:
 
     # "You look through your bag, there's nothing for you to chop the wood except for your hand. You would probably need an axe for this occasion."
     "你翻了翻背包，没找到除了你双手之外的伐木工具。你决定先去整把斧头改日再来。"
+
+translate schinese tree_chopping_8bd7ba34:
+
+    # "You have lost too much hp to continue chopping wood."
+    "你的体力已经撑不住了。"
+
+translate schinese strings:
+
+    old "Chop"
+    new "伐木"
 
 # translate schinese sparkling_lagoon_drink_e8ac8bd3:
 

@@ -1343,14 +1343,10 @@ translate schinese Cane_Private_Show_Quest_Accept_0e754dac:
     # c "I've cleared out a space for ya, but we need to spruce it up some. Ya know, make it look all prettylike to match ye."
     c "所以我专门给你捯饬出了个房间，不过得再拾掇下，漂漂亮亮才配得上你哩。"
 
-translate template Cane_Private_Show_Quest_Accept_7a2dba75:
-
-    # c "Ye'll also need somethin' more suitable to wear for the job..."
-    c "还得给你买两身情趣套装……"
-
 translate schinese Cane_Private_Show_Quest_Accept_9c44ef3e:
 
     # c "Ye often won' be wearin' any, but ye know how it be, some patrons like the tease."
+    c "可能还得给你买两身情趣套装……"
     c "虽然你绝大多数时候穿不着，可说不准嘞，有些客人就喜欢那种挑逗。"
 
 translate schinese Cane_Private_Show_Quest_Accept_0e707758:

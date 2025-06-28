@@ -1843,11 +1843,6 @@ translate schinese Kechioeren_Enter_342ef9b5:
     # "Soon the other guard comes back with another figure, he is wearing a short cowl around his shoulder, and holding a scepter with a bell on top of it."
     "片刻过后，那个卫兵带着一个你不认识的人回来了。这个人手持权杖，肩披短篷，胸前同样系着金黄的铃铛。"
 
-translate schinese Kechioeren_Enter_7900f928:
-
-    # "The figure with a reindeer antler, he is wearing a skull mask, much like the one you saw in the forest before you were sent to this world..."
-    "他还长着一对鹿角……戴着骷髅面具的样子像极了将你传送来这个世界的神秘人……"
-
 translate schinese Kechioeren_Enter_32636830:
 
     # "He doesn't speak much, only staggering towards you while holding his scepter for balance."

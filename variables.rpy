@@ -191,6 +191,9 @@ translate schinese strings:
     old "A Strength Potion that temporarily increases holder's damage, only during combat."
     new "一种可以暂时增强饮用者身体力量的药剂，只能在战斗中使用。"
 
+    old "A Strength Potion that temporarily increases drinker's Damage. Drinking it off battle with increase Strength temporarily instead."
+    new "一种可以暂时增强饮用者攻击伤害的药剂。在战斗外使用将短暂增强饮用者的力量值。"
+
     old "Green Ointment"
     new "绿色药膏"
 
@@ -890,11 +893,11 @@ translate schinese strings:
     # old "Nosferat"
     # new "吸血鬼"
 
-    # old "Rat Bandit"
-    # new ""
+    old "Spriteling"
+    new "幽魂"
 
-    # old "Shark Bandit"
-    # new ""
+    old "Spritebinder"
+    new "八臂鬼"
 
     #地点
 

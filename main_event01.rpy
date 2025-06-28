@@ -408,9 +408,9 @@ translate schinese Event_Party01_6a170d2f:
     # "You think back to the many times Seb fumbled over his words this morning."
     "你回想起之前塞巴斯好几次结结巴巴的样子。"
 
-translate schinese Event_Party01_cd5246b3:
+translate schinese Event_Party01_c29b0bd9:
 
-    # e "You weren’t wrong."
+    # e "You weren't wrong."
     e "你没觉得错。"
 
 translate schinese Event_Party01_fe70f8e1:
@@ -688,9 +688,9 @@ translate schinese Event_Party01_33c30286:
     # "You balance yourself on a table and right yourself."
     "你赶紧抓住旁边的桌子稳住自己才没摔倒。"
 
-translate schinese Event_Party01_358e94d9:
+translate schinese Event_Party01_449fa7e4:
 
-    # "Looking up now that you’re settled, you see a shadow swaying before you."
+    # "Looking up now that you're settled, you see a shadow swaying before you."
     "抬头看，一个背光的身影摇摇晃晃地站在你面前。"
 
 translate schinese Event_Party01_53861ed1:
@@ -994,7 +994,7 @@ translate schinese strings:
     old "Where do you want to visit?"
     new "你想往哪里凑？"
 
-    old "Listen in on Sebas and Lothar’s table"
+    old "Listen in on Sebas and Lothar's table"
     new "听听塞巴斯和洛萨尔那桌在说什么"
 
     old "Listen to Ole and Jog at the corner"
@@ -1444,9 +1444,9 @@ translate schinese Event_Party01_bd675e97:
     # "Ole doesn't quite know how to respond, and Jog cuts in."
     "奥利一时不知该如何应答，而乔格替他回了话。"
 
-translate schinese Event_Party01_def46418:
+translate schinese Event_Party01_5aa3d153:
 
-    # j "Amb, you’ve probably just been imagining it. I didn't notice anything like that."
+    # j "Amb, you've probably just been imagining it. I didn't notice anything like that."
     j "大概是你想多了安仔，我没看他瞟过我们。"
 
 translate schinese Event_Party01_021b33ec:
@@ -1614,9 +1614,9 @@ translate schinese Event_Party01_03379219:
     # "Before he leaves, you notice Cane turns back to Rahim."
     "走开之前，凯恩回头朝雷希姆说："
 
-translate schinese Event_Party01_65e9a6bc:
+translate schinese Event_Party01_8632c483:
 
-    # c "I mean it, it’s good to see you here."
+    # c "I mean it, it's good to see you here."
     c "说真的，欢迎光临夜夜椿。"
 
 translate schinese Event_Party01_3428f076:
@@ -1985,9 +1985,9 @@ translate schinese Event_Party01_bc5e97ef:
     # c "I suggest ya go check on that monster of yers. We have no idea where yer sleazy ass came from."
     c "我建议你去查查你说的这个怪物。俺们确实不着了你个睡了一万年的小懒虫从哪来。"
 
-translate schinese Event_Party01_bcc53366:
+translate schinese Event_Party01_3bcb8f0e:
 
-    # j "By the way, everything’s been freaking out since you and your friend came along."
+    # j "By the way, everything's been freaking out since you and your friend came along."
     j "话说，自从你和你朋友来了之后怪事一桩接一桩。"
 
 translate schinese Event_Party01_324b8eb3:
@@ -2040,9 +2040,9 @@ translate schinese Event_Party01_425e497e:
     # c "H-hey! Lad... something wrong?"
     c "嘿！小龙崽……咋地啦？"
 
-translate schinese Event_Party01_3c56b7e8:
+translate schinese Event_Party01_44217118:
 
-    # e "N-no... just don’t want to get too drunk."
+    # e "N-no... just don't want to get too drunk."
     e "没、没有……我只是不想喝太多。"
 
 translate schinese Event_Party01_7281bbd7:
@@ -2140,9 +2140,9 @@ translate schinese Event_Party01_6a8fe6b7:
     # o "Maybe you should join in some time?"
     o "有空的话要不要和他们一起玩玩？"
 
-translate schinese Event_Party01_40b22a92:
+translate schinese Event_Party01_eb26774b:
 
-    # e "What’s chess?"
+    # e "What's chess?"
     e "象棋是什么？"
 
 translate schinese Event_Party01_35407981:
@@ -2200,9 +2200,9 @@ translate schinese Event_Party01_114f75f9:
     # a "Can I learn too?"
     a "也可以带带我吗？"
 
-translate schinese Event_Party01_ef167d67:
+translate schinese Event_Party01_66d43ed5:
 
-    # s "Amb, you sure you don’t want to join Lothar instead?"
+    # s "Amb, you sure you don't want to join Lothar instead?"
     s "安布，你确定不去找你洛哥一桌？"
 
 translate schinese Event_Party01_03c0ed9f:
@@ -2398,9 +2398,9 @@ translate schinese Event_Party01_8054767a:
     # e "Haskell, thank you for helping me. Perhaps one day we can go on an adventure together."
     e "我也该谢谢你帮我那么多忙，或许改天我们可以一起去冒险。"
 
-translate schinese Event_Party01_1ef36fb9:
+translate schinese Event_Party01_8e3961c0:
 
-    # h "Be careful what you wish for young dragon. Once you get this dragon’s blood pumping, there's no quenching it."
+    # h "Be careful what you wish for young dragon. Once you get this dragon's blood pumping, there's no quenching it."
     h "许愿之前可得三思，小龙崽。一旦让我这头老龙热血沸腾，可就再难凉下来了。"
 
 translate schinese Event_Party01_a735fc1d:
@@ -2474,9 +2474,9 @@ translate schinese Event_Party01_Jog_112e4364:
     # "Jog is sitting on the stoop of the stairs with his back to you."
     pass
 
-translate schinese Event_Party01_Jog_061aec46:
+translate schinese Event_Party01_Jog_6d297326:
 
-    # "He’s juggling a few pebbles with one hand."
+    # "He's juggling a few pebbles with one hand."
     "他正只手抛着几颗小石子玩，看起来心事重重。"
 
 translate schinese Event_Party01_Jog_d2bd8a1e:
@@ -2545,9 +2545,9 @@ translate schinese Event_Party01_Jog_3fa0b813:
     # j "Aren't you going to follow your friends, and condemn me too?"
     j "你不打算跟着你的朋友们一起谴责我吗？"
 
-translate schinese Event_Party01_Jog_c2ba2d24:
+translate schinese Event_Party01_Jog_b35463cf:
 
-    # e "You know, you’re my friend too, Jog."
+    # e "You know, you're my friend too, Jog."
     e "你也是我的朋友，乔格，你知道的。"
 
 translate schinese Event_Party01_Jog_56398d80:
@@ -2707,14 +2707,14 @@ translate schinese Event_Party01_Cane_f0f1014d:
     # c "I hope ya enjoyed the party, lad, because there's gonna be a lot of cleaning to do tomorrow."
     c "喝好玩好嘞小龙崽，趁现在还能乐呵，明天打扫有俺们哭的。"
 
-translate schinese Event_Party01_Cane_d1026622:
+translate schinese Event_Party01_Cane_1ea85c53:
 
-    # c "I rather regret lettin’ Ole rent this place out for the day."
+    # c "I rather regret lettin' Ole rent this place out for the day."
     c "我都后悔把夜夜椿租给奥利一天了。"
 
-translate schinese Event_Party01_Cane_1c63a69a:
+translate schinese Event_Party01_Cane_b9fcad41:
 
-    # c "I mean, who’d a thought a few people’d be messier than a normal day at the tavern?"
+    # c "I mean, who'd a thought a few people'd be messier than a normal day at the tavern?"
     c "天知道才十几号人就能把这儿整得比平常还邋遢。"
 
 translate schinese Event_Party01_Cane_70959534:
@@ -2722,9 +2722,9 @@ translate schinese Event_Party01_Cane_70959534:
     # c "Your friends could put right bandits to shame when it comes to partyin'."
     c "你这帮朋友闹腾起来，连土匪看了都汗颜。"
 
-translate schinese Event_Party01_Cane_fe4999eb:
+translate schinese Event_Party01_Cane_b60b787c:
 
-    # e "'s a sure sign that everyone’s havin’ themselves good time."
+    # e "'s a sure sign that everyone's havin' themselves good time."
     e "说明大家伙儿都尽兴得很嘞。"
 
 translate schinese Event_Party01_Cane_9cb3748b:
@@ -2737,9 +2737,9 @@ translate schinese Event_Party01_Cane_711f1159:
     # c "Tryin' ta imitate my accent now lad?"
     c "想学我的口音？小滑头。"
 
-translate schinese Event_Party01_Cane_9c3b55d6:
+translate schinese Event_Party01_Cane_0376a308:
 
-    # c "I appreciate the sentiment, 'specially since it’s such a cute lad who’s tryin’ ta be like this old bat."
+    # c "I appreciate the sentiment, 'specially since it's such a cute lad who's tryin' ta be like this old bat."
     c "净会叫人宠你，尤其是模仿一只老蝙蝠的样子，更可爱哩。"
 
 translate schinese Event_Party01_Cane_ba9e5178:
@@ -2758,9 +2758,9 @@ translate schinese Event_Party01_Cane_30ebdbbf:
     # "Before you can say anything about what happened, Cane ruffles your head and continues packing up."
     "你正打算问他怎么了，他却揉了揉你的脑袋，继续整理杂物。"
 
-translate schinese Event_Party01_Cane_d7b6e10b:
+translate schinese Event_Party01_Cane_64f06f2d:
 
-    # c "Well, I don’t exactly see that lot volunteering to help clean up here."
+    # c "Well, I don't exactly see that lot volunteering to help clean up here."
     c "嘿哟，这群真土匪应该不会主动来帮忙收拾嘞。"
 
 translate schinese Event_Party01_Cane_c8ceba7a:
@@ -2768,9 +2768,9 @@ translate schinese Event_Party01_Cane_c8ceba7a:
     # "Cane lets out a hearty chuckle"
     "凯恩爽朗地大笑。"
 
-translate schinese Event_Party01_Cane_f8182232:
+translate schinese Event_Party01_Cane_00f0b214:
 
-    # c "Can't blame 'em, if it weren’t my tavern I would a stuck to partying myself!"
+    # c "Can't blame 'em, if it weren't my tavern I would a stuck to partying myself!"
     c "这也甭怪他们，假如不是要照料酒馆我也会去耍个痛快！"
 
 translate schinese Event_Party01_Cane_c4d86ac6:
@@ -2838,30 +2838,30 @@ translate schinese Event_Party01_Cane_4af327ac:
     # c "It's about that lad we talked about. His name's Topu."
     c "还记得我之前和你提过的托普吗？"
 
-translate schinese Event_Party01_Cane_1100c258:
+translate schinese Event_Party01_Cane_4df3b39c:
 
-    # c "He was one of the most finest lad I’ve met."
-    c "他是我心中最棒的小伙子，就是这小子有个爱寻刺激的臭毛病。"
+    # c "He was one of the most finest lad I've met."
+    c "他是我心中最棒的小伙子。就是这小子有个爱寻刺激的臭毛病。"
 
-translate schinese Event_Party01_Cane_26a4effa:
+translate schinese Event_Party01_Cane_d6598591:
 
-    # c "But that brat was a real thrill-seeker."
-    pass
+    # c "But that brat was a real thrill-seeker. Always taking the most dangerous jobs, making away with m' darn mead."
+    c "总接些最危险的差事，还爱偷喝我珍藏的蜂蜜酒。"
 
 translate schinese Event_Party01_Cane_5802764b:
 
     # "Cane turns to look at you."
     "凯恩转身直视你的眼睛。"
 
-translate schinese Event_Party01_Cane_3e3b3fa7:
+translate schinese Event_Party01_Cane_ddd4455e:
 
-    # c "Rather like ya. But I'd rather he's out there adventuring like ya do. Instead of doin’ whatever it is 'e does."
+    # c "Rather like ya. But I'd rather he's out there adventuring like ya do. Instead of doin' whatever it is 'e does."
     c "他和你有很多相像的地方。可我宁愿他在外头打怪游历，像你这样，而不是做他现在的勾当。"
 
-translate schinese Event_Party01_Cane_001a3234:
+translate schinese Event_Party01_Cane_013c9b84:
 
-    # c "The brat saw big things for himself. Nothin’ wrong with that. But he was always lookin’ for shortcuts."
-    c "他觉得他是做大事的人，这没问题。问题是他总想投机取巧。"
+    # c "The brat saw big things for himself. Nothin' wrong with that. But he was always lookin' for shortcuts, y'know?"
+    c "他觉得他是做大事的人，这没问题。问题是他总想投机取巧，懂不？"
 
 translate schinese Event_Party01_Cane_a3653631:
 
@@ -2944,9 +2944,9 @@ translate schinese Event_Party01_Cane_49cbb340:
     # c "No. I shoulda kept a closer eye on the brat."
     c "不，我本应对托普更加上心。"
 
-translate schinese Event_Party01_Cane_58d7b7c4:
+translate schinese Event_Party01_Cane_9bbf2aa1:
 
-    # c "Every day I wonder what life’d be like if things could've changed for the better..."
+    # c "Every day I wonder what life'd be like if things could've changed for the better..."
     c "我每天都在想，假如当初事情朝另一个方向发展，现在的生活又会是怎样……"
 
 translate schinese Event_Party01_Cane_ee2e64b2:
@@ -2984,9 +2984,9 @@ translate schinese Event_Party01_Cane_e0b844e4:
     # c "After all, it's hard to train another server."
     c "毕竟培训新服务员怪麻缠嘞。"
 
-translate schinese Event_Party01_Cane_6dd6f7b8:
+translate schinese Event_Party01_Cane_af80f27d:
 
-    # c "’Specially one who has a nice bod like yours."
+    # c "'Specially one who has a nice bod like yours."
     c "而且要上哪去找身材这么性感的小年轻哩。"
 
 translate schinese Event_Party01_Cane_6e157353:
@@ -2994,9 +2994,9 @@ translate schinese Event_Party01_Cane_6e157353:
     # "He says this while pulling your body close to his."
     "老板边说边将你拉入怀中，背靠着他。"
 
-translate schinese Event_Party01_Cane_14470cd2:
+translate schinese Event_Party01_Cane_b6b52d4f:
 
-    # "You feel the bat’s rough fur press against the soft fur of your back, as well as a warm bump pressing greedily against your rump."
+    # "You feel the bat's rough fur press against the soft fur of your back, as well as a warm bump pressing greedily against your rump."
     "蝙蝠粗硬的毫毛压上你后背柔顺的绒毛，还有一团鼓包饥渴地抵在你两腿之间传递暖意。"
 
 translate schinese Event_Party01_Cane_8b8d2de2:
@@ -3004,9 +3004,9 @@ translate schinese Event_Party01_Cane_8b8d2de2:
     # "Just as quickly as it started, the bat ends the embrace, giving your butt a light squeeze and a slap as he pulls away."
     "不过，如来时般他很快放开了你，轻轻捏了一下你的屁股后再补了一巴掌。"
 
-translate schinese Event_Party01_Cane_8969667d:
+translate schinese Event_Party01_Cane_c5b46a0c:
 
-    # c "Now get back out there and enjoy yerself, lad. Everyone’s 'ere to celebrate ya, and ya deserve the break."
+    # c "Now get back out there and enjoy yerself, lad. Everyone's 'ere to celebrate ya, and ya deserve the break."
     c "赶快回去和朋友们痛快吧，小伙子。大伙特地来给你庆祝，一定要吃好玩好放松好哩。"
 
 translate schinese Event_Party01_Lothar_4edcddd1:

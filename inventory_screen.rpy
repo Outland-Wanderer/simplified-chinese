@@ -90,6 +90,12 @@ translate schinese strings:
     old "Trinket"
     new "标本"
 
+    old "\nExpires in [status_expire_day] days and [status_expire_hour] hours."
+    new "\n将于 [status_expire_day] 天 [status_expire_hour] 时后失效。"
+
+    old "\nExpires in [status_expire_hour] hours."
+    new "\nn将于 [status_expire_hour] 时后失效。"
+
     old "Sorted by Name in Ascending Order"
     new "按物品名称排序（顺序）"
 

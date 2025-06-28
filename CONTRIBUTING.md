@@ -6,15 +6,12 @@
 
 故事发生的具体年代：由游戏剧情中书籍的工业化批量生产可推知游戏年代至少推进到了**15世纪后期**。
 
-
-
 # 翻译研究
 
 ## 翻译策略参考
 
 1. 余静.论方言翻译的“落差”策略[J].中国翻译,2015,36(02):107-110.
 2. 曹炜.现代汉语中的称谓语和称呼语[J].江苏大学学报(社会科学版),2005(02):62-69.DOI:10.13317/j.cnki.jdskxb.2005.02.011.
-
 
 ## 人名翻译
 
@@ -117,11 +114,8 @@ inch | 寸 | 取明朝一尺长度[^2]转换
 
 ## 其他游戏翻译版本
 
-[Lano个人汉化](https://www.gamemale.com/forum.php?mod=viewthread&tid=99072)
-
-[前官方汉化](https://tieba.baidu.com/p/7998972608)
-
-
+- [Lano个人汉化](https://www.gamemale.com/forum.php?mod=viewthread&tid=99072)
+- [前官方汉化](https://tieba.baidu.com/p/7998972608)
 
 [^1]: [英语姓名译名手册（第五版）](https://www.cp.com.cn/book/d04f0003-3.html)
 [^2]: [维基百科-中国度量衡](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%BA%A6%E9%87%8F%E8%A1%A1)
