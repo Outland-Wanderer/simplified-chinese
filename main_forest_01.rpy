@@ -900,17 +900,17 @@ translate schinese woodland_outpost_loop_e91ba75d_3:
 translate schinese woodland_outpost_loop_0b22f34c:
 
     # "Around the outpost, you remember the specific bush from Furkan and pick up a certain plant, it was a Chrysanthemum."
-    ""
+    "你绕着哨站四处探索，看见了弗坎提过的菊花，便将它折下。"
 
 translate schinese woodland_outpost_loop_95390042:
 
     # "You put the flower in your bag, you now have [item_number] Chrysanthemum."
-    ""
+    "你把菊花放进背包，现在你持有 [item_number] 束菊花。"
 
 translate schinese woodland_outpost_loop_813404ca:
 
     # "You put the flower in your bag, you now have [item_number] Chrysanthemums."
-    ""
+    "你把菊花放进背包，现在你持有 [item_number] 束菊花。"
 
 translate schinese woodland_outpost_loop_e91ba75d_4:
 
