@@ -569,7 +569,7 @@ translate schinese Furkan_Meet_Flower_adf82238:
 translate schinese Furkan_Meet_Flower_7396dacc:
 
     # "Furkan narrows his eyes at you. You sweat nervously but try to look calm on the surface."
-    "弗坎微微眯起眼睛。你紧张地有些冒汗，努力至少在表面上不漏声色。"
+    "弗坎微微眯起眼睛。你紧张得有些冒汗，努力至少在表面上不漏声色。"
 
 translate schinese Furkan_Meet_Flower_3e8c84e5:
 
@@ -584,7 +584,7 @@ translate schinese Furkan_Meet_Flower_1b7b515c:
 translate schinese Furkan_Meet_Flower_6186867a:
 
     # "You nod."
-    "你点头。"
+    "你顺势点头。"
 
 translate schinese Furkan_Meet_Flower_385c0737:
 
@@ -629,7 +629,7 @@ translate schinese Furkan_Meet_Flower_9f7a838f_1:
 translate schinese Furkan_Meet_Flower_c86fda0e:
 
     # "As you walk into the clearing, you take in a surprised gasp."
-    "很快你们走进了一片林中空地，眼前的景象令你惊讶得倒吸一口气"
+    "很快你们走进了一片林中空地，眼前的景象令你惊讶得倒吸一口气。"
 
 translate schinese Furkan_Meet_Flower_1ad421c5:
 
@@ -649,7 +649,7 @@ translate schinese Furkan_Meet_Flower_93124f98:
 translate schinese Furkan_Meet_Flower_57a69ec8:
 
     # "The clearing is covered in vibrant flower bushes. The flowers look like little balls of sunburst."
-    "翠绿的草地上长满了黄色花丛，看起来就像一团团小太阳生机勃勃。散发出令人十分放松的清香。"
+    "翠绿的草地上长满了生机勃勃的黄色花丛，看起来就像一团团小太阳。散发出令人十分放松的清香。"
 
 translate schinese Furkan_Meet_Flower_689bc226:
 
@@ -684,7 +684,7 @@ translate schinese Furkan_Meet_Flower_df39c768:
 translate schinese Furkan_Meet_Flower_21dfb209:
 
     # "Furkan teaches you how to harvest the flowers. With his help, you soon have a bag full of them."
-    "弗坎教了你一些采摘花朵的技巧。在他的帮助下，你很快就采满了一袋。"
+    "弗坎教会你一些采摘花朵的技巧。在他的帮助下，你很快就采满了一袋。"
 
 translate schinese Furkan_Meet_Flower_1df5dbd0:
 
@@ -699,12 +699,12 @@ translate schinese Furkan_Meet_Flower_c40670e3:
 translate schinese Furkan_Meet_Flower_f9e23f89:
 
     # "Furkan just smiles."
-    "弗坎只是笑了笑。"
+    "弗坎听完只是笑了笑。"
 
 translate schinese Furkan_Meet_Flower_02ce7ad8:
 
     # f "Even the chief needs a break once in a while. This is just what I needed."
-    f "就算是族长也要偶尔休息一下，和你一起采花正好。"
+    f "即使是族长也要偶尔休息一下。和你一起采花正好。"
 
 translate schinese Furkan_Meet_Flower_2b5df11e:
 
@@ -734,7 +734,7 @@ translate schinese Furkan_Meet_Flower_777bb660:
 translate schinese Furkan_Meet_Flower_490c0458:
 
     # f "It is part of growing up, just did not expect now that we're both ruling over a tribe."
-    f "长大就是这样，只是没想到我们现在都成了部落的领袖。"
+    f "长大成人便是如此，只是没想到我们现在都成了部落的领袖。"
 
 translate schinese Furkan_Meet_Flower_3ec57d49:
 
@@ -830,7 +830,7 @@ translate schinese Furkan_Meet_Flower_4116d77d:
 translate schinese Furkan_Meet_Flower_a99b297c:
 
     # "Furkan shakes his head with a smile."
-    "弗坎笑着摇了摇头。"
+    "对方笑着摇了摇头。"
 
 translate schinese Furkan_Meet_Flower_9dda09b4:
 
@@ -845,7 +845,7 @@ translate schinese Furkan_Meet_Flower_da92c0d9:
 translate schinese Furkan_Meet_Flower_57572bb3:
 
     # f "...in truth, he was disappointed that he was not in the cave."
-    f "……说实话，他更失望的是自己没能去洞穴里。"
+    f "……说实话，他更失望的是自己没能去洞穴里救我。"
 
 translate schinese Furkan_Meet_Flower_1518291e:
 
@@ -955,12 +955,12 @@ translate schinese Furkan_Meet_Flower_dae2f07e:
 translate schinese Furkan_Meet_Flower_2486aec9:
 
     # f "Kari could have kidnapped you to torture for information just because he was worried about me."
-    f "出于对我的担忧，卡里甚至可能会把你关起来折磨你，直到得到了他想要的信息。"
+    f "出于对我的担忧，卡里甚至可能会把你关起来折磨你，直到获知他想要的信息。"
 
 translate schinese Furkan_Meet_Flower_99e801f0:
 
     # f "The same could be said of that war."
-    f "而那场战争的起因大抵也是如此。"
+    f "而那场战争的导火索大抵也是如此。"
 
 translate schinese Furkan_Meet_Flower_3529f1ae:
 
@@ -1005,12 +1005,12 @@ translate schinese Furkan_Meet_Flower_866e1e57:
 translate schinese Furkan_Meet_Flower_777bb660_1:
 
     # e "Furkan..."
-    e "弗坎……"
+    e "……"
 
 translate schinese Furkan_Meet_Flower_2685deec:
 
     # "You give him a comforting touch."
-    "你轻轻地摸了摸他的后背以示安慰。"
+    "你轻轻摸了摸他的后背以示安慰。"
 
 translate schinese Furkan_Meet_Flower_099b5725:
 
