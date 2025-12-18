@@ -7,7 +7,7 @@
 ## 官方相关链接
 
 - [itch.io](https://f1shsticker.itch.io/outland-wanderer)
-- [Twitter](https://twitter.com/OutlandWanderer)
+- [X](https://x.com/OutlandWanderer)
 - [Discord](https://discord.gg/QnbJMGhZhV)
 - [Patreon](https://www.patreon.com/OutlandWanderer)
 
@@ -26,7 +26,7 @@
 
 ## 研究资料
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+详见[CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 译者名单
 
