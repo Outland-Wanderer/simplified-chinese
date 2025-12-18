@@ -6901,11 +6901,11 @@ translate schinese strings:
     old "Ask about the fixed apron"
     new "报告围裙的修补情况"
 
-    # old "Ask about Rahim's Request"
-    # new "询问还有什么能帮忙的"
+    old "Ask about Rahim's Request"
+    new "询问还有什么能帮忙的"
 
-    # old "Report about his flowers"
-    # new "报告花束采集的情况"
+    old "Report about his flowers"
+    new "报告花束采集的情况"
 
     old "Finishing Postal Training"
     new "报告差客培训的完成情况"
@@ -6922,7 +6922,7 @@ translate schinese strings:
     old "Ask about his new outfit design"
     new "询问对自己手艺的评价"
 
-    old "Report to Rahim"
+    old "Report to Rahim{#OutfitReport}"
     new "回报新衣服的反响"
 
     old "Deliver the Letter from Furkan"
@@ -7057,6 +7057,337 @@ translate schinese Rahim_Leather_Armor_d1f01bcf:
 
     # e "Bye, Rahim!"
     e "雷叔再见！"
+
+translate schinese Rahim_Flower_Quest_Finish_36648b62:
+
+    # e "Rahim, I got the mums for you."
+    e "我把花给你带来了，雷叔。"
+
+translate schinese Rahim_Flower_Quest_Finish_fb80da26:
+
+    # "For a moment, you swear you could see a smile on Rahim's face."
+    "有那么一瞬间，他一向冷峻的脸庞竟然露出了笑容。"
+
+translate schinese Rahim_Flower_Quest_Finish_99bd4d8f:
+
+    # "But it disappears quickly."
+    "但很快又消失了。"
+
+translate schinese Rahim_Flower_Quest_Finish_98355ecf:
+
+    # "Rahim takes the flowers from you."
+    "雷希姆从你手中接过花束。"
+
+translate schinese Rahim_Flower_Quest_Finish_affc52c4:
+
+    # r "Thanks."
+    r "谢了。"
+
+translate schinese Rahim_Flower_Quest_Finish_97fc134c:
+
+    # "He grunts as he passes you 75 gold."
+    "他闷哼一声，递给你75枚金币。"
+
+translate schinese Rahim_Flower_Quest_Finish_06d40729:
+
+    # "He looks at the flowers and his expression dims."
+    pass
+
+translate schinese Rahim_Flower_Quest_Finish_b9b755e5:
+
+    # r "..."
+    r "……"
+    "他出神地盯着手中的花束，面目黯然。"
+
+translate schinese Rahim_Flower_Quest_Finish_9b95a411:
+
+    # e "Is there anything wrong, Rahim?"
+    e "有什么不对劲吗？"
+
+translate schinese Rahim_Flower_Quest_Finish_39fe80c5:
+
+    # "Rahim looks at you with temporary blankness."
+    "雷希姆抬头茫然地看着你，很快又回过神来。"
+
+translate schinese Rahim_Flower_Quest_Finish_87460fa3:
+
+    # "Then, he snaps back to attention."
+    pass
+
+translate schinese Rahim_Flower_Quest_Finish_4959ac1a:
+
+    # r "No. It's the flowers..."
+    r "不，是这些花……"
+
+translate schinese Rahim_Flower_Quest_Finish_a5014ba1:
+
+    # e "Did I get the wrong ones? I'm sorry."
+    e "是我摘错了吗？对不起。"
+
+translate schinese Rahim_Flower_Quest_Finish_ee92f869:
+
+    # r "No. They're my daughter's favorite flowers."
+    r "不，这些就是我女儿最喜欢的花。"
+
+translate schinese Rahim_Flower_Quest_Finish_6da134d3:
+
+    # r "Today is her death anniversary."
+    r "今天是她的忌日。"
+
+translate schinese Rahim_Flower_Quest_Finish_b481cc8e:
+
+    # "Rahim's tough shell breaks a little."
+    "老公牛强悍的外表有些动摇。"
+
+translate schinese Rahim_Flower_Quest_Finish_1a2f681d:
+
+    # r "That's why I sent you to get these."
+    r "所以才让你去摘这些花。"
+
+translate schinese Rahim_Flower_Quest_Finish_6f54ccdd:
+
+    # r "I'll bring them to her later. She'll love these."
+    r "我待会会把它们带去给她，她一定会喜欢的。"
+
+translate schinese Rahim_Flower_Quest_Finish_cdbff688:
+
+    # e "I'm sorry."
+    e "抱歉。"
+
+translate schinese Rahim_Flower_Quest_Finish_4489ad32:
+
+    # r "Why should you be?"
+    r "你为什么要道歉？"
+
+translate schinese Rahim_Flower_Quest_Finish_fe6e9d1c:
+
+    # "Rahim's grip on the flowers tightened."
+    "雷希姆收紧握着花束的手。"
+
+translate schinese Rahim_Flower_Quest_Finish_dcaa5e6a:
+
+    # r "You're not the reason why she's not with us anymore."
+    r "你又不是害死我女儿的人。"
+
+translate schinese Rahim_Flower_Quest_Finish_7de53890:
+
+    # "Rage radiates off Rahim."
+    "雷希姆顿时火冒三丈，五指就快折断你采来的花了。"
+
+translate schinese Rahim_Flower_Quest_Finish_a202f14b:
+
+    # "He's about to break the chrysanthemums you've picked."
+    pass
+
+translate schinese Rahim_Flower_Quest_Finish_83bd329d:
+
+    # "Looking at the mums, Rahim slowly calms down."
+    "看见脚边飘落的花瓣，他渐渐平静下来。"
+
+translate schinese Rahim_Flower_Quest_Finish_eabe296c:
+
+    # r "I'm not sure how are you getting on with the goats but remember this."
+    r "我不知道你和那群山羊是怎么相处的，但请你记住——"
+
+translate schinese Rahim_Flower_Quest_Finish_35ee51db:
+
+    # r "They've slaughtered some of us mercilessly."
+    r "他们无情地屠杀了我们的人。"
+
+translate schinese Rahim_Flower_Quest_Finish_e4634e29:
+
+    # "You get closer to Rahim and put your hand on his palm, and he looks away."
+    "你走近雷希姆握住这位老父亲的手背，他则扭头撇向别处。"
+
+translate schinese Rahim_Flower_Quest_Finish_e5a9282e:
+
+    # "You decide to stay silent for the moment."
+    "你决定暂时保持沉默。"
+
+translate schinese Rahim_Flower_Quest_Finish_29bb1e42:
+
+    # "For a few minutes, both of you didn't move. Only a brief whistling of the wind can be heard through the shop."
+    "接下来的几分钟，你们俩只是静静聆听着风吹过商店的呼啸声，没有其他的动作。"
+
+translate schinese Rahim_Flower_Quest_Finish_d3962269:
+
+    # "You stares at Rahim, he is still holding onto the chrysanthemums tightly, and holding back the tear from his eyes."
+    "你注视着他的侧脸。雷希姆依然紧握着花束，眼眶中闪烁着泪光。"
+
+translate schinese Rahim_Flower_Quest_Finish_8d94f27a:
+
+    # "Rahim sniffs and looks back at you."
+    "过了一会，他抽抽鼻子转头看向你。"
+
+translate schinese Rahim_Flower_Quest_Finish_3ca02f1b:
+
+    # r "I can't move on."
+    r "我不能释怀。"
+
+translate schinese Rahim_Flower_Quest_Finish_abf8003d:
+
+    # "The bull flings your hand away, and resume to his work with the clothes."
+    "雷希姆甩开你的手，继续操起针线缝制衣物。"
+
+translate schinese Rahim_Flower_Quest_Finish_17e41370:
+
+    # "You stares at the working bull. He is already back at focusing on the thin threads."
+    "你看着专心工作的牛裁缝，他又回到了缝纫的世界里。"
+
+translate schinese Rahim_Flower_Quest_Finish_9a0fff0f:
+
+    # "And the chrysanthemums were left on the table."
+    "淡黄的菊花静静地躺在桌上。对方的反应让你有些破灭感。"
+
+translate schinese Rahim_Flower_Quest_Finish_7057d5df:
+
+    # "His response left you disappointed... but when you stare at his eyes. You noticed that something has changed."
+    pass
+
+translate schinese Rahim_Flower_Quest_Finish_4431e162:
+
+    # "Maybe it's the anger inside him, maybe it's the grieve and regret."
+    "当你凝视他的双眼时，看到的或许是愤怒，又或许是悲伤和悔恨。而你发现其中有了一些变化。"
+
+translate schinese Rahim_Flower_Quest_Finish_10a8fe8e:
+
+    # "You can't decide if it's for the better or worse, but there's a sliver of hope you still hold onto for him."
+    "你不知这样的发展是好是坏，但对于他你仍抱有一丝希望。"
+
+translate schinese Rahim_Flower_Quest_Begin_05b47ee5:
+
+    # e "Hey, Rahim, is there anything you need?"
+    e "我想来看看你有什么需要帮忙的？"
+
+translate schinese Rahim_Flower_Quest_Begin_d95be2f8:
+
+    # r "I hear that you're getting chummy with the goats."
+    r "听说你最近和山羊部落混得挺熟。"
+
+translate schinese Rahim_Flower_Quest_Begin_e3ad01fd:
+
+    # "Rahim levels you with a disapproving gaze."
+    "威严的老公牛盯着你，露出不屑的目光。你有点被吓到了。"
+
+translate schinese Rahim_Flower_Quest_Begin_d92536ca:
+
+    # "You feel cowed."
+    pass
+
+translate schinese Rahim_Flower_Quest_Begin_d899524e:
+
+    # e "Erm... Not technically... It's more like they tolerate my presence as a courier."
+    e "呃……也不算混熟啦……他们只是把我当信使，勉强容忍我出现在他们面前而已。"
+
+translate schinese Rahim_Flower_Quest_Begin_c72361db:
+
+    # "Rahim nods pensively. After some time, he continues."
+    "雷希姆若有所思地点点头，过了一会儿，他继续说道："
+
+translate schinese Rahim_Flower_Quest_Begin_01a4897e:
+
+    # r "Lusterfield was once close to the goats too... And see where it got us."
+    r "乐村从前也和山羊部落走得很近……看看最后我们落得什么下场。"
+
+translate schinese Rahim_Flower_Quest_Begin_67b55f38:
+
+    # "There is a hint of melancholy and sadness in Rahim's voice."
+    "他的声音中带着淡淡的忧郁和感伤。"
+
+translate schinese Rahim_Flower_Quest_Begin_2b8ba18a:
+
+    # "You do not know how to respond. Thankfully, Rahim picks up the thread of conversation."
+    "你不知道该说什么好，幸好他接着说了下去。"
+
+translate schinese Rahim_Flower_Quest_Begin_6215179c:
+
+    # r "Look behind your back when you're around them."
+    r "不要忘记时刻提防那群山羊。"
+
+translate schinese Rahim_Flower_Quest_Begin_cdf44713:
+
+    # e "I don't think they..."
+    e "我觉得他们应该不会——"
+
+translate schinese Rahim_Flower_Quest_Begin_71365e1b:
+
+    # r "You were not here."
+    r "当时你又不在这里。"
+
+translate schinese Rahim_Flower_Quest_Begin_ea847213:
+
+    # "Rahim huffs."
+    "雷希姆哼了一声。"
+
+translate schinese Rahim_Flower_Quest_Begin_80398a9b:
+
+    # r "That's beside the point. Sorry for being emotional. I need something from you."
+    r "不谈这个了。抱歉刚刚有点激动。我想请你帮个忙。"
+
+translate schinese Rahim_Flower_Quest_Begin_7be17a49:
+
+    # "You're glad for the topic change. You had a feeling Rahim was close to exploding earlier."
+    "雷希姆主动转移话题，你心中大舒一口气。感觉他差点就要爆发了。"
+
+translate schinese Rahim_Flower_Quest_Begin_73a84d3c:
+
+    # e "What do you need, Rahim?"
+    e "是什么忙呢？"
+
+translate schinese Rahim_Flower_Quest_Begin_62fdea28:
+
+    # r "I need you to go to the outpost near the goat tribe to collect 4 bunches of chrysanthemum for me."
+    r "我想你帮我去山羊部落附近的前哨站，采四束菊花回来。"
+
+translate schinese Rahim_Flower_Quest_Begin_d14f4c16:
+
+    # "You are confused."
+    "你有点不明白。"
+
+translate schinese Rahim_Flower_Quest_Begin_b04176e4:
+
+    # e "Chrysanthemum? Why?"
+    e "菊花？用来做什么？"
+
+translate schinese Rahim_Flower_Quest_Begin_ed339701:
+
+    # e "Sounds like I've heard it somewhere..."
+    e "好像之前听说过这个名字……"
+
+translate schinese Rahim_Flower_Quest_Begin_a786fcb9:
+
+    # r "I need it for a garment."
+    r "用来做衣服。"
+
+translate schinese Rahim_Flower_Quest_Begin_37987627:
+
+    # "Rahim grunts but you have a feeling there's more to this."
+    "雷希姆咕哝了一声，但你觉得这其中另有隐情。"
+
+translate schinese Rahim_Flower_Quest_Begin_c17b6df7:
+
+    # e "But aren't there flowers around Lusterfield?"
+    e "这种花村子周围没有长吗？"
+
+translate schinese Rahim_Flower_Quest_Begin_ac5119fb:
+
+    # r "This one only grows near the goats."
+    r "它们只长在山羊部落附近。"
+
+translate schinese Rahim_Flower_Quest_Begin_dd526913:
+
+    # r "I'm not sending any other Lusterfolks to go there lest I put them in danger. So you're the perfect candidate."
+    r "我不能派其他村民去冒险，所以你正好合适。"
+
+translate schinese Rahim_Flower_Quest_Begin_4cb5765c:
+
+    # e "Okay..."
+    e "好的……"
+
+translate schinese Rahim_Flower_Quest_Begin_102a403a:
+
+    # r "If you run into any goats, just tell them you're foraging. Now, get going."
+    r "假如遇到那群山羊，就告诉他们你在采花。就这么简单，快去吧。"
 
 translate schinese Rahim_Ask_Opinion_Goat_Tribe_d86303de:
 

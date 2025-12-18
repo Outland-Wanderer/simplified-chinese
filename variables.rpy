@@ -1298,11 +1298,17 @@ translate schinese strings:
     old "Craft 2 cheap pillows"
     new "制造 2 个劣质枕头"
 
-    # old "Seasons of Blossom" #19
-    # new "又到一年花开时"
+    old "Seasons of Blossom" #19
+    new "又到一年花开时"
 
-    # old "Rahim asked me to bring 4 bunches of chrysanthemums for him. I should look around the outpost."
-    # new "雷希姆想让我采 4 束菊花给他。我得去林地前哨站附近找找。"
+    old "Rahim asked me to bring 4 bunches of chrysanthemums for him. I should look around the outpost."
+    new "雷希姆想让我采 4 束菊花给他。我得去林地前哨站附近找找。"
+
+    old "Collect 4 chrysanthemums from the Outpost"
+    new "从林地前哨站收集 4 束菊花"
+
+    old "Report to Rahim{#FlowerReport}"
+    new "将花给到雷希姆"
 
     # old "The Wolf at the Door" #20
     # new "门外有狼"

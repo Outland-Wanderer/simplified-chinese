@@ -488,6 +488,670 @@ translate schinese Furkan_Ask_Goat_Tribe_e54fa2db:
     # e "...I understand."
     e "……我明白了。"
 
+translate schinese Furkan_Meet_Flower_9f459336:
+
+    # f "Courier, what are you doing here?"
+    f "[e]，别来无恙。你在这里做什么？"
+
+translate schinese Furkan_Meet_Flower_2191ddfc:
+
+    # "A voice suddenly appears behind you. You turn around and are greeted by Furkan's inquisitive gaze."
+    "寂静的林地传出一道柔声的问候。你转过身，对上弗坎好奇的目光。"
+
+translate schinese Furkan_Meet_Flower_9a4a72ab:
+
+    # "You ponder what to do."
+    "你极速思索着要怎么回答。"
+
+translate schinese Furkan_Meet_Flower_f1d595d2:
+
+    # e "U-uh..."
+    e "我呃……"
+
+translate schinese Furkan_Meet_Flower_1c20429a:
+
+    # f "What are you doing in the outpost?" nointeract
+    f "嗯哼？" nointeract
+
+translate schinese strings:
+
+    old "Tell Furkan about Rahim's flower"
+    new "如实告诉"
+
+    old "Lie to Furkan"
+    new "撒个小谎"
+
+translate schinese Furkan_Meet_Flower_64d6fd6f:
+
+    # e "I'm here on Rahim's behest to collect a special kind of flower."
+    e "雷希姆托我来这里摘一种特殊的花。"
+
+translate schinese Furkan_Meet_Flower_b852df63:
+
+    # "Furkan is clearly taken aback by your honesty."
+    "弗坎显然对你的坦诚大吃一惊。"
+
+translate schinese Furkan_Meet_Flower_7f1f4bf9:
+
+    # f "I am sure the bull would never have wanted you to tell me that."
+    f "我敢肯定那头老牛绝不想我知道这件事。"
+
+translate schinese Furkan_Meet_Flower_51ba7498:
+
+    # f "But I am thankful that you did."
+    f "但谢谢你还是告诉了我。"
+
+translate schinese Furkan_Meet_Flower_0c4dff3f:
+
+    # "Seeing the smile on Furkan's face, you believe you've made the right choice."
+    "看见弗坎脸上的笑容，你相信自己做了正确的选择。"
+
+translate schinese Furkan_Meet_Flower_d025e883:
+
+    # f "Come, I will help you. The flower that you are looking for is native to the land around the tribe."
+    f "你要找的花只在我们部落附近有。来，我带你去。"
+
+translate schinese Furkan_Meet_Flower_b953fdd4:
+
+    # f "I will lead you there."
+    pass
+
+translate schinese Furkan_Meet_Flower_9f7a838f:
+
+    # "Furkan waves at you and you follow him through the woods."
+    "弗坎朝你挥挥手，你便跟着他穿过了树林。"
+
+translate schinese Furkan_Meet_Flower_adf82238:
+
+    # e "I'm just here foraging."
+    e "我就来采摘一些东西。"
+
+translate schinese Furkan_Meet_Flower_7396dacc:
+
+    # "Furkan narrows his eyes at you. You sweat nervously but try to look calm on the surface."
+    "弗坎微微眯起眼睛。你紧张得有些冒汗，努力至少在表面上不漏声色。"
+
+translate schinese Furkan_Meet_Flower_3e8c84e5:
+
+    # "Eventually, Furkan breaks into a small smile."
+    "最终，他摆出一道微笑。"
+
+translate schinese Furkan_Meet_Flower_1b7b515c:
+
+    # f "If you say so."
+    f "好的。"
+
+translate schinese Furkan_Meet_Flower_6186867a:
+
+    # "You nod."
+    "你顺势点头。"
+
+translate schinese Furkan_Meet_Flower_385c0737:
+
+    # f "Can you tell me what you are foraging for?"
+    f "那能告诉我你想采摘什么吗？"
+
+translate schinese Furkan_Meet_Flower_e42aa7d0:
+
+    # "You ponder whether to tell him about the flower when Furkan continues."
+    "你正犹豫要不要告诉他花的事，弗坎继续说道："
+
+translate schinese Furkan_Meet_Flower_4759947f:
+
+    # f "Perchance it is a flower that only grows around the tribe?"
+    f "难道是一种只在我们部落附近生长的花？"
+
+translate schinese Furkan_Meet_Flower_fe1957e0:
+
+    # "Furkan shoots you a knowing smile. You can't help but see the disappointment in his eyes."
+    "弗坎朝你投来心照不宣的笑容，但你不难看出他眼中的失望。"
+
+translate schinese Furkan_Meet_Flower_14ecafde:
+
+    # e "Erm... Yes..."
+    e "呃嗯……是的……"
+
+translate schinese Furkan_Meet_Flower_5666b9a6:
+
+    # f "The flower is the only unique thing growing around this area. I doubt you would be foraging for anything else."
+    f "除了那种花，这里也没有什么特别的东西，其他常见的花草则不必大老远跑来这里找。"
+
+translate schinese Furkan_Meet_Flower_65cfbf14:
+
+    # f "Come with me. I will lead you to the flower bushes."
+    f "跟我来，我带你去花丛那儿。"
+
+translate schinese Furkan_Meet_Flower_9f7a838f_1:
+
+    # "Furkan waves at you and you follow him through the woods."
+    "弗坎朝你挥挥手，你便跟着他穿过了树林。"
+
+translate schinese Furkan_Meet_Flower_c86fda0e:
+
+    # "As you walk into the clearing, you take in a surprised gasp."
+    "很快你们走进了一片林中空地，眼前的景象令你惊讶得倒吸一口气。"
+
+translate schinese Furkan_Meet_Flower_1ad421c5:
+
+    # "Furkan smiles at your reaction."
+    "弗坎见你如此反应，脸上很是神气。"
+
+translate schinese Furkan_Meet_Flower_57358218:
+
+    # f "Amazing sight, is it not?"
+    f "美极了，对吧？"
+
+translate schinese Furkan_Meet_Flower_93124f98:
+
+    # "You can only nod."
+    "你一时想不出怎么表述，只能点点头。"
+
+translate schinese Furkan_Meet_Flower_57a69ec8:
+
+    # "The clearing is covered in vibrant flower bushes. The flowers look like little balls of sunburst."
+    "翠绿的草地上长满了生机勃勃的黄色花丛，看起来就像一团团小太阳。散发出令人十分放松的清香。"
+
+translate schinese Furkan_Meet_Flower_689bc226:
+
+    # "They give off a very relaxing fragrance."
+    pass
+
+translate schinese Furkan_Meet_Flower_e4e21ec1:
+
+    # e "What are these..."
+    e "这些是……"
+
+translate schinese Furkan_Meet_Flower_9f8afdb5:
+
+    # f "They are called mums. We use them in poultices to help with swelling, cold, fever and so on. They are also great decorative plant."
+    f "这些叫做菊花。可以用来制作敷料，治疗肿胀、感冒、发烧等等。同时它们也是很棒的观赏植物。"
+
+translate schinese Furkan_Meet_Flower_bed71e3a:
+
+    # f "You are here for them, are you not? Better get picking then."
+    f "你就是来采它们的不是吗？可别光顾着欣赏咯。"
+
+translate schinese Furkan_Meet_Flower_91572878:
+
+    # e "I think Haskell taught me to come to this place as well."
+    e "我记得哈斯克尔也提过这里。"
+
+translate schinese Furkan_Meet_Flower_df39c768:
+
+    # f "The old dragon and his love for flowers... But I can still help you harvest these beautiful mums."
+    f "那头爱花的老龙……要不我帮你一起摘这些美丽的菊花吧。"
+
+translate schinese Furkan_Meet_Flower_21dfb209:
+
+    # "Furkan teaches you how to harvest the flowers. With his help, you soon have a bag full of them."
+    "弗坎教会你一些采摘花朵的技巧。在他的帮助下，你很快就采满了一袋。"
+
+translate schinese Furkan_Meet_Flower_1df5dbd0:
+
+    # "Then, something comes to you."
+    "忽然你想起了什么。"
+
+translate schinese Furkan_Meet_Flower_c40670e3:
+
+    # e "Furkan, shouldn't you be back at the tribe? How could you have time to help me with this? I shouldn't have taken up so much of your time."
+    e "弗坎，你不是在部落里忙着吗？怎么会有时间帮我采花？我不该耽误你这么多时间的。"
+
+translate schinese Furkan_Meet_Flower_f9e23f89:
+
+    # "Furkan just smiles."
+    "弗坎听完只是笑了笑。"
+
+translate schinese Furkan_Meet_Flower_02ce7ad8:
+
+    # f "Even the chief needs a break once in a while. This is just what I needed."
+    f "即使是族长也要偶尔休息一下。和你一起采花正好。"
+
+translate schinese Furkan_Meet_Flower_2b5df11e:
+
+    # "There is a faraway look in his eyes."
+    "年轻的羊族族长朝花海望去。"
+
+translate schinese Furkan_Meet_Flower_999507a1:
+
+    # f "I have plenty of memories here."
+    f "这里让我回忆起很多往事。"
+
+translate schinese Furkan_Meet_Flower_46012649:
+
+    # f "When Kari and I were young, we would hide among the bushes and play hide and seek."
+    f "我和卡里小时候经常躲在这些花丛里玩捉迷藏。"
+
+translate schinese Furkan_Meet_Flower_b0de7255:
+
+    # f "Cannot remember the last time we did anything remotely like that."
+    f "记不清上次我和他像那样玩耍是什么时候了。"
+
+translate schinese Furkan_Meet_Flower_777bb660:
+
+    # e "Furkan..."
+    e "弗坎……"
+
+translate schinese Furkan_Meet_Flower_490c0458:
+
+    # f "It is part of growing up, just did not expect now that we're both ruling over a tribe."
+    f "长大成人便是如此，只是没想到我们现在都成了部落的领袖。"
+
+translate schinese Furkan_Meet_Flower_3ec57d49:
+
+    # f "..."
+    f "……"
+
+translate schinese Furkan_Meet_Flower_3420193f:
+
+    # "Furkan changes his tone to something lighter."
+    pass
+
+translate schinese Furkan_Meet_Flower_5a045dfa:
+
+    # f "Speaking of the general, thank you for saving me last time."
+    f "说起卡里，那天谢谢你救了我。"
+    "弗坎的语气变得轻快些许。"
+
+translate schinese Furkan_Meet_Flower_883d47f8:
+
+    # e "That was nothing."
+    e "那没什么的。"
+
+translate schinese Furkan_Meet_Flower_a4a5ea14:
+
+    # f "Though, I would have preferred if you have handled the encounter with Kari non-confrontationally."
+    f "不过，我更希望你能用非对抗的方式解决和卡里的冲突。"
+
+translate schinese Furkan_Meet_Flower_904a8994:
+
+    # f "Steps towards truce will be hard if every go-to solution is violence."
+    f "倘若每次冲突都以暴力收场，迈向和解的道路将艰难无比。"
+
+translate schinese Furkan_Meet_Flower_cc6934a1:
+
+    # e "I didn't mean to. I tried to explain myself but they attacked."
+    e "我不是故意的。当时我想解释清楚，但他们要先动手。"
+
+translate schinese Furkan_Meet_Flower_009fd39c:
+
+    # f "And I wish to apologize to you on their behalf. They were too worried to be thinking clearly."
+    f "因此我希望能替他们向你道歉。他们当时被忧虑蒙蔽了头脑，没法冷静思考。"
+
+translate schinese Furkan_Meet_Flower_8b500cfe:
+
+    # f "Thankfully, no one got seriously injured."
+    f "幸好没有谁受重伤。"
+
+translate schinese Furkan_Meet_Flower_12f97466:
+
+    # "Furkan gives you a reassuring smile."
+    "弗坎诚恳地看着你，露出令人宽慰的微笑。"
+
+translate schinese Furkan_Meet_Flower_e936a061:
+
+    # e "And I'm sorry too."
+    e "我也很抱歉。"
+
+translate schinese Furkan_Meet_Flower_326d57d8:
+
+    # f "Appreciate it."
+    f "谢谢你。"
+
+translate schinese Furkan_Meet_Flower_1839735a:
+
+    # f "However, you might be getting some attitude from Kari."
+    f "只是，卡里可能还会对你有些意见。"
+
+translate schinese Furkan_Meet_Flower_1ea97b2d:
+
+    # e "Why?"
+    e "为什么？"
+
+translate schinese Furkan_Meet_Flower_f55cf9e9:
+
+    # f "The man does not wear his emotions on his sleeves but I have known him since he was a wee fawn."
+    f "那家伙不善于表露情感，从小就这样。"
+
+translate schinese Furkan_Meet_Flower_004ebaf5:
+
+    # f "His loss at your hands bothers him. Granted, he was not at his strongest at that moment in time."
+    f "败给了你他肯定耿耿于怀。诚然，那时他并没有发挥出全部实力。"
+
+translate schinese Furkan_Meet_Flower_e25a33de:
+
+    # f "But he prides himself on being the strongest fighter in the tribe... the loss of magic here hit him hard."
+    f "他一向以自己是部落中最强的战士为傲……用不了法术对他打击很大。"
+
+translate schinese Furkan_Meet_Flower_4116d77d:
+
+    # e "What can I do then?"
+    e "有什么我能帮上忙的吗？"
+
+translate schinese Furkan_Meet_Flower_a99b297c:
+
+    # "Furkan shakes his head with a smile."
+    "对方笑着摇了摇头。"
+
+translate schinese Furkan_Meet_Flower_9dda09b4:
+
+    # f "It is not what you need to do but what he needs to do."
+    f "这个心结不该由你解，得他自己想开。"
+
+translate schinese Furkan_Meet_Flower_da92c0d9:
+
+    # f "I would advise him to let it go but I know he is too stubborn for it."
+    f "我本来想劝他释怀，但我知道他太固执了。"
+
+translate schinese Furkan_Meet_Flower_57572bb3:
+
+    # f "...in truth, he was disappointed that he was not in the cave."
+    f "……说实话，他更失望的是自己没能去洞穴里救我。"
+
+translate schinese Furkan_Meet_Flower_1518291e:
+
+    # e "Alright... I'll be careful next time."
+    e "啊……我以后会多加小心的。"
+
+translate schinese Furkan_Meet_Flower_ec281920:
+
+    # f "I heard about your fight with Kari."
+    f "你和卡里打起来的事我听说了。"
+
+translate schinese Furkan_Meet_Flower_b360207e:
+
+    # "Your face blushes thinking back to that defeat."
+    "想起那次被落败的经历，你不禁羞得脸红了。"
+
+translate schinese Furkan_Meet_Flower_0dd6c55c:
+
+    # e "I..."
+    e "我……"
+
+translate schinese Furkan_Meet_Flower_f19ed38e:
+
+    # "Furkan's tone turns serious."
+    "弗坎的语气变得严肃起来。"
+
+translate schinese Furkan_Meet_Flower_42a30ca9:
+
+    # f "You're lucky that we are not out to kill."
+    f "你要庆幸我们不是爱好杀戮的族群。"
+
+translate schinese Furkan_Meet_Flower_37094268:
+
+    # f "Well, maybe not Kari."
+    f "呃，也许卡里例外。"
+
+translate schinese Furkan_Meet_Flower_c8d0b9e8:
+
+    # f "Not everyone in the world will be as merciful."
+    f "总之世上并非人人都如此仁慈。"
+
+translate schinese Furkan_Meet_Flower_b647f53c:
+
+    # f "You need to toughen up."
+    f "你得变得更强。"
+
+translate schinese Furkan_Meet_Flower_1fc00be2:
+
+    # e "I will."
+    e "我会的。"
+
+translate schinese Furkan_Meet_Flower_750afe80:
+
+    # f "Good. Kari would agree with me."
+    f "很好，卡里也是这么想的。他说你很有潜力。"
+
+translate schinese Furkan_Meet_Flower_37708619:
+
+    # f "He mentioned seeing the potential in you."
+    pass
+
+translate schinese Furkan_Meet_Flower_26d47a8b:
+
+    # e "Did he?"
+    e "是吗？"
+
+translate schinese Furkan_Meet_Flower_1b4d3091:
+
+    # f "Yes, and he is rarely wrong with his appraisal."
+    f "是的，他对人的评价很少出错。"
+
+translate schinese Furkan_Meet_Flower_d66bbe98:
+
+    # f "So train harder. The world is a dangerous place."
+    f "所以要更加努力地训练。这个世界很危险。"
+
+translate schinese Furkan_Meet_Flower_8d7d00d5:
+
+    # e "Thank you for the concern, Furkan."
+    e "谢谢你关心我。"
+
+translate schinese Furkan_Meet_Flower_34bef44c:
+
+    # f "But who am I to talk to you about fights and conflicts considering all the harm the tribe has done to Lusterfield."
+    f "但考虑到我们给乐斯民菲尔德造成的伤害，我又有什么资格跟你谈论打斗与争端呢。"
+
+translate schinese Furkan_Meet_Flower_b03a33c7:
+
+    # "You see a regretful twinge in Furkan's smile."
+    "他苦涩的笑容中带着一丝悔恨。"
+
+translate schinese Furkan_Meet_Flower_0383c348:
+
+    # e "I'm sure you didn't mean for it to happen."
+    e "你也不想让那些事发生的。"
+
+translate schinese Furkan_Meet_Flower_1150de86:
+
+    # f "That is nice of you to say but a war is a war. People got blinded by emotions."
+    f "谢谢你这么善解人意。但战争就是战争，人们总会被情绪蒙蔽双眼。"
+
+translate schinese Furkan_Meet_Flower_dae2f07e:
+
+    # f "I was not there, does not mean I did not make it happen."
+    f "我虽然不在现场，但并不代表我能摆脱干系。"
+
+translate schinese Furkan_Meet_Flower_2486aec9:
+
+    # f "Kari could have kidnapped you to torture for information just because he was worried about me."
+    f "出于对我的担忧，卡里甚至可能会把你关起来折磨你，直到获知他想要的信息。"
+
+translate schinese Furkan_Meet_Flower_99e801f0:
+
+    # f "The same could be said of that war."
+    f "而那场战争的导火索大抵也是如此。"
+
+translate schinese Furkan_Meet_Flower_3529f1ae:
+
+    # f "My people were out for revenge. A life for a life."
+    f "我的族人渴望报仇，以命抵命，杀一个算一个。"
+
+translate schinese Furkan_Meet_Flower_c93dcf71:
+
+    # f "We killed many and many were killed."
+    f "我们杀了很多人，也有很多人被杀。"
+
+translate schinese Furkan_Meet_Flower_9dfae6ff:
+
+    # "Furkan slides into silence."
+    "弗坎陷入了沉默，你则静静地陪伴在他身旁。"
+
+translate schinese Furkan_Meet_Flower_760387ee:
+
+    # "You just stay by his side quietly."
+    pass
+
+translate schinese Furkan_Meet_Flower_83797185:
+
+    # f "Was it worth?"
+    f "这一切值得吗？"
+
+translate schinese Furkan_Meet_Flower_e950c8a9:
+
+    # f "Families were left scattered, including my own."
+    f "无数家庭支离破碎，我的也不例外。"
+
+translate schinese Furkan_Meet_Flower_4ad06120:
+
+    # f "Just because we were all blinded by a temporary emotion."
+    f "只因为我们都被一时的情绪蒙蔽了双眼。"
+
+translate schinese Furkan_Meet_Flower_866e1e57:
+
+    # f "As the chief, that is just the ghost that stays with me to my grave."
+    f "作为族长，这层厚厚的阴霾将随我终老。"
+
+translate schinese Furkan_Meet_Flower_777bb660_1:
+
+    # e "Furkan..."
+    e "……"
+
+translate schinese Furkan_Meet_Flower_2685deec:
+
+    # "You give him a comforting touch."
+    "你轻轻摸了摸他的后背以示安慰。"
+
+translate schinese Furkan_Meet_Flower_099b5725:
+
+    # e "At least you are trying to fix it now."
+    e "至少你现在正在努力弥补。"
+
+translate schinese Furkan_Meet_Flower_7198e351:
+
+    # f "I do not think something like that can ever be fixed but I shall try my best."
+    f "那样惨痛的伤痕永远无法愈合如初，但我会尽力而为。"
+
+translate schinese Furkan_Meet_Flower_9bb13b8a:
+
+    # f "But, that should not be something you need to worry about. But I am thankful that you allow me to get that out of my chest."
+    f "不过，这些不该是你需要操心的事。谢谢你愿意听我把这些话说出来。"
+
+translate schinese Furkan_Meet_Flower_d2b2d8c6:
+
+    # e "Anytime, Furkan."
+    e "不用这么客气，随时我都可以听你讲。"
+
+translate schinese Furkan_Meet_Flower_293a7e61:
+
+    # f "I'm very impressed with how you've handled the encounter with Kari and the guards."
+    f "不得不说，你在处理同卡里和门卫的冲突时表现得很出色。"
+
+translate schinese Furkan_Meet_Flower_98fa2410:
+
+    # "You blush at the compliment."
+    "这番赞美令你不禁脸红了。"
+
+translate schinese Furkan_Meet_Flower_183f44c9:
+
+    # e "I merely did what everyone would have done."
+    e "我只是做了大家都会做的事。"
+
+translate schinese Furkan_Meet_Flower_deb8bb58:
+
+    # f "That's not true. Not everyone can keep an open and rational mind at moments like that."
+    f "事实并非如此。不是每个人在那种情况下都能保持冷静的头脑和愿意倾听的态度。"
+
+translate schinese Furkan_Meet_Flower_2d7004d7:
+
+    # "You have a feeling Furkan is talking more than just the encounter you had with Kari."
+    "你隐约觉得弗坎说的并不仅仅是你和卡里的冲突。"
+
+translate schinese Furkan_Meet_Flower_f0e140a2:
+
+    # f "Emotions get the better of people."
+    f "情绪常常会控制人们的行为。"
+
+translate schinese Furkan_Meet_Flower_12846717:
+
+    # f "Sometimes, they'd rather fight than talk."
+    f "有时候，人们宁愿选择打一架也不愿意坐下来好好谈一谈。"
+
+translate schinese Furkan_Meet_Flower_3a15838f:
+
+    # "Furkan sighs."
+    "弗坎叹了口气。"
+
+translate schinese Furkan_Meet_Flower_6316c11a:
+
+    # e "I'm sure things will turn out for the better."
+    e "我相信事情会朝着好的方向发展的。"
+
+translate schinese Furkan_Meet_Flower_b2f23908:
+
+    # f "Hope so. Cause what's the alternative?"
+    f "希望如此。毕竟我们还有别的选择吗？"
+
+translate schinese Furkan_Meet_Flower_65ef0dc2:
+
+    # "Furkan gestures around him."
+    "弗坎张开双臂抛向四周。"
+
+translate schinese Furkan_Meet_Flower_b2dbbcab:
+
+    # f "Look around us."
+    f "看看我们周围。"
+
+translate schinese Furkan_Meet_Flower_acdc4d16:
+
+    # "You do and are confused. The field is beautiful but that's about it."
+    "你照做了。这里的景色确实很美，但也就仅此而已。"
+
+translate schinese Furkan_Meet_Flower_59ee44dc:
+
+    # e "Yes, the flowers are gorgeous."
+    e "这些花真漂亮。"
+
+translate schinese Furkan_Meet_Flower_12d23130:
+
+    # f "But no one is here to appreciate them."
+    f "可是没有人来欣赏它们。"
+
+translate schinese Furkan_Meet_Flower_72a5daad:
+
+    # f "In the past, this place would be roaming with people from the tribe and Lusterfield, just enjoying their day in the sun."
+    f "过去，这里总有来自两个聚落的人们在此游玩，享受阳光明媚的日子。"
+
+translate schinese Furkan_Meet_Flower_8948316c:
+
+    # f "But now, nothing."
+    f "可现在，空无一人。"
+
+translate schinese Furkan_Meet_Flower_75f1f519:
+
+    # f "The Lusterfolks does not come here after the war, and without support, our people have to retreat from the buggbears as well."
+    f "战争之后，乐村的人们不再来这里了。没有他们的支援，我的族人也因为熊地精的威胁不得不躲回山上。"
+
+translate schinese Furkan_Meet_Flower_777bb660_2:
+
+    # e "Furkan..."
+    e "弗坎……"
+
+translate schinese Furkan_Meet_Flower_5937009a:
+
+    # "Furkan shakes his head and picks himself up."
+    "他摇摇头，站直了身子。"
+
+translate schinese Furkan_Meet_Flower_b8b37730:
+
+    # f "Sorry about that. Being here brings back many memories from the past."
+    f "抱歉，来到这里让我回想起很多往事。"
+
+translate schinese Furkan_Meet_Flower_cdbff688:
+
+    # e "I'm sorry."
+    e "对不起。"
+
+translate schinese Furkan_Meet_Flower_916f8424:
+
+    # f "No need to apologize. I am glad to be back here and make new memory with a Lusterfolk."
+    f "不必道歉。我很高兴能回到这里，并和一位来自昔日友邻的朋友共同创造新的回忆。"
+
+translate schinese Furkan_Meet_Flower_e754d87c:
+
+    # "You part with Furkan. It's time to return to Rahim with the mums."
+    "你和弗坎道别，该带着采到的花回到雷希姆那里了。"
+
 translate schinese goat_talking_sequence_76c41dec:
 
     # "You look at the two goats slacking off on the barrels."
