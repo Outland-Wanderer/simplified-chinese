@@ -2438,380 +2438,380 @@ translate schinese Cane_Apron_Quest_faf83351:
     # c "And remember the bet between me and ya, sleazy ass."
     c "也别忘了我们的赌约，小浪蛋。"
 
-# translate schinese Cane_Sebas_Tavern_Night_af64c90b:
+translate schinese Cane_Sebas_Tavern_Night_af64c90b:
 
-#     # "You go around, handing out drinks as per usual."
-#     ""
+    # "You go around, handing out drinks as per usual."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_2c9b77b4:
+translate schinese Cane_Sebas_Tavern_Night_2c9b77b4:
 
-#     # "From the corner of your eyes, you see Seb slumped on the table in the corner."
-#     ""
+    # "From the corner of your eyes, you see Seb slumped on the table in the corner."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_7b420926:
+translate schinese Cane_Sebas_Tavern_Night_7b420926:
 
-#     # "This time, however, he seems to be betting with a handful of people at his table."
-#     ""
+    # "This time, however, he seems to be betting with a handful of people at his table."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_1f61fdb8:
+translate schinese Cane_Sebas_Tavern_Night_1f61fdb8:
 
-#     # "You shake your head. Typical Seb."
-#     ""
+    # "You shake your head. Typical Seb."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_bd4183f5:
+translate schinese Cane_Sebas_Tavern_Night_bd4183f5:
 
-#     # "A stern glare pierces straight through you from the counter. While he was being toasted by the customers, Cane still had time to glare at you for slacking."
-#     ""
+    # "A stern glare pierces straight through you from the counter. While he was being toasted by the customers, Cane still had time to glare at you for slacking."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_a5a79653:
+translate schinese Cane_Sebas_Tavern_Night_a5a79653:
 
-#     # "Fearful of Cane deducting your pay, you quickly hurry back to work."
-#     ""
+    # "Fearful of Cane deducting your pay, you quickly hurry back to work."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_b6add6b9:
+translate schinese Cane_Sebas_Tavern_Night_b6add6b9:
 
-#     # "The situation with Seb out of mind, you jerk in surprise as a commotion erupts in the tavern."
-#     ""
+    # "The situation with Seb out of mind, you jerk in surprise as a commotion erupts in the tavern."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_2d7f5c3c:
+translate schinese Cane_Sebas_Tavern_Night_2d7f5c3c:
 
-#     # "It's coming from Seb's table."
-#     ""
+    # "It's coming from Seb's table."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_3f151d9c:
+translate schinese Cane_Sebas_Tavern_Night_3f151d9c:
 
-#     # "The group from earlier is shouting at a drunken Seb."
-#     ""
+    # "The group from earlier is shouting at a drunken Seb."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_f46decec:
+translate schinese Cane_Sebas_Tavern_Night_f46decec:
 
-#     # patron "Hey, lion. Pay up! You owe us 1000 gold!"
-#     patron ""
+    # patron "Hey, lion. Pay up! You owe us 1000 gold!"
+    patron ""
 
-# translate schinese Cane_Sebas_Tavern_Night_0c2e927d:
+translate schinese Cane_Sebas_Tavern_Night_0c2e927d:
 
-#     # "The lion only grumbles unintelligibly."
-#     ""
+    # "The lion only grumbles unintelligibly."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_427046d8:
+translate schinese Cane_Sebas_Tavern_Night_427046d8:
 
-#     # patron "Don't play drunk! We're getting that money today one way or another!"
-#     patron ""
+    # patron "Don't play drunk! We're getting that money today one way or another!"
+    patron ""
 
-# translate schinese Cane_Sebas_Tavern_Night_aa21b4d1:
+translate schinese Cane_Sebas_Tavern_Night_aa21b4d1:
 
-#     # "You hurry to go help your roommate, but before you can, a shadow flies out from behind the counter."
-#     ""
+    # "You hurry to go help your roommate, but before you can, a shadow flies out from behind the counter."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_1211882d:
+translate schinese Cane_Sebas_Tavern_Night_1211882d:
 
-#     # "Cane grabs the main aggressor by the collar, and easily lifts him off the ground with one arm."
-#     ""
+    # "Cane grabs the main aggressor by the collar, and easily lifts him off the ground with one arm."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_f0e6e5a6:
+translate schinese Cane_Sebas_Tavern_Night_f0e6e5a6:
 
-#     # c "Just what do ye think yer doin' in my tavern?"
-#     c ""
+    # c "Just what do ye think yer doin' in my tavern?"
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_94dde996:
+translate schinese Cane_Sebas_Tavern_Night_94dde996:
 
-#     # "Cane sounds furious. Never in the time you've met him have you seen him raise his voice like this."
-#     ""
+    # "Cane sounds furious. Never in the time you've met him have you seen him raise his voice like this."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_1326d423:
+translate schinese Cane_Sebas_Tavern_Night_1326d423:
 
-#     # patron "We... we just want to get... what the lion owes us."
-#     patron ""
+    # patron "We... we just want to get... what the lion owes us."
+    patron ""
 
-# translate schinese Cane_Sebas_Tavern_Night_f1512314:
+translate schinese Cane_Sebas_Tavern_Night_f1512314:
 
-#     # "Cane's face shifts into a mask of pure, visceral disgust, a growl entering his normally soothing voice."
-#     ""
+    # "Cane's face shifts into a mask of pure, visceral disgust, a growl entering his normally soothing voice."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_ed102f3f:
+translate schinese Cane_Sebas_Tavern_Night_ed102f3f:
 
-#     # c "I can' tell if ye think I'm blind or stupid. I've been watching ya'll all evenin'."
-#     c ""
+    # c "I can' tell if ye think I'm blind or stupid. I've been watching ya'll all evenin'."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_68878885:
+translate schinese Cane_Sebas_Tavern_Night_68878885:
 
-#     # c "Ain't nobody gonna take advantage o' another Lusterfield citizen while I'm still around."
-#     c ""
+    # c "Ain't nobody gonna take advantage o' another Lusterfield citizen while I'm still around."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_8ee3edc9:
+translate schinese Cane_Sebas_Tavern_Night_8ee3edc9:
 
-#     # c "Now do ya wanna get out of here walkin', or do ya want me to throw you out on yer asses to crawl like maggots?"
-#     c ""
+    # c "Now do ya wanna get out of here walkin', or do ya want me to throw you out on yer asses to crawl like maggots?"
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_42cccfb1:
+translate schinese Cane_Sebas_Tavern_Night_42cccfb1:
 
-#     # "The troublemakers shiver in fear as the whole tavern rises up to support the barkeep."
-#     ""
+    # "The troublemakers shiver in fear as the whole tavern rises up to support the barkeep."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_b0afc2d8:
+translate schinese Cane_Sebas_Tavern_Night_b0afc2d8:
 
-#     # "Outnumbered, they quickly retreat."
-#     ""
+    # "Outnumbered, they quickly retreat."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_751919cc:
+translate schinese Cane_Sebas_Tavern_Night_751919cc:
 
-#     # "Now that they're gone, Cane's face shifts mostly back to normal, though you still see his anger from the way his face is tensed rigid despite his smile."
-#     ""
+    # "Now that they're gone, Cane's face shifts mostly back to normal, though you still see his anger from the way his face is tensed rigid despite his smile."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_6c91324b:
+translate schinese Cane_Sebas_Tavern_Night_6c91324b:
 
-#     # "Cane, waves you over."
-#     ""
+    # "Cane, waves you over."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_cb9359bf:
+translate schinese Cane_Sebas_Tavern_Night_cb9359bf:
 
-#     # c "[e], come 'ere."
-#     c ""
+    # c "[e], come 'ere."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_d50851a3:
+translate schinese Cane_Sebas_Tavern_Night_d50851a3:
 
-#     # "You oblige."
-#     ""
+    # "You oblige."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_3383e214:
+translate schinese Cane_Sebas_Tavern_Night_3383e214:
 
-#     # "Cane gestures at the prone Sebas."
-#     ""
+    # "Cane gestures at the prone Sebas."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_8e0b74fa:
+translate schinese Cane_Sebas_Tavern_Night_8e0b74fa:
 
-#     # c "Ah think the lion boy's 'ad too much to drink again."
-#     c ""
+    # c "Ah think the lion boy's 'ad too much to drink again."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_ddb98fb8:
+translate schinese Cane_Sebas_Tavern_Night_ddb98fb8:
 
-#     # c "'e's not gonna walk back on his own like this, and I think yer not strong enough to haul him back either."
-#     c ""
+    # c "'e's not gonna walk back on his own like this, and I think yer not strong enough to haul him back either."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_613cb8ca:
+translate schinese Cane_Sebas_Tavern_Night_613cb8ca:
 
-#     # "Cane has calmed down significantly at this point, his body language returning to normal."
-#     ""
+    # "Cane has calmed down significantly at this point, his body language returning to normal."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_94c7a4d3:
+translate schinese Cane_Sebas_Tavern_Night_94c7a4d3:
 
-#     # c "Why don't ya bring 'im to my room. I need to clear the table. Got a business to run 'ere."
-#     c ""
+    # c "Why don't ya bring 'im to my room. I need to clear the table. Got a business to run 'ere."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_96d70726:
+translate schinese Cane_Sebas_Tavern_Night_96d70726:
 
-#     # "You pick Seb up and off the table, and carry him to the room at the back of the counter."
-#     ""
+    # "You pick Seb up and off the table, and carry him to the room at the back of the counter."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_d9b42db9:
+translate schinese Cane_Sebas_Tavern_Night_d9b42db9:
 
-#     # "The bed is made. You gingerly lay Seb down on it."
-#     ""
+    # "The bed is made. You gingerly lay Seb down on it."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_aeee70c5:
+translate schinese Cane_Sebas_Tavern_Night_aeee70c5:
 
-#     # "Seb grumbles something nonsensical."
-#     ""
+    # "Seb grumbles something nonsensical."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_714229c5:
+translate schinese Cane_Sebas_Tavern_Night_714229c5:
 
-#     # "You tuck him under the covers and return to work."
-#     ""
+    # "You tuck him under the covers and return to work."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_67099b53:
+translate schinese Cane_Sebas_Tavern_Night_67099b53:
 
-#     # "The night is drawing to a close. There were an unexpected number of patrons that night."
-#     ""
+    # "The night is drawing to a close. There were an unexpected number of patrons that night."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_22e25a0e:
+translate schinese Cane_Sebas_Tavern_Night_22e25a0e:
 
-#     # "You were able to deflect most of the invitations to drink, but Cane was not so lucky."
-#     ""
+    # "You were able to deflect most of the invitations to drink, but Cane was not so lucky."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_1ef36495:
+translate schinese Cane_Sebas_Tavern_Night_1ef36495:
 
-#     # "He had drunk a lot. At closing time, he stood swaying at the door, reminding you of the first time you met him."
-#     ""
+    # "He had drunk a lot. At closing time, he stood swaying at the door, reminding you of the first time you met him."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_4f0165ba:
+translate schinese Cane_Sebas_Tavern_Night_4f0165ba:
 
-#     # c "Ye... Go home now... Good job... Today..."
-#     c ""
+    # c "Ye... Go home now... Good job... Today..."
+    c ""
 
-# translate schinese Cane_Sebas_Tavern_Night_8a04646e:
+translate schinese Cane_Sebas_Tavern_Night_8a04646e:
 
-#     # "You thank him but you're not quite sure if Cane understands you."
-#     ""
+    # "You thank him but you're not quite sure if Cane understands you."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_d0d0dd4c:
+translate schinese Cane_Sebas_Tavern_Night_d0d0dd4c:
 
-#     # "You walk back to the shop."
-#     ""
+    # "You walk back to the shop."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_944650f0:
+translate schinese Cane_Sebas_Tavern_Night_944650f0:
 
-#     # "You enter the door. You walk past the counter. And..."
-#     ""
+    # "You enter the door. You walk past the counter. And..."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_6a0ed89c:
+translate schinese Cane_Sebas_Tavern_Night_6a0ed89c:
 
-#     # "Oh crap."
-#     ""
+    # "Oh crap."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_e5086423:
+translate schinese Cane_Sebas_Tavern_Night_e5086423:
 
-#     # "You've forgotten something, or rather, someone important."
-#     ""
+    # "You've forgotten something, or rather, someone important."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_df210ab6:
+translate schinese Cane_Sebas_Tavern_Night_df210ab6:
 
-#     # "You turn back and head to the tavern."
-#     ""
+    # "You turn back and head to the tavern."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_306a36bc:
+translate schinese Cane_Sebas_Tavern_Night_306a36bc:
 
-#     # "To your surprise, the tavern door is left unlocked. Cane was probably too drunk to remember locking it. Thankfully, Lusterfield doesn't have much crime."
-#     ""
+    # "To your surprise, the tavern door is left unlocked. Cane was probably too drunk to remember locking it. Thankfully, Lusterfield doesn't have much crime."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_b6bfa508:
+translate schinese Cane_Sebas_Tavern_Night_b6bfa508:
 
-#     # "Cane is not perched at his usual post behind the counter. Then again, that's to be expected. It's already past the tavern's business hours."
-#     ""
+    # "Cane is not perched at his usual post behind the counter. Then again, that's to be expected. It's already past the tavern's business hours."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_0230dfac:
+translate schinese Cane_Sebas_Tavern_Night_0230dfac:
 
-#     # "You move to the room you left Seb in."
-#     ""
+    # "You move to the room you left Seb in."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_63e18892:
+translate schinese Cane_Sebas_Tavern_Night_63e18892:
 
-#     # "You are about to call out either Seb's or Cane's name, when you hear a creaking sound coming from the room."
-#     ""
+    # "You are about to call out either Seb's or Cane's name, when you hear a creaking sound coming from the room."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_33f0b779:
+translate schinese Cane_Sebas_Tavern_Night_33f0b779:
 
-#     # "You pause at the door."
-#     ""
+    # "You pause at the door."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_8c884012:
+translate schinese Cane_Sebas_Tavern_Night_8c884012:
 
-#     # "You perk up your ears. You believe you hear someone moaning. But whether it was Seb or Cane, you are unsure."
-#     ""
+    # "You perk up your ears. You believe you hear someone moaning. But whether it was Seb or Cane, you are unsure."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_b2ada32a:
+translate schinese Cane_Sebas_Tavern_Night_b2ada32a:
 
-#     # "Curiosity compels you to ease the door open slightly."
-#     ""
+    # "Curiosity compels you to ease the door open slightly."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_6a9db2f3:
+translate schinese Cane_Sebas_Tavern_Night_6a9db2f3:
 
-#     # "You pack a raging boner as you run back to the shop."
-#     ""
+    # "You pack a raging boner as you run back to the shop."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_93061099:
+translate schinese Cane_Sebas_Tavern_Night_93061099:
 
-#     # "You rush into your room and quickly rub one out while the scene you saw is still fresh in your mind."
-#     ""
+    # "You rush into your room and quickly rub one out while the scene you saw is still fresh in your mind."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_bd9b7093:
+translate schinese Cane_Sebas_Tavern_Night_bd9b7093:
 
-#     # "After the moment of ecstasy is gone, you calm down and ponder over what you saw and heard."
-#     ""
+    # "After the moment of ecstasy is gone, you calm down and ponder over what you saw and heard."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_f030fa62:
+translate schinese Cane_Sebas_Tavern_Night_f030fa62:
 
-#     # "Seb always has your best interests in mind."
-#     ""
+    # "Seb always has your best interests in mind."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_d3065f63:
+translate schinese Cane_Sebas_Tavern_Night_d3065f63:
 
-#     # "Cane might not look the part, but it seems like he has taken some sort of responsibility over you."
-#     ""
+    # "Cane might not look the part, but it seems like he has taken some sort of responsibility over you."
+    ""
 
-# translate schinese Cane_Sebas_Tavern_Night_2ae663ad:
+translate schinese Cane_Sebas_Tavern_Night_2ae663ad:
 
-#     # "You feel warm... Spent from a hot night, you slowly drift off to sleep."
-#     ""
+    # "You feel warm... Spent from a hot night, you slowly drift off to sleep."
+    ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_c54104e2:
+translate schinese Cane_After_Sebas_Tavern_Night_c54104e2:
 
-#     # c "So, how did yer lion friend get home last night?"
-#     c ""
+    # c "So, how did yer lion friend get home last night?"
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_2b40a022:
+translate schinese Cane_After_Sebas_Tavern_Night_2b40a022:
 
-#     # e "Huh?"
-#     e ""
+    # e "Huh?"
+    e ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_16c52b29:
+translate schinese Cane_After_Sebas_Tavern_Night_16c52b29:
 
-#     # c "I dragged him back."
-#     c ""
+    # c "I dragged him back."
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_0749a004:
+translate schinese Cane_After_Sebas_Tavern_Night_0749a004:
 
-#     # c "Ye weren't there to help."
-#     c ""
+    # c "Ye weren't there to help."
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_a4453677:
+translate schinese Cane_After_Sebas_Tavern_Night_a4453677:
 
-#     # e "Did nothing else happen?"
-#     e ""
+    # e "Did nothing else happen?"
+    e ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_e395615e:
+translate schinese Cane_After_Sebas_Tavern_Night_e395615e:
 
-#     # c "What do ye mean?"
-#     c ""
+    # c "What do ye mean?"
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_e464566d:
+translate schinese Cane_After_Sebas_Tavern_Night_e464566d:
 
-#     # "Cane narrows his eyes at you."
-#     ""
+    # "Cane narrows his eyes at you."
+    ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_51b41dd3:
+translate schinese Cane_After_Sebas_Tavern_Night_51b41dd3:
 
-#     # "You avert your eyes."
-#     ""
+    # "You avert your eyes."
+    ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_1a400f0b:
+translate schinese Cane_After_Sebas_Tavern_Night_1a400f0b:
 
-#     # e "Nothing."
-#     e ""
+    # e "Nothing."
+    e ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_2a4df793:
+translate schinese Cane_After_Sebas_Tavern_Night_2a4df793:
 
-#     # c "Good. What d'ya need? A drink? Wanna work ya job?"
-#     c ""
+    # c "Good. What d'ya need? A drink? Wanna work ya job?"
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_0b56eb79:
+translate schinese Cane_After_Sebas_Tavern_Night_0b56eb79:
 
-#     # e "Maybe later."
-#     e ""
+    # e "Maybe later."
+    e ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_a9155d81:
+translate schinese Cane_After_Sebas_Tavern_Night_a9155d81:
 
-#     # "That was close. You're lucky to have gotten away from that without more questions from Cane."
-#     ""
+    # "That was close. You're lucky to have gotten away from that without more questions from Cane."
+    ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_bd70e5a8:
+translate schinese Cane_After_Sebas_Tavern_Night_bd70e5a8:
 
-#     # c "Hey, [e]!"
-#     c ""
+    # c "Hey, [e]!"
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_fb3f8a81:
+translate schinese Cane_After_Sebas_Tavern_Night_fb3f8a81:
 
-#     # "You turn around and see Cane grin dirtily at you."
-#     ""
+    # "You turn around and see Cane grin dirtily at you."
+    ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_7b303ddf:
+translate schinese Cane_After_Sebas_Tavern_Night_7b303ddf:
 
-#     # c "Thanks ye fer lockin' the tavern door when you left yesterday night."
-#     c ""
+    # c "Thanks ye fer lockin' the tavern door when you left yesterday night."
+    c ""
 
-# translate schinese Cane_After_Sebas_Tavern_Night_e07c34a1:
+translate schinese Cane_After_Sebas_Tavern_Night_e07c34a1:
 
-#     # "You blush as red as a tomato."
-#     ""
+    # "You blush as red as a tomato."
+    ""
 
 translate schinese Cane_Apron_Quest_End_43e8b76a:
 
